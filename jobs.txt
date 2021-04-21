@@ -23,7 +23,10 @@ PLEASE TRY THIS
 		- paste that path into the quotes in " cwd = '' " (right under the TODO)
 	4) run "./login.py"
 		- it should give you 3 options, depending on the option chosen it should
-		  move to that directory
+		  move to that directory, (keys 1, 2, or 3 move to that directory and any
+		  other key does nothing)
 			*i was getting a weird error but it still worked
 	5) add the same "FULL_PATH/login.py" to the end of your "~/.profile" file
 	6) try logging in again and see if the options pop-up
+
+
