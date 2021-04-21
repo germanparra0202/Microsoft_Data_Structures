@@ -1,0 +1,29 @@
+SOME NOTES
+Cron Jobs:
+	- run "crontab -e"
+	- insert "0 * * * * full_path_to_command/command"
+		- runs the command every hour
+
+Run at Login:
+	- edit "~/.profile"
+	- at bottom, insert "full_path_to_command/login.py"	
+
+PLEASE TRY THIS
+	lmk if you are getting errors -coleen
+	1) run "./login_test.py" in any directory
+		- if that works, you should have a file called example_data.txt in 
+		  the same directory
+		- check and see if the example_data.txt is a dictionary with 3 keys
+		  and 3 values, if not please lmk, none of the values should be empty
+		- i chose 3 directories that i thought we would all have but that might
+		  not be the case
+	2) in your shell, run pwd to get the path
+		- copy this to your clipboard
+	3) edit login.py
+		- paste that path into the quotes in " cwd = '' " (right under the TODO)
+	4) run "./login.py"
+		- it should give you 3 options, depending on the option chosen it should
+		  move to that directory
+			*i was getting a weird error but it still worked
+	5) add the same "FULL_PATH/login.py" to the end of your "~/.profile" file
+	6) try logging in again and see if the options pop-up
