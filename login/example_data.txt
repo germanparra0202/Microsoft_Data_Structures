@@ -1,0 +1,1 @@
+{"cse-20289-sp21-assignments-cgillila": "/escnfs/home/cgillila/Classes/cse-20289-sp21-assignments-cgillila", "Microsoft-Data-Structures-Project": "/escnfs/home/cgillila/Classes/DSProject/Microsoft-Data-Structures-Project", "sp21-cse-20312.01": "/escnfs/home/cgillila/esc-courses/sp21-cse-20312.01"}
