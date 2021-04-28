@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Uses unigram to find probabilites of commands. Assumes format of file is the format of the history file with date and time (this can easily be changed). Takes as many files as you want, just list them all as command line arguments. Creates a dictionary with the FIRST WORD of each command as the key and the probabilities as the value. Calls test function which given previous commands, prints the FIRST WORD of the following command with the highest probability, along with its probability 
+# Uses ngrams to find probabilites of commands. Assumes format of file is the format of the history file with date and time (this can easily be changed). Takes as many files as you want, just list them all as command line arguments. Creates a dictionary with the FIRST WORD of each command as the key and the probabilities as the value. Calls test function which given previous commands, prints the FIRST WORD of the following command with the highest probability, along with its probability 
 
 import sys
 
