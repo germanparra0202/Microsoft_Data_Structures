@@ -22,6 +22,10 @@ f.close()
 #################################
 #         keep this next part   #
 #################################
+# import os
+
+HOME = os.getenv('HOME')
+USER = os.getenv('USER')
 # Available Directories
 directories = [key for key in example_data.keys()]
 
