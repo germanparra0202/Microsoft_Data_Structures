@@ -15,7 +15,7 @@ def main():
 			while f.read(1) != b'\n':
 				f.seek(-2,os.SEEK_CUR)
 			last = f.readline().decode().strip()
-	
+
 		last_hist_num = int(last[0:4])
 		
 		beg_year = 20
@@ -27,7 +27,6 @@ def main():
 		last_sec = last[21:23]
 		
 		convert_epoch = int(datetime.datetime(int(f'{beg_year}{end_year}'), int(last_month), int(last_day), int(last_hour), int(last_min), int(last_sec)).timestamp())
-	
 	else:
 		convert_epoch = 0
 
@@ -37,6 +36,10 @@ def main():
 	for line in os.popen('cat ~/.bash_history'):
 		i+=1
 		if( (i%2) == 1):
+			if( not line.startswith("#") ):
+				i+=1
+				continue
+			line = line.strip()
 			epoch = int(line[1:])
 			if (epoch > convert_epoch):
 				epoch = datetime.datetime.fromtimestamp(int(epoch))
