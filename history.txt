@@ -1,0 +1,1630 @@
+  116  04/27/21 09:49:21 make test
+  117  04/27/21 09:49:21 make test-all
+  118  04/27/21 09:49:21 vim Makefile 
+  119  04/27/21 09:49:21 vim str_title.c
+  120  04/27/21 09:49:21 cd cse-20289-sp21-assignments-matt-schoessling/reading10
+  121  04/27/21 09:49:21 make test
+  122  04/27/21 09:49:21 make
+  123  04/27/21 09:49:21 ./str_title "harry ppotter"
+  124  04/27/21 09:49:21 make
+  125  04/27/21 09:49:21 ./str_title "harry ppotter"
+  126  04/27/21 09:49:21 make clean
+  127  04/27/21 09:49:21 make
+  128  04/27/21 09:49:21 ./str_title "harry ppotter"
+  129  04/27/21 09:49:21 make
+  130  04/27/21 09:49:21 ./str_title "harry ppotter"
+  131  04/27/21 09:49:21 gdb
+  132  04/27/21 09:49:21 clear
+  133  04/27/21 09:49:21 gdb
+  134  04/27/21 09:49:21 debuginfo-install glibc-2.17-292.el7.x86_64
+  135  04/27/21 09:49:21 gdb
+  136  04/27/21 09:49:21 gdb --args str_title "harry potter"
+  137  04/27/21 09:49:21 clear
+  138  04/27/21 09:49:21 make test
+  139  04/27/21 09:49:21 vim answers.json
+  140  04/27/21 09:49:21 ../.scripts/check.py
+  141  04/27/21 09:49:21 git add answers.json
+  142  04/27/21 09:49:21 git commit -m "Reading 10 Quiz"
+  143  04/27/21 09:49:21 git add Makefile
+  144  04/27/21 09:49:21 git add str_title.c
+  145  04/27/21 09:49:21 git commit -m "Reading 10: Code"
+  146  04/27/21 09:49:21 git push -u origin reading10
+  147  04/27/21 09:49:21 cd DS/
+  148  04/27/21 09:49:21 git checkout Lab09
+  149  04/27/21 09:49:21 git checkout -b Lab09
+  150  04/27/21 09:49:21 mkdir Lab09
+  151  04/27/21 09:49:21 cd LAb09
+  152  04/27/21 09:49:21 cd Lab09
+  153  04/27/21 09:49:21 wget https://raw.githubusercontent.com/mmorri22/sp21-cse-20312/main/Lab09/setup.sh
+  154  04/27/21 09:49:21 chmod a+rx setup.sh
+  155  04/27/21 09:49:21 ./setup.sh
+  156  04/27/21 09:49:21 ls *
+  157  04/27/21 09:49:21 vim src/MaxPathSum.cpp 
+  158  04/27/21 09:49:21 make MaxPathSum
+  159  04/27/21 09:49:21 clear
+  160  04/27/21 09:49:21 make MaxPathSum
+  161  04/12/21 14:57:14 vim ./bashrc
+  162  04/12/21 14:57:25 vim .bashrc
+  163  04/12/21 15:00:28 source ~/.bashrc
+  164  04/12/21 15:01:37 vim .bashrc
+  165  04/12/21 15:02:09 source ~/.bashrc
+  166  04/12/21 15:02:12 ls
+  167  04/12/21 15:02:17 cat grade.out
+  168  04/12/21 15:02:21 rm grade.ut
+  169  04/12/21 15:02:28 rm grade.out
+  170  04/12/21 15:02:31 ls
+  171  04/12/21 15:02:36 rm mwc
+  172  04/12/21 15:03:04 cd esc-courses/sp21-cse-20312.01/dropbox
+  173  04/12/21 15:03:05 ls
+  174  04/12/21 15:04:17 cd ~
+  175  04/12/21 15:04:21 history
+  176  04/12/21 15:04:33 clear
+  177  04/12/21 16:19:27 history
+  178  04/12/21 16:19:38 clear
+  179  04/12/21 16:30:06 mkdir DSProject
+  180  04/12/21 16:30:11 cd DSProject
+  181  04/12/21 16:30:12 ls
+  182  04/12/21 16:30:22 vim README.md
+  183  04/12/21 16:31:01 echo "# Microsoft-Data-Structures-Project" >> README.md
+  184  04/12/21 16:31:04 git init
+  185  04/12/21 16:31:11 git add README.md
+  186  04/12/21 16:31:20 git commit -m "first commit"
+  187  04/12/21 16:31:26 git branch -M main
+  188  04/12/21 16:31:36 git remote add origin git@github.com:matt-schoessling/Microsoft-Data-Structures-Project.git
+  189  04/12/21 16:31:44 git push -u origin main
+  190  04/12/21 16:31:50 git branch
+  191  04/12/21 18:39:40 ls
+  192  04/12/21 18:39:43 cat README.md 
+  193  04/12/21 18:39:51 vim README.md 
+  194  04/12/21 18:40:09 git add README.md
+  195  04/12/21 18:40:16 git commit -m "2nd commit"
+  196  04/12/21 18:40:58 git push -u origin main
+  197  04/13/21 12:49:32 cd esc-courses/sp21-cse-20312.01/dropbox/
+  198  04/13/21 12:49:36 mkdir Lec19
+  199  04/13/21 12:49:41 cd Lec19
+  200  04/13/21 12:49:44 wget https://raw.githubusercontent.com/mmorri22/sp21-cse-20312/main/Lec19/setup.sh
+  201  04/13/21 12:49:50 chmod a+rx setup.sh
+  202  04/13/21 12:49:54 ./setup.sh
+  203  04/13/21 13:05:09 make BST3
+  204  04/13/21 13:05:15 make testBST3
+  205  04/13/21 13:09:53 vim inc/BST.h
+  206  04/13/21 13:29:30 make testBST4
+  207  04/13/21 13:29:45 vim inc/BST.h
+  208  04/13/21 13:30:05 make testBST4
+  209  04/13/21 13:33:50 make Prob1
+  210  04/13/21 13:33:59 make Prob2
+  211  04/13/21 13:45:59 make testAVL1
+  212  04/13/21 14:01:05 make Prob3
+  213  04/13/21 14:01:24 test.h
+  214  04/13/21 14:01:27 ./test.h
+  215  04/14/21 21:21:39 history
+  216  04/14/21 21:21:58 ls
+  217  04/14/21 21:22:04 history
+  218  04/14/21 21:22:10 ls
+  219  04/14/21 21:22:11 clear
+  220  04/14/21 21:22:12 history
+  221  04/14/21 21:28:28 cd esc-courses/
+  222  04/14/21 21:29:26 cd sp21-cse-20312.01/
+  223  04/14/21 21:29:31 cd dropbox/
+  224  04/14/21 21:29:33 history
+  225  04/14/21 21:29:52 clear
+  226  04/14/21 21:29:53 history
+  227  04/14/21 21:30:00 clear
+  228  04/14/21 21:30:02 history 100
+  229  04/14/21 21:30:09 history 2000
+  230  04/14/21 21:30:18 clear
+  231  04/15/21 12:47:18 cd esc-courses/sp21-cse-20312.01/dropbox/
+  232  04/15/21 12:47:22 mkdir Lec20
+  233  04/15/21 12:47:25 cd Lec20
+  234  04/15/21 12:47:34 wget https://raw.githubusercontent.com/mmorri22/sp21-cse-20312/main/Lec20/setup.sh
+  235  04/15/21 12:47:52 chmod a+rx ./setup.sh
+  236  04/15/21 12:47:56 ./setup.sh
+  237  04/15/21 12:48:08 ls *
+  238  04/15/21 12:55:45 history
+  239  04/15/21 12:55:55 clear
+  240  04/15/21 13:30:58 make PRob1
+  241  04/15/21 13:31:02 make Prob1
+  242  04/15/21 13:33:24 make Prob2
+  243  04/15/21 13:49:33 AVTREE class
+  244  04/15/21 14:00:32 make Prob3
+  245  04/15/21 14:00:41 ls
+  246  04/15/21 14:00:45 ./test.sh
+  247  04/17/21 17:26:47 cd cse-20289-sp21-assignments-matt-schoessling/
+  248  04/17/21 17:27:16 git checkout master
+  249  04/17/21 17:27:21 git pull --rebase
+  250  04/17/21 17:27:29 git checkout -b reading11
+  251  04/17/21 17:27:42 cd reading11
+  252  04/17/21 17:27:53 curl -LO https://raw.githubusercontent.com/nd-cse-20289-sp21/cse-20289-sp21-assignments/master/reading11/Makefile
+  253  04/17/21 17:27:58 curl -LO https://raw.githubusercontent.com/nd-cse-20289-sp21/cse-20289-sp21-assignments/master/reading11/walk.c
+  254  04/17/21 17:28:01 make test
+  255  04/17/21 17:28:18 vim answers.json
+  256  04/17/21 17:31:14 vim Makefile 
+  257  04/17/21 17:33:09 make test
+  258  04/17/21 17:33:38 make clean
+  259  04/17/21 17:33:39 make
+  260  04/17/21 17:34:06 make clean
+  261  04/17/21 17:34:19 vim Makefile 
+  262  04/17/21 17:34:38 make
+  263  04/17/21 17:34:39 make clean
+  264  04/17/21 17:34:40 make
+  265  04/17/21 17:34:57 vim Makefile
+  266  04/17/21 17:35:07 make
+  267  04/17/21 17:35:28 vim Makefile
+  268  04/17/21 17:35:35 make
+  269  04/17/21 17:35:39 make clean
+  270  04/17/21 17:35:40 make
+  271  04/17/21 17:35:47 vim Makefile
+  272  04/17/21 17:35:56 make clean
+  273  04/17/21 17:35:57 make
+  274  04/17/21 17:36:22 make clean
+  275  04/17/21 17:36:23 make
+  276  04/17/21 17:37:13 ls
+  277  04/17/21 17:37:16 vim walk.c
+  278  04/17/21 17:55:09 ./walk
+  279  04/17/21 17:55:13 make clean
+  280  04/17/21 17:55:14 make
+  281  04/17/21 17:55:17 ./walk
+  282  04/17/21 17:55:32 ./walk ..
+  283  04/17/21 17:56:22 make test
+  284  04/17/21 17:56:50 vim walk.c
+  285  04/17/21 17:58:08 make clean
+  286  04/17/21 17:58:09 make
+  287  04/17/21 17:58:11 make test
+  288  04/17/21 17:59:16 ../.scripts/check.py
+  289  04/17/21 18:08:08 git add answers.json
+  290  04/17/21 18:08:31 git commit -m "Reading 11: Quiz"
+  291  04/17/21 18:08:53 git add Makefile
+  292  04/17/21 18:08:56 git add walk.c
+  293  04/17/21 18:09:07 git commit -m "Reading 11: Code"
+  294  04/17/21 18:09:17 git push -u origin reading11
+  295  04/18/21 11:39:00 cd esc-courses/sp21-cse-30321.01//public/Lab03/Question01/
+  296  04/18/21 11:39:01 ls
+  297  04/18/21 11:39:12 cat no_blocking.c 
+  298  04/18/21 11:42:35 cd ~/CompArch/
+  299  04/18/21 11:42:36 ls
+  300  04/18/21 11:42:45 vim no_blocking.c
+  301  04/18/21 11:43:08 gcc no_blocking.c 
+  302  04/18/21 11:43:11 ./a.out
+  303  04/18/21 11:43:14 vim no_blocking.c
+  304  04/18/21 11:44:42 gcc no_blocking.c 
+  305  04/18/21 11:44:46 vim no_blocking.c
+  306  04/18/21 11:45:14 gcc no_blocking.c 
+  307  04/18/21 11:45:16 ./a.out
+  308  04/18/21 11:45:56 vim no_blocking.c
+  309  04/18/21 11:46:11 gcc no_blocking.c 
+  310  04/18/21 11:46:12 ./a.out
+  311  04/18/21 11:47:25 vim no_blocking.c
+  312  04/18/21 11:48:42 gcc no_blocking.c 
+  313  04/18/21 11:48:43 ./a.out
+  314  04/18/21 11:51:07 vim no_blocking.c
+  315  04/18/21 11:51:24 clear
+  316  04/18/21 11:51:26 gcc no_blocking.c 
+  317  04/18/21 11:51:31 ./a.out
+  318  04/18/21 11:58:02 vim no_blocking.c
+  319  04/18/21 11:58:57 gcc no_blocking.c 
+  320  04/18/21 11:58:59 ./a.out
+  321  04/18/21 12:13:56 vim no_blocking.c
+  322  04/18/21 12:14:13 gcc no_blocking.c 
+  323  04/18/21 12:14:15 ./a.out
+  324  04/18/21 12:23:15 vim no_blocking.c
+  325  04/18/21 12:39:50 gcc no_blocking.c 
+  326  04/18/21 12:39:52 ./a.out
+  327  04/18/21 12:39:58 vim no_blocking.c
+  328  04/18/21 12:40:05 gcc no_blocking.c 
+  329  04/18/21 12:40:06 ./a.out
+  330  04/18/21 12:40:11 vim no_blocking.c
+  331  04/18/21 12:41:10 gcc no_blocking.c 
+  332  04/18/21 12:41:12 vim no_blocking.c
+  333  04/18/21 12:41:27 gcc no_blocking.c 
+  334  04/18/21 12:41:29 ./a.out
+  335  04/18/21 12:41:49 vim no_blocking.c
+  336  04/18/21 12:43:09 gcc no_blocking.c 
+  337  04/18/21 12:43:10 ./a.out
+  338  04/18/21 12:43:14 vim no_blocking.c
+  339  04/18/21 12:44:48 gcc no_blocking.c 
+  340  04/18/21 12:44:49 ./a.out
+  341  04/18/21 12:48:28 vim no_blocking.c
+  342  04/18/21 12:56:30 gcc no_blocking.c 
+  343  04/18/21 12:56:36 vim no_blocking.c
+  344  04/18/21 12:56:46 gcc no_blocking.c 
+  345  04/18/21 12:56:49 ./a.out
+  346  04/18/21 20:19:56 cd cse-20289-sp21-assignments-matt-schoessling/homework07
+  347  04/18/21 20:19:57 ls
+  348  04/18/21 19:22:55 user
+  349  04/18/21 19:22:56 users
+  350  04/18/21 19:23:26 clear
+  351  04/18/21 19:23:27 ls
+  352  04/18/21 19:23:36 clear
+  353  04/18/21 19:23:39 cd cse-20289-sp21-assignments-matt-schoessling/
+  354  04/18/21 19:23:44 git checkout master
+  355  04/18/21 19:23:48 git pull --rebase
+  356  04/18/21 19:23:59 git checkout -b homework08
+  357  04/18/21 20:04:32 ls
+  358  04/18/21 20:04:37 curl -LO https://raw.githubusercontent.com/nd-cse-20289-sp21/cse-20289-sp21-assignments/master/homework08/homework08.tar.gz
+  359  04/18/21 20:04:50 tar xzvf homework08.tar.gz
+  360  04/18/21 20:05:05 cat homework08
+  361  04/18/21 20:05:12 cd homework08
+  362  04/18/21 20:05:13 ld
+  363  04/18/21 20:05:16 ls
+  364  04/18/21 20:05:19 ls 
+  365  04/18/21 20:05:21 ls *
+  366  04/18/21 20:20:50 ls
+  367  04/18/21 20:20:55 vim Makefile 
+  368  04/18/21 20:21:04 make
+  369  04/18/21 20:21:07 vim Makefile 
+  370  04/18/21 20:33:20 make
+  371  04/18/21 20:22:39 cd cse-20289-sp21-assignments-matt-schoessling/homework08
+  372  04/18/21 20:22:40 ls
+  373  04/18/21 20:22:43 ls*
+  374  04/18/21 20:22:45 ls *
+  375  04/19/21 08:24:26 users
+  376  04/19/21 08:24:34 cd cse-20289-sp21-assignments-matt-schoessling/homework08
+  377  04/19/21 08:24:35 ls
+  378  04/19/21 08:25:51 make
+  379  04/19/21 08:28:56 clear
+  380  04/19/21 08:35:10 make
+  381  04/19/21 08:41:59 make clean
+  382  04/19/21 08:42:02 ls *
+  383  04/19/21 08:42:23 rm libtable.a
+  384  04/19/21 08:43:01 clear
+  385  04/19/21 08:43:03 ls *
+  386  04/19/21 08:43:04 make
+  387  04/19/21 08:43:17 ls *
+  388  04/19/21 08:43:35 make clean
+  389  04/19/21 08:43:38 ls *
+  390  04/19/21 08:43:41 clear
+  391  04/19/21 08:43:42 make
+  392  04/19/21 08:52:40 make test
+  393  04/19/21 09:19:05 ls *
+  394  04/19/21 09:23:42 make
+  395  04/19/21 09:25:31 ls *
+  396  04/19/21 09:26:43 make
+  397  04/19/21 08:22:57 cd cse-20289-sp21-assignments-matt-schoessling/homework08
+  398  04/19/21 08:22:58 ls
+  399  04/19/21 08:23:04 make
+  400  04/19/21 08:23:52 vim Makefile 
+  401  04/19/21 12:44:24 cd cse-20289-sp21-assignments-matt-schoessling/homework08
+  402  04/19/21 12:44:32 LS
+  403  04/19/21 12:44:36 ls
+  404  04/19/21 12:44:39 vim Makefile 
+  405  04/19/21 14:50:44 cd cse-20289-sp21-assignments-matt-schoessling/homework08
+  406  04/19/21 14:50:45 ls
+  407  04/19/21 14:50:51 rm libtable.a
+  408  04/19/21 14:50:54 vim Makefile
+  409  04/19/21 14:53:12 make
+  410  04/19/21 15:02:50 vim Makefile
+  411  04/19/21 15:14:31 make
+  412  04/19/21 15:17:28 make test
+  413  04/19/21 15:20:45 clear
+  414  04/19/21 15:21:35 make test-hash
+  415  04/19/21 15:22:03 clear
+  416  04/19/21 15:22:27 ./bin/unit_hash 0
+  417  04/19/21 15:22:37 ./bin/unit_hash 1
+  418  04/19/21 16:50:42 cd cse-20289-sp21-assignments-matt-schoessling/homework08
+  419  04/19/21 17:05:03 make test-hash
+  420  04/19/21 17:13:02 ./bin/unit_hash 0
+  421  04/19/21 17:14:25 make clean
+  422  04/19/21 17:14:27 make
+  423  04/19/21 17:14:35 ./bin/unit_hash 0
+  424  04/19/21 17:21:18 make
+  425  04/19/21 17:21:45 make clean
+  426  04/19/21 17:21:46 make
+  427  04/19/21 17:21:50 make test-hash
+  428  04/19/21 16:51:04 cd cse-20289-sp21-assignments-matt-schoessling/homework08
+  429  04/19/21 16:56:46 ls
+  430  04/19/21 16:56:48 ls *
+  431  04/19/21 16:56:49 clear
+  432  04/19/21 16:56:50 ls *
+  433  04/19/21 16:56:56 vim src/hash.c
+  434  04/19/21 16:51:14 cd cse-20289-sp21-assignments-matt-schoessling/homework08
+  435  04/19/21 16:51:15 ls
+  436  04/19/21 16:51:53 ls 
+  437  04/19/21 16:51:55 ls *
+  438  04/19/21 16:52:02 cat hash.h
+  439  04/19/21 16:52:08 cat include/hash.h
+  440  04/19/21 19:01:18 cd cse-20289-sp21-assignments-matt-schoessling/homework08
+  441  04/19/21 19:21:14 make test-hash
+  442  04/19/21 19:24:16 make
+  443  04/19/21 19:25:39 make test-hash
+  444  04/19/21 19:42:27 vim test-pair
+  445  04/19/21 19:42:31 ls *
+  446  04/19/21 19:42:46 vim bin/test_pair.sh 
+  447  04/19/21 19:43:04 vim bin/test_hash.sh 
+  448  04/19/21 19:43:12 lsl
+  449  04/19/21 19:43:14 clear
+  450  04/19/21 19:44:15 vim tests/unit_pair.c
+  451  04/19/21 19:01:28 cd cse-20289-sp21-assignments-matt-schoessling/homework08
+  452  04/19/21 19:50:41 vim include/pair.h
+  453  04/19/21 19:01:03 cd cse-20289-sp21-assignments-matt-schoessling/homework08
+  454  04/19/21 19:01:53 vim src/hash.c
+  455  04/19/21 19:40:27 vim src/pair.c
+  456  04/19/21 19:53:01 cd cse-20289-sp21-assignments-matt-schoessling/homework08
+  457  04/19/21 19:53:02 ls
+  458  04/19/21 19:57:40 ./bin/unit_pair 0
+  459  04/19/21 19:57:45 make
+  460  04/19/21 19:57:53 ./bin/unit_pair 0
+  461  04/19/21 19:58:08 ./bin/unit_hash 0
+  462  04/19/21 19:58:30 ls
+  463  04/19/21 19:58:36 ls *
+  464  04/19/21 19:58:57 make test-hash
+  465  04/19/21 19:58:59 ls
+  466  04/19/21 19:59:02 make test-pair
+  467  04/19/21 19:59:27 clean
+  468  04/19/21 19:59:29 clear
+  469  04/19/21 19:59:31 ls
+  470  04/19/21 19:59:39 cat Makefile 
+  471  04/19/21 20:06:28 ./bin/unit_pair
+  472  04/19/21 20:06:33 ./bin/unit_pair 0
+  473  04/19/21 20:16:21 man malloc
+  474  04/19/21 20:27:02 ./bin/unit_pair 0
+  475  04/19/21 20:42:05 make test-pair
+  476  04/19/21 20:44:24 make
+  477  04/19/21 20:44:26 make test-pair
+  478  04/19/21 21:09:02 man realloc
+  479  04/19/21 21:09:41 make test-pair
+  480  04/19/21 21:15:56 clear
+  481  04/19/21 21:16:16 make test-pair
+  482  04/19/21 22:05:09 users
+  483  04/19/21 22:10:12 clear
+  484  04/19/21 22:11:00 make test-pair
+  485  04/19/21 23:11:48 cd cse-20289-sp21-assignments-matt-schoessling/homework08
+  486  04/19/21 23:11:53 ls
+  487  04/19/21 23:11:54 ls *
+  488  04/19/21 23:12:01 vim include/table.h
+  489  04/19/21 23:59:28 vim src/pair.c
+  490  04/19/21 22:59:21 cd cse-20289-sp21-assignments-matt-schoessling/homework08
+  491  04/19/21 23:00:45 clear
+  492  04/19/21 23:01:31 ls
+  493  04/19/21 23:01:39 vim src/pair.c
+  494  04/19/21 23:12:44 vim src/table.c
+  495  04/19/21 22:59:32 cd cse-20289-sp21-assignments-matt-schoessling/homework08
+  496  04/19/21 23:00:19 make test-pair
+  497  04/19/21 23:03:26 man sprintf
+  498  04/19/21 23:07:42 make test-pair
+  499  04/19/21 23:30:59 make test-table
+  500  04/19/21 23:42:55 make test-table -s
+  501  04/19/21 23:43:09 make -s test-table
+  502  04/19/21 23:46:02 make test-table
+  503  04/19/21 23:46:41 clear
+  504  04/19/21 23:46:43 make test-table
+  505  04/19/21 23:58:19 clear
+  506  04/19/21 23:58:20 make test-table
+  507  04/20/21 00:00:25 clear
+  508  04/20/21 00:00:26 make test-table
+  509  04/20/21 00:08:47 clear
+  510  04/20/21 00:08:54 make test-table
+  511  04/20/21 00:09:18 clear
+  512  04/20/21 00:09:19 make test-table
+  513  04/19/21 22:59:48 cd cse-20289-sp21-assignments-matt-schoessling/homework08
+  514  04/19/21 22:59:51 ls *
+  515  04/19/21 23:00:07 vim tests/unit_pair.c
+  516  04/19/21 23:18:19 vim tests/unit_table.c
+  517  04/19/21 23:45:26 vim include/pair.h 
+  518  04/19/21 23:49:08 vim src/pair.c
+  519  04/19/21 23:53:44 ls *
+  520  04/19/21 23:53:57 vim tests/unit_table.c
+  521  04/20/21 09:29:51 cd cse-20289-sp21-assignments-matt-schoessling/homework08
+  522  04/20/21 09:29:54 clear
+  523  04/20/21 09:30:05 ls *
+  524  04/20/21 09:30:21 vim src/table.c
+  525  04/20/21 09:30:36 cd cse-20289-sp21-assignments-matt-schoessling/homework08
+  526  04/20/21 10:40:39 clear
+  527  04/20/21 10:40:45 make test-table
+  528  04/20/21 10:46:43 ./bin/unit_table 2
+  529  04/20/21 10:46:47 ./bin/unit_table 1
+  530  04/20/21 10:46:51 ./bin/unit_table 0
+  531  04/20/21 10:47:43 ./bin/unit_table 2
+  532  04/20/21 10:52:00 valgrind --leak-check ./bin/unit_table 2
+  533  04/20/21 10:52:13 valgrind --leak-check=full ./bin/unit_table 2
+  534  04/20/21 10:53:19 valgrind --leak-check=full --track-origins=yes ./bin/unit_table 2
+  535  04/20/21 11:07:29 make test_table
+  536  04/20/21 11:07:35 make test-table
+  537  04/20/21 12:15:22 clear
+  538  04/20/21 12:15:24 make test-table
+  539  04/20/21 12:31:48 man calloc
+  540  04/20/21 12:33:23 make test-table
+  541  04/20/21 09:30:48 clear
+  542  04/20/21 09:30:53 cd cse-20289-sp21-assignments-matt-schoessling/homework08
+  543  04/20/21 09:30:56 ls *
+  544  04/20/21 09:31:28 vim tests/unit_table.c 
+  545  04/20/21 09:39:51 cd cse-20289-sp21-assignments-matt-schoessling/homework08
+  546  04/20/21 09:39:52 ls
+  547  04/20/21 09:40:11 vim src/hash.c 
+  548  04/20/21 10:48:30 vim include/macros.h 
+  549  04/20/21 11:41:03 vim src/pair.c
+  550  04/20/21 13:54:55 cd cse-20289-sp21-assignments-matt-schoessling/homework08
+  551  04/20/21 13:55:04 clear
+  552  04/20/21 13:55:33 ls
+  553  04/20/21 13:55:35 ls *
+  554  04/20/21 13:56:27 cd src/table.c
+  555  04/20/21 13:56:39 vim src/table.c
+  556  04/20/21 14:40:05 vim src/duplicates.c
+  557  04/20/21 13:55:25 cd cse-20289-sp21-assignments-matt-schoessling/homework08
+  558  04/20/21 13:55:27 ls
+  559  04/20/21 13:55:31 clear
+  560  04/20/21 14:01:53 make test-table
+  561  04/20/21 14:39:57 clear
+  562  04/20/21 14:42:20 man 2 stat
+  563  04/20/21 14:44:05 ls
+  564  04/20/21 14:44:08 stat(lib)
+  565  04/20/21 14:44:12 stat
+  566  04/20/21 14:44:21 stat lib
+  567  04/20/21 14:44:30 stat Makefile 
+  568  04/20/21 14:46:20 man 2 stat
+  569  04/20/21 15:36:45 make test-duplicates
+  570  04/20/21 13:52:56 cd cse-20289-sp21-assignments-matt-schoessling/homework08
+  571  04/20/21 13:53:15 clear
+  572  04/20/21 14:10:10 vim tests/unit_table.c 
+  573  04/20/21 15:05:45 vim src/table.c 
+  574  04/20/21 13:54:32 cd cse-20289-sp21-assignments-matt-schoessling/homework08
+  575  04/20/21 13:54:33 clear
+  576  04/20/21 14:06:46 vim src/pair.c
+  577  04/20/21 14:58:15 ls
+  578  04/20/21 14:58:17 ls *
+  579  04/20/21 15:01:19 vim src/hash.c
+  580  04/20/21 15:14:15 ls *
+  581  04/20/21 15:18:51 src/hash.c
+  582  04/20/21 15:18:56 vim src/hash.c
+  583  04/20/21 17:43:43 cd CompArch/
+  584  04/20/21 17:43:44 ls
+  585  04/20/21 17:43:51 vim no_blocking.c 
+  586  04/20/21 17:34:10 cd CompArch/
+  587  04/20/21 17:34:11 ls
+  588  04/20/21 17:34:21 rm no_blocking.c 
+  589  04/20/21 17:34:28 vim no_blocking.c
+  590  04/20/21 17:34:49 gcc no_blocking.c 
+  591  04/20/21 17:34:54 ./a.out
+  592  04/20/21 17:36:06 gcc no_blocking.c 
+  593  04/20/21 17:36:07 ./a.out
+  594  04/20/21 17:36:16 gcc no_blocking.c 
+  595  04/20/21 17:36:18 ./a.out
+  596  04/20/21 17:36:24 clear
+  597  04/20/21 17:36:52 vim no_blocking.c 
+  598  04/20/21 17:43:14 gcc no_blocking.c 
+  599  04/20/21 17:44:33 ./a.out
+  600  04/20/21 17:49:43 gcc no_blocking.c 
+  601  04/20/21 17:49:44 ./a.out
+  602  04/20/21 17:53:55 cat no_blocking.c 
+  603  04/20/21 17:58:21 cp no_blocking.c ~/esc-courses/sp21-cse-30321.01/dropbox/
+  604  04/20/21 17:58:30 cd ~/esc-courses/sp21-cse-30321.01/dropbox/
+  605  04/20/21 17:58:31 ls
+  606  04/20/21 17:59:28 vim no_blocking.c 
+  607  04/20/21 18:00:15 gcc no_blocking.c 
+  608  04/20/21 18:00:18 ./a.out
+  609  04/20/21 18:00:59 vim no_blocking.c 
+  610  04/20/21 18:01:22 gcc no_blocking.c 
+  611  04/20/21 18:01:23 ./a.out
+  612  04/20/21 18:01:52 vim no_blocking.c 
+  613  04/20/21 18:03:05 gcc no_blocking.c 
+  614  04/20/21 18:03:06 ./a.out
+  615  04/20/21 18:03:15 vim no_blocking.c 
+  616  04/20/21 18:06:22 gcc no_blocking.c 
+  617  04/20/21 18:06:23 ./a.out
+  618  04/20/21 18:06:46 vim no_blocking.c 
+  619  04/20/21 18:06:55 gcc no_blocking.c 
+  620  04/20/21 18:07:00 ./a.out
+  621  04/20/21 18:10:28 vim no_blocking.c 
+  622  04/20/21 18:15:26 gcc no_blocking.c 
+  623  04/20/21 18:15:28 ./a.out
+  624  04/20/21 18:16:11 vim no_blocking.c 
+  625  04/20/21 18:16:24 gcc no_blocking.c 
+  626  04/20/21 18:16:25 ./a.out
+  627  04/20/21 18:16:37 vim no_blocking.c 
+  628  04/20/21 18:17:49 gcc no_blocking.c 
+  629  04/20/21 18:17:50 ./a.out
+  630  04/20/21 18:18:08 vim no_blocking.c 
+  631  04/20/21 18:18:19 gcc no_blocking.c 
+  632  04/20/21 18:18:22 ./a.out
+  633  04/20/21 18:11:45 cd esc-courses/sp21-cse-30321.01/public/Lab03
+  634  04/20/21 18:11:53 ls
+  635  04/20/21 18:12:07 cat Question01/no_blocking.c 
+  636  04/20/21 17:21:07 cd cse-20289-sp21-assignments-matt-schoessling/homework08
+  637  04/20/21 17:23:58 vim src/duplicates.c
+  638  04/20/21 17:24:13 cd cse-20289-sp21-assignments-matt-schoessling/homework08
+  639  04/20/21 17:24:22 vim src/hash.c
+  640  04/20/21 18:31:03 ls *
+  641  04/20/21 17:32:48 cd esc-courses/sp21-cse-30321.01/public/
+  642  04/20/21 17:32:49 ls
+  643  04/20/21 17:32:52 cd Lab03
+  644  04/20/21 17:32:53 ls
+  645  04/20/21 17:33:01 cd Question01
+  646  04/20/21 17:33:02 ls
+  647  04/20/21 17:33:07 vim no_blocking.c 
+  648  04/20/21 18:07:59 cd ~/cse-20289-sp21-assignments-matt-schoessling/homework08
+  649  04/20/21 18:08:00 ls
+  650  04/20/21 18:33:37 vim src/table.c
+  651  04/21/21 09:30:50 cd esc-courses/sp21-cse-20312.01/dropbox/
+  652  04/21/21 09:30:51 ls
+  653  04/21/21 09:30:55 cd Lec20
+  654  04/21/21 09:31:00 make Prob4
+  655  04/21/21 09:31:08 exit
+  656  04/21/21 18:32:14 cd cse-20289-sp21-assignments-matt-schoessling/homework08
+  657  04/21/21 18:32:04 cd cse-20289-sp21-assignments-matt-schoessling/homework08
+  658  04/21/21 18:32:27 vim src/duplicates.c 
+  659  04/21/21 18:31:15 cd cse-20289-sp21-assignments-matt-schoessling/homework08
+  660  04/21/21 18:51:23 man 2 stat
+  661  04/21/21 18:51:44 man 2 ls
+  662  04/21/21 18:51:48 man ls
+  663  04/21/21 18:52:04 strace(ls)
+  664  04/21/21 18:52:08 ls
+  665  04/21/21 18:52:10 strace
+  666  04/21/21 18:52:14 strace ls
+  667  04/21/21 18:52:45 man 2 fstat
+  668  04/21/21 18:54:41 ls
+  669  04/21/21 18:54:49 stat src
+  670  04/21/21 18:55:02 fstat src
+  671  04/21/21 18:55:09 stat src
+  672  04/21/21 18:57:22 man 2 stat
+  673  04/21/21 19:20:08 man ls
+  674  04/21/21 19:27:40 man 2 open
+  675  04/21/21 19:32:26 man 2 opendir
+  676  04/21/21 19:32:36 man opendir
+  677  04/21/21 20:21:45 cd cse-20289-sp21-assignments-matt-schoessling/homework08
+  678  04/21/21 20:22:18 ls
+  679  04/21/21 20:25:25 clear
+  680  04/21/21 20:25:31 man opendir
+  681  04/21/21 20:22:48 cd cse-20289-sp21-assignments-matt-schoessling/homework08
+  682  04/21/21 20:24:07 vim src/duplicates.c 
+  683  04/21/21 20:23:02 cd cse-20289-sp21-assignments-matt-schoessling/homework08
+  684  04/21/21 22:19:52 vim src/table.c 
+  685  04/22/21 10:51:18 cd cse-20289-sp21-assignments-matt-schoessling/homework08
+  686  04/22/21 10:51:24 vim src/duplicates.c
+  687  04/22/21 10:51:53 cd cse-20289-sp21-assignments-matt-schoessling/homework08
+  688  04/22/21 10:54:00 man opendri
+  689  04/22/21 10:54:03 man opendir
+  690  04/22/21 11:00:46 man 3 readdir
+  691  04/22/21 12:23:43 cd esc-courses/sp21-cse-20312.01/dropbox/
+  692  04/22/21 12:23:49 mkdir Lec22
+  693  04/22/21 12:23:52 cd Lec22
+  694  04/22/21 12:23:57 wget https://raw.githubusercontent.com/mmorri22/sp21-cse-20312/main/Lec22/setup.sh
+  695  04/22/21 12:24:03 chmod a+rx setup.sh
+  696  04/22/21 12:24:07 ./setup.sh
+  697  04/22/21 12:24:12 ls *
+  698  04/22/21 12:47:47 cd esc-courses/sp21-cse-20312.01/dropbox/
+  699  04/22/21 12:48:22 make Prob1
+  700  04/22/21 12:48:25 ls
+  701  04/22/21 12:48:28 cd Lec22
+  702  04/22/21 12:48:31 make Prob1
+  703  04/22/21 13:40:18 make Prob2
+  704  04/22/21 18:17:02 cd cse-20289-sp21-assignments-matt-schoessling/homework08
+  705  04/22/21 18:17:03 ls
+  706  04/22/21 18:17:14 make test-duplicates
+  707  04/22/21 18:21:35 man getcwd
+  708  04/22/21 18:27:55 clear
+  709  04/22/21 18:28:00 make test-duplicates
+  710  04/22/21 18:28:21 clear
+  711  04/22/21 18:28:23 make test-duplicates
+  712  04/22/21 18:28:32 make clean
+  713  04/22/21 18:28:34 clear
+  714  04/22/21 18:28:37 make test-duplicates
+  715  04/22/21 18:29:42 make clean
+  716  04/22/21 18:29:45 make test-duplicates
+  717  04/22/21 18:30:40 make clean
+  718  04/22/21 18:30:41 make test-duplicates
+  719  04/22/21 18:31:30 man sprintf
+  720  04/22/21 18:36:51 make clean
+  721  04/22/21 18:36:54 clear
+  722  04/22/21 18:36:59 make test-duplicates
+  723  04/22/21 18:37:37 man getcwd
+  724  04/22/21 18:40:39 make clean
+  725  04/22/21 18:40:41 clear
+  726  04/22/21 18:40:43 make test-duplicates
+  727  04/22/21 18:41:08 man getcwd
+  728  04/22/21 18:41:28 make test-duplicates
+  729  04/22/21 18:41:35 clear
+  730  04/22/21 18:41:41 make test-duplicates
+  731  04/22/21 18:42:17 clear
+  732  04/22/21 18:42:33 make test-duplicates
+  733  04/22/21 18:50:51 ./bin/duplicates -h
+  734  04/22/21 18:51:55 make
+  735  04/22/21 18:51:58 ./bin/duplicates -h
+  736  04/22/21 18:52:18 make
+  737  04/22/21 18:52:20 ./bin/duplicates -h
+  738  04/22/21 18:54:53 make
+  739  04/22/21 18:54:55 ./bin/duplicates -h
+  740  04/22/21 18:55:35 ls
+  741  04/22/21 18:55:46 cp README.md COPY.md
+  742  04/22/21 18:56:16 ./bin/duplicates README.md Makefile bin COPY.md
+  743  04/22/21 19:06:56 make
+  744  04/22/21 19:06:57 ./bin/duplicates README.md Makefile bin COPY.md
+  745  04/22/21 19:07:32 make
+  746  04/22/21 19:07:33 ./bin/duplicates README.md Makefile bin COPY.md
+  747  04/22/21 19:08:01 make
+  748  04/22/21 19:08:02 ./bin/duplicates README.md Makefile bin COPY.md
+  749  04/22/21 19:08:27 make
+  750  04/22/21 19:08:28 ./bin/duplicates README.md Makefile bin COPY.md
+  751  04/22/21 19:08:44 make
+  752  04/22/21 19:08:45 ./bin/duplicates README.md Makefile bin COPY.md
+  753  04/22/21 19:14:15 make
+  754  04/22/21 19:14:17 ./bin/duplicates README.md Makefile bin COPY.md
+  755  04/22/21 19:15:05 make
+  756  04/22/21 19:15:06 ./bin/duplicates README.md Makefile bin COPY.md
+  757  04/22/21 19:15:38 make
+  758  04/22/21 19:15:39 ./bin/duplicates README.md Makefile bin COPY.md
+  759  04/22/21 19:19:00 make
+  760  04/22/21 19:19:01 ./bin/duplicates README.md Makefile bin COPY.md
+  761  04/22/21 19:19:35 make
+  762  04/22/21 19:19:36 ./bin/duplicates README.md Makefile bin COPY.md
+  763  04/22/21 19:19:54 make
+  764  04/22/21 19:19:55 ./bin/duplicates README.md Makefile bin COPY.md
+  765  04/22/21 19:20:56 make
+  766  04/22/21 19:21:03 ./bin/duplicates README.md Makefile bin COPY.md
+  767  04/22/21 19:26:11 make
+  768  04/22/21 19:26:13 ./bin/duplicates README.md Makefile bin COPY.md
+  769  04/22/21 19:26:14 clear
+  770  04/22/21 19:26:16 make
+  771  04/22/21 19:26:18 ./bin/duplicates README.md Makefile bin COPY.md
+  772  04/22/21 19:27:54 make
+  773  04/22/21 19:27:55 ./bin/duplicates README.md Makefile bin COPY.md
+  774  04/22/21 19:28:26 make
+  775  04/22/21 19:28:27 ./bin/duplicates README.md Makefile bin COPY.md
+  776  04/22/21 19:29:36 make
+  777  04/22/21 19:29:49 ./bin/duplicates README.md Makefile bin COPY.md
+  778  04/22/21 19:30:37 man stat
+  779  04/22/21 19:30:44 man 2 stat
+  780  04/22/21 19:31:52 make
+  781  04/22/21 19:33:20 ./bin/duplicates README.md Makefile bin COPY.md
+  782  04/22/21 19:34:01 man 2 stat
+  783  04/22/21 19:35:17 make
+  784  04/22/21 19:35:34 man 2 stat
+  785  04/22/21 19:36:18 make
+  786  04/22/21 19:36:21 ./bin/duplicates README.md Makefile bin COPY.md
+  787  04/22/21 19:36:50 make test-duplicates
+  788  04/22/21 19:40:48 clear
+  789  04/22/21 19:41:15 make
+  790  04/22/21 19:41:19 ./bin/duplicates README.md Makefile bin COPY.md
+  791  04/22/21 19:55:19 make
+  792  04/22/21 19:57:59 ./bin/duplicates README.md Makefile bin COPY.md
+  793  04/22/21 19:58:38 make
+  794  04/22/21 19:58:39 ./bin/duplicates README.md Makefile bin COPY.md
+  795  04/22/21 19:58:53 make
+  796  04/22/21 19:58:54 ./bin/duplicates README.md Makefile bin COPY.md
+  797  04/22/21 19:59:43 make
+  798  04/22/21 19:59:53 ./bin/duplicates README.md Makefile bin COPY.md
+  799  04/22/21 20:00:04 make
+  800  04/22/21 20:00:05 ./bin/duplicates README.md Makefile bin COPY.md
+  801  04/22/21 20:01:23 make
+  802  04/22/21 20:01:24 ./bin/duplicates README.md Makefile bin COPY.md
+  803  04/22/21 20:03:43 make
+  804  04/22/21 20:04:17 ./bin/duplicates README.md Makefile bin COPY.md
+  805  04/22/21 20:04:46 make
+  806  04/22/21 20:05:21 ./bin/duplicates README.md Makefile bin COPY.md
+  807  04/22/21 20:06:29 make
+  808  04/22/21 20:06:38 ./bin/duplicates README.md Makefile bin COPY.md
+  809  04/22/21 20:07:37 make
+  810  04/22/21 20:07:38 ./bin/duplicates README.md Makefile bin COPY.md
+  811  04/22/21 20:08:19 make
+  812  04/22/21 20:08:21 ./bin/duplicates README.md Makefile bin COPY.md
+  813  04/22/21 20:09:22 make
+  814  04/22/21 20:09:24 ./bin/duplicates README.md Makefile bin COPY.md
+  815  04/22/21 20:09:29 make
+  816  04/22/21 20:09:30 ./bin/duplicates README.md Makefile bin COPY.md
+  817  04/22/21 20:09:36 clear
+  818  04/22/21 20:09:37 ./bin/duplicates README.md Makefile bin COPY.md
+  819  04/22/21 20:10:01 make
+  820  04/22/21 20:10:03 ./bin/duplicates README.md Makefile bin COPY.md
+  821  04/22/21 20:10:08 make
+  822  04/22/21 20:10:10 ./bin/duplicates README.md Makefile bin COPY.md
+  823  04/22/21 17:27:26 cd cse-20289-sp21-assignments-matt-schoessling/homework08
+  824  04/22/21 17:27:27 ls
+  825  04/22/21 17:27:41 vim src/table.c 
+  826  04/22/21 17:54:39 bin
+  827  04/22/21 17:54:54 ls bin
+  828  04/22/21 17:58:37 vim src/table.c 
+  829  04/22/21 17:59:07 vim src/pair.c 
+  830  04/22/21 18:45:58 vim src/table.c 
+  831  04/22/21 15:30:37 cd cse-20289-sp21-assignments-matt-schoessling/homework08
+  832  04/22/21 15:40:43 vim src/duplicates.c
+  833  04/22/21 21:13:01 cd cse-20289-sp21-assignments-matt-schoessling/homework08
+  834  04/22/21 21:13:27 clear
+  835  04/22/21 21:13:33 vim src/duplicates.c
+  836  04/22/21 21:14:02 cd cse-20289-sp21-assignments-matt-schoessling/homework08
+  837  04/22/21 21:14:03 ls
+  838  04/22/21 21:14:10 clear
+  839  04/22/21 21:26:11 cd cse-20289-sp21-assignments-matt-schoessling/homework08
+  840  04/22/21 21:26:21 vim src/duplicates.c
+  841  04/22/21 21:13:51 cd cse-20289-sp21-assignments-matt-schoessling/homework08
+  842  04/22/21 21:14:18 make
+  843  04/22/21 21:14:20 clear
+  844  04/22/21 21:14:24 make test-duplicates
+  845  04/22/21 21:14:41 ./bin/duplicates README.md Makefile bin COPY.md
+  846  04/22/21 21:14:44 clear
+  847  04/22/21 21:23:34 make test-duplicates
+  848  04/22/21 21:29:15 clear
+  849  04/22/21 21:29:17 make test-duplicates
+  850  04/22/21 21:30:02 ./bin/duplicates README.md Makefile bin COPY.md
+  851  04/22/21 21:30:15 make
+  852  04/22/21 21:30:16 ./bin/duplicates README.md Makefile bin COPY.md
+  853  04/22/21 21:30:36 ./bin/duplicates -c README.md Makefile bin COPY.md
+  854  04/22/21 21:31:27 ls *
+  855  04/22/21 21:33:18 make
+  856  04/22/21 21:33:21 ./bin/duplicates  README.md Makefile bin COPY.md
+  857  04/22/21 21:34:19 make
+  858  04/22/21 21:34:20 ./bin/duplicates  README.md Makefile bin COPY.md
+  859  04/22/21 21:36:34 clear
+  860  04/22/21 21:36:36 make
+  861  04/22/21 21:36:37 ./bin/duplicates  README.md Makefile bin COPY.md
+  862  04/22/21 21:36:43 make
+  863  04/22/21 21:36:44 ./bin/duplicates  README.md Makefile bin COPY.md
+  864  04/22/21 21:39:35 make
+  865  04/22/21 21:39:39 ./bin/duplicates  README.md Makefile bin COPY.md
+  866  04/22/21 21:39:58 make
+  867  04/22/21 21:39:59 ./bin/duplicates  README.md Makefile bin COPY.md
+  868  04/22/21 21:41:41 clear
+  869  04/22/21 21:41:41 make
+  870  04/22/21 21:42:05 ./bin/duplicates  README.md Makefile bin COPY.md
+  871  04/22/21 21:43:05 make
+  872  04/22/21 21:43:07 ./bin/duplicates  README.md Makefile bin COPY.md
+  873  04/22/21 21:43:47 make
+  874  04/22/21 21:43:48 ./bin/duplicates  README.md Makefile bin COPY.md
+  875  04/22/21 21:44:13 make
+  876  04/22/21 21:44:15 ./bin/duplicates  README.md Makefile bin COPY.md
+  877  04/22/21 21:44:16 clear
+  878  04/22/21 21:44:17 ./bin/duplicates  README.md Makefile bin COPY.md
+  879  04/22/21 21:46:28 clear
+  880  04/22/21 21:46:30 make
+  881  04/22/21 21:46:32 ./bin/duplicates  README.md Makefile bin COPY.md
+  882  04/22/21 21:47:04 make
+  883  04/22/21 21:47:06 ./bin/duplicates  README.md Makefile bin COPY.md
+  884  04/22/21 21:47:20 make
+  885  04/22/21 21:47:22 ./bin/duplicates  README.md Makefile bin COPY.md
+  886  04/22/21 21:51:09 make
+  887  04/22/21 21:51:24 ./bin/duplicates  README.md Makefile bin COPY.md
+  888  04/22/21 21:51:37 make test-duplicates
+  889  04/22/21 21:52:19 clear
+  890  04/22/21 21:52:20 make test-duplicates
+  891  04/22/21 21:52:50 make
+  892  04/22/21 21:52:52 ./bin/duplicates  README.md Makefile bin COPY.md
+  893  04/22/21 21:53:02 make
+  894  04/22/21 21:53:03 ./bin/duplicates  README.md Makefile bin COPY.md
+  895  04/22/21 21:53:52 make
+  896  04/22/21 21:53:54 ./bin/duplicates  README.md Makefile bin COPY.md
+  897  04/22/21 21:53:59 make
+  898  04/22/21 21:54:04 make test-duplicates
+  899  04/22/21 21:54:19 ./bin/duplicates  README.md Makefile bin COPY.md
+  900  04/22/21 21:54:25 ./bin/duplicates  -c README.md Makefile bin COPY.md
+  901  04/22/21 21:54:45 ./bin/duplicates  -q README.md Makefile bin COPY.md
+  902  04/22/21 21:54:49 echo$
+  903  04/22/21 21:54:52 echo $
+  904  04/22/21 21:54:58 echo($)
+  905  04/22/21 21:55:07 ./bin/duplicates  -q README.md Makefile bin COPY.md
+  906  04/22/21 21:55:11 echo $?
+  907  04/22/21 21:55:52 clear
+  908  04/22/21 21:56:02 make test-duplicates
+  909  04/22/21 22:03:16 make
+  910  04/22/21 22:03:22 ./bin/duplicates  README.md Makefile bin COPY.md
+  911  04/22/21 22:03:28 ./bin/duplicates  -q README.md Makefile bin COPY.md
+  912  04/22/21 22:03:33 echo $?
+  913  04/22/21 22:03:39 ./bin/duplicates  -c README.md Makefile bin COPY.md
+  914  04/22/21 22:04:43 ./bin/duplicates -c README.md Makefile bin COPY.md
+  915  04/22/21 22:05:25 make
+  916  04/22/21 22:06:02 ./bin/duplicates -c README.md Makefile bin COPY.md
+  917  04/22/21 22:07:09 make
+  918  04/22/21 22:07:18 ./bin/duplicates -c README.md Makefile bin COPY.md
+  919  04/22/21 22:07:25 make test-duplicates
+  920  04/22/21 22:11:27 clear
+  921  04/22/21 22:11:29 make test-duplicates
+  922  04/22/21 22:12:16 ./bin/duplicates
+  923  04/22/21 22:14:56 make test-duplicates
+  924  04/22/21 22:19:29 ./bin/duplicates -q
+  925  04/22/21 22:19:53 echo $?
+  926  04/22/21 22:20:23 ./bin/duplicates -q
+  927  04/22/21 22:20:29 echo $?
+  928  04/22/21 22:21:12 ./bin/duplicates -q
+  929  04/22/21 22:23:40 make
+  930  04/22/21 22:23:42 ./bin/duplicates -q
+  931  04/22/21 22:23:48 echo $?
+  932  04/22/21 22:23:55 make test-duplicates
+  933  04/22/21 22:25:40 clear
+  934  04/22/21 22:25:41 make test-duplicatesmake
+  935  04/22/21 22:26:26 make
+  936  04/22/21 22:26:29 ./bin/duplicates -q
+  937  04/22/21 22:26:58 make
+  938  04/22/21 22:26:59 ./bin/duplicates -q
+  939  04/22/21 22:27:06 echo $?
+  940  04/22/21 22:27:14 make test-duplicate
+  941  04/22/21 22:27:16 make test-duplicates
+  942  04/22/21 22:29:11 clear
+  943  04/22/21 22:29:27 make test-duplicates
+  944  04/22/21 22:32:11 ./bin/duplicates README.md Makefile 
+  945  04/22/21 22:32:34 make
+  946  04/22/21 22:32:36 ./bin/duplicates README.md Makefile 
+  947  04/22/21 22:32:51 echo $?
+  948  04/22/21 22:33:07 make
+  949  04/22/21 22:33:09 ./bin/duplicates README.md Makefile 
+  950  04/22/21 22:33:11 echo $?
+  951  04/22/21 22:33:15 make test-duplicates
+  952  04/22/21 22:43:57 /tmp/duplicates.1833206515
+  953  04/22/21 22:43:59 ls
+  954  04/22/21 22:44:05 rm COPY.md 
+  955  04/22/21 22:44:13 rm test-pair 
+  956  04/22/21 22:47:14 clear
+  957  04/22/21 22:47:37 make test-duplicates
+  958  04/22/21 23:04:26 man opendir
+  959  04/22/21 23:05:27 man closedir
+  960  04/22/21 23:05:35 make test-duplicates
+  961  04/22/21 23:14:54 ./bin/duplicates -q src bin /tmp/duplicates.1833206515 README.md
+  962  04/22/21 23:15:01 ./bin/duplicates src bin /tmp/duplicates.1833206515 README.md
+  963  04/22/21 23:15:07 ./bin/duplicates -c src bin /tmp/duplicates.1833206515 README.md
+  964  04/22/21 23:16:42 make test-duplicates --track-origins=yes
+  965  04/22/21 23:16:49 clear
+  966  04/22/21 22:13:29 cd cse-20289-sp21-assignments-matt-schoessling/homework08
+  967  04/22/21 22:13:32 ls
+  968  04/22/21 22:13:44 vim src/table.c
+  969  04/23/21 00:22:06 cd cse-20289-sp21-assignments-matt-schoessling/homework08
+  970  04/23/21 00:22:11 cd src/hash.c
+  971  04/23/21 00:22:16 vim src/hash.c
+  972  04/23/21 14:25:35 cd cse-20289-sp21-assignments-matt-schoessling/homework08
+  973  04/23/21 14:26:18 ls
+  974  04/23/21 14:26:38 vim src/duplicates.c
+  975  04/23/21 14:27:41 vim src/pair.c
+  976  04/23/21 14:28:34 vim src/duplicates.c
+  977  04/23/21 14:26:49 cd cse-20289-sp21-assignments-matt-schoessling/homework08
+  978  04/23/21 14:27:10 make test-duplicates
+  979  04/23/21 14:34:08 ./bin/duplicates -q src bin /tmp/duplicates.1833206515 README.md
+  980  04/23/21 14:35:28 git branch
+  981  04/23/21 14:51:51 cd cse-20289-sp21-assignments-matt-schoessling/homework08
+  982  04/23/21 14:51:58 make test-duplicates
+  983  04/23/21 15:05:12 ./bin/duplicates -c src bin /tmp/duplicates.1833206515 README.md
+  984  04/23/21 15:05:28 make test-duplicates
+  985  04/23/21 15:05:36 ./bin/duplicates -c src bin /tmp/duplicates.1833206515 README.md
+  986  04/23/21 15:05:39 make
+  987  04/23/21 15:05:40 ./bin/duplicates -c src bin /tmp/duplicates.1833206515 README.md
+  988  04/23/21 15:07:20 echo $?
+  989  04/23/21 15:08:52 make test-duplicates
+  990  04/23/21 15:10:36 clear
+  991  04/23/21 15:10:38 make clean
+  992  04/23/21 15:10:42 gitt add Makefile
+  993  04/23/21 15:10:46 git add Makefile
+  994  04/23/21 15:10:54 git addbin/*.sh
+  995  04/23/21 15:10:58 git add bin/*.sh
+  996  04/23/21 15:11:08 git add include/.*h
+  997  04/23/21 15:11:19 make
+  998  04/23/21 15:11:21 git add include/.*h
+  999  04/23/21 15:11:29 ls *
+ 1000  04/23/21 15:11:39 git add include/*.h
+ 1001  04/23/21 15:11:46 git add lib/.gitkeep
+ 1002  04/23/21 15:11:52 git add tests/*.c
+ 1003  04/23/21 15:12:04 git commit -m "homework08: import"
+ 1004  04/23/21 15:12:12 git add src/hash.c
+ 1005  04/23/21 15:12:21 git commit -m "homework08: hash"
+ 1006  04/23/21 15:12:27 git add src/pair.c
+ 1007  04/23/21 15:12:31 git commit -m "homework08: pair"
+ 1008  04/23/21 15:12:35 git add src/table.c
+ 1009  04/23/21 15:12:39 git commit -m "homework08: table"
+ 1010  04/23/21 15:12:45 git add src/duplicates.c
+ 1011  04/23/21 15:12:49 git commit -m "homework08: duplicates"
+ 1012  04/23/21 15:13:07 vim answers.json
+ 1013  04/23/21 15:19:19 vim src/pair.c 
+ 1014  04/23/21 15:21:59 vim table.c
+ 1015  04/23/21 15:22:03 vim src/table.c 
+ 1016  04/23/21 14:52:14 cd cse-20289-sp21-assignments-matt-schoessling/homework08
+ 1017  04/23/21 14:52:20 vim src/duplicates.c 
+ 1018  04/23/21 15:27:24 man strace
+ 1019  04/23/21 15:31:24 vim src/pair.c 
+ 1020  04/23/21 15:06:35 cd cse-20289-sp21-assignments-matt-schoessling/homework08
+ 1021  04/23/21 15:06:36 ls
+ 1022  04/23/21 15:06:39 ls *
+ 1023  04/23/21 15:06:46 vim bin/test_duplicates.sh 
+ 1024  04/23/21 15:14:39 cd ../reading10
+ 1025  04/23/21 15:14:40 ls
+ 1026  04/23/21 15:14:55 vim answers.json
+ 1027  04/23/21 15:23:14 cd ../homework08
+ 1028  04/23/21 15:23:15 ls
+ 1029  04/23/21 15:23:19 strace ./bin/duplicates Makefile README.md bin src
+ 1030  04/23/21 15:28:06 strace -c ./bin/duplicates Makefile README.md bin src
+ 1031  04/23/21 15:58:51 vim answers.json 
+ 1032  04/23/21 15:59:13 git add answers.json
+ 1033  04/23/21 15:59:30 git commit -m "homework08: quiz"
+ 1034  04/23/21 15:59:38 git push -u origin homework08
+ 1035  04/24/21 12:57:15 ls
+ 1036  04/24/21 12:57:35 cd DSProject
+ 1037  04/24/21 12:57:36 ls
+ 1038  04/24/21 12:57:42 git pull --rebase
+ 1039  04/24/21 12:57:44 ls
+ 1040  04/24/21 13:09:06 vim vim login.py
+ 1041  04/24/21 13:09:13 ls
+ 1042  04/24/21 13:09:19 clear
+ 1043  04/24/21 13:09:19 ls
+ 1044  04/24/21 13:09:24 cat login.py
+ 1045  04/24/21 13:34:20 history
+ 1046  04/25/21 19:21:56 cd cse-20289-sp21-assignments-matt-schoessling/
+ 1047  04/25/21 19:22:03 get checkout master
+ 1048  04/25/21 19:22:07 git checkout master
+ 1049  04/25/21 19:22:12 git pull --rebase
+ 1050  04/25/21 19:22:23 git checkout -b reading12
+ 1051  04/25/21 19:22:28 cd reading12
+ 1052  04/25/21 19:22:37 curl -LO https://raw.githubusercontent.com/nd-cse-20289-sp21/cse-20289-sp21-assignments/master/reading12/Makefile
+ 1053  04/25/21 19:22:44 curl -LO https://raw.githubusercontent.com/nd-cse-20289-sp21/cse-20289-sp21-assignments/master/reading12/ncat.c
+ 1054  04/25/21 19:22:48 make test
+ 1055  04/25/21 19:24:53 ls
+ 1056  04/25/21 19:24:55 clear
+ 1057  04/25/21 19:24:56 ls
+ 1058  04/25/21 19:25:01 vim answers.json
+ 1059  04/25/21 19:25:19 ../.scripst/check.py
+ 1060  04/25/21 19:25:26 ../.scripts/check.py
+ 1061  04/25/21 19:28:30 git add answers.json
+ 1062  04/25/21 19:28:42 git commit -m "Reading 12: Quiz"
+ 1063  04/26/21 09:58:56 vim ncat.c
+ 1064  04/26/21 09:59:08 ls
+ 1065  04/26/21 09:59:13 cd cse-20289-sp21-assignments-matt-schoessling/reading12
+ 1066  04/26/21 09:59:14 ls
+ 1067  04/26/21 09:59:17 vim ncat.c 
+ 1068  04/26/21 10:00:06 vim Makefile 
+ 1069  04/26/21 10:01:23 make clean
+ 1070  04/26/21 10:01:25 make
+ 1071  04/26/21 11:19:56 cd cse-20289-sp21-assignments-matt-schoessling/readin12
+ 1072  04/26/21 11:20:01 cd cse-20289-sp21-assignments-matt-schoessling/reading12
+ 1073  04/26/21 11:20:02 ls
+ 1074  04/26/21 11:20:05 vim ncat.c 
+ 1075  04/26/21 11:24:30 make
+ 1076  04/26/21 11:24:52 make test
+ 1077  04/26/21 11:25:03 git add Makefile
+ 1078  04/26/21 11:25:07 git add ncat.c
+ 1079  04/26/21 11:25:21 git commit -m "Reading 12: Code"
+ 1080  04/26/21 11:25:28 git push -u origin reading12
+ 1081  04/27/21 09:49:23 cd DSProject/
+ 1082  04/27/21 09:49:24 ls
+ 1083  04/27/21 09:49:36 chmod +x unigram.py
+ 1084  04/27/21 09:49:40 ./unigram.py 
+ 1085  04/27/21 09:49:47 vim unigram.py
+ 1086  04/27/21 09:51:46 cat history > history.txt
+ 1087  04/27/21 09:51:57 history > history.txt
+ 1088  04/27/21 09:52:04 vim unigram.py history.txt
+ 1089  04/27/21 09:52:18 clear
+ 1090  04/27/21 09:52:24 ./unigram.py history.txt
+ 1091  04/27/21 09:54:39 ls
+ 1092  04/27/21 09:54:52 l
+ 1093  04/27/21 09:54:53 ls
+ 1094  04/27/21 09:55:03 history >history.txt
+ 1095  04/27/21 09:55:13 ./unigram.py history.txt
+ 1096  04/27/21 09:55:26 history
+ 1097  04/27/21 09:55:33 ls
+ 1098  04/27/21 09:55:36 history
+ 1099  04/27/21 09:55:55 clear
+ 1100  04/27/21 09:55:57 ls
+ 1101  04/27/21 09:55:58 clear
+ 1102  04/27/21 09:55:59 ls
+ 1103  04/27/21 09:55:59 clear
+ 1104  04/27/21 09:56:00 ls
+ 1105  04/27/21 09:56:01 clear
+ 1106  04/27/21 09:56:02 ls
+ 1107  04/27/21 09:56:03 clear
+ 1108  04/27/21 09:56:04 ls
+ 1109  04/27/21 09:56:05 clear
+ 1110  04/27/21 09:56:06 ls
+ 1111  04/27/21 09:56:07 clear
+ 1112  04/27/21 09:56:09 ls
+ 1113  04/27/21 09:56:10 clear
+ 1114  04/27/21 09:56:16 ./unigram.py history.txt
+ 1115  04/27/21 09:56:32 history > history.txt
+ 1116  04/27/21 09:56:34 ./unigram.py history.txt
+ 1117  04/27/21 09:56:46 clear
+ 1118  04/27/21 09:56:47 ./unigram.py history.txt
+ 1119  04/27/21 09:57:26 git checkout -b matt
+ 1120  04/27/21 09:57:32 branch
+ 1121  04/27/21 09:57:35 git branch
+ 1122  04/27/21 09:57:37 ls
+ 1123  04/27/21 09:58:07 clear
+ 1124  04/27/21 09:58:37 ls
+ 1125  04/27/21 09:58:48 unigram_class.py
+ 1126  04/27/21 09:59:55 cat unigram.py
+ 1127  04/27/21 10:03:27 history
+ 1128  04/27/21 10:16:51 vim unigram.py
+ 1129  04/27/21 10:18:02 chmod +x get_history.py
+ 1130  04/27/21 10:18:05 ./get_history.py
+ 1131  04/27/21 10:18:20 cat history.txt
+ 1132  04/27/21 10:18:25 clear
+ 1133  04/27/21 10:18:38 ./get_history.py
+ 1134  04/27/21 10:31:12 ls
+ 1135  04/27/21 10:31:17 rm histor.txt
+ 1136  04/27/21 10:39:26 ./get_history.py
+ 1137  04/27/21 10:40:26 clear
+ 1138  04/27/21 10:40:28 ./get_history.py
+ 1139  04/27/21 10:47:11 man history
+ 1140  04/27/21 10:47:56 ./get_history.py
+ 1141  04/27/21 10:48:13 history
+ 1142  04/27/21 10:49:26 ./get_history.py
+ 1143  04/27/21 10:52:59 clear
+ 1144  04/27/21 10:53:00 ./get_history.py
+ 1145  04/27/21 10:55:58 clear
+ 1146  04/27/21 10:55:59 ./get_history.py
+ 1147  04/27/21 10:57:59 history
+ 1148  04/27/21 10:58:02 cleaer
+ 1149  04/27/21 10:58:04 clear
+ 1150  04/27/21 11:03:15 git add get_history.py
+ 1151  04/27/21 11:03:26 git commit -m "Failing to append to history file"
+ 1152  04/27/21 11:04:01 git push -u origin matt
+ 1153  04/27/21 09:59:05 cd cse-20289-sp21-assignments-matt-schoessling/
+ 1154  04/27/21 09:59:06 cd ..
+ 1155  04/27/21 09:59:10 ls
+ 1156  04/27/21 09:59:32 cd DSProject/
+ 1157  04/27/21 09:59:33 ls
+ 1158  04/27/21 09:59:35 git branch
+ 1159  04/27/21 09:59:45 vim unigram_class.py
+ 1160  04/27/21 10:03:47 ls
+ 1161  04/27/21 10:03:54 rm vim
+ 1162  04/27/21 10:03:56 s
+ 1163  04/27/21 10:03:57 ls
+ 1164  04/27/21 10:04:33 vim get_history.py
+ 1165  04/27/21 10:45:19 cd DSProject/
+ 1166  04/27/21 10:45:25 import os
+ 1167  04/27/21 10:45:34 python3
+ 1168  04/27/21 12:18:41 cd DSProject/
+ 1169  04/27/21 12:18:42 ls
+ 1170  04/27/21 12:19:22 cd /tmp
+ 1171  04/27/21 12:19:24 cd ..
+ 1172  04/27/21 12:19:27 cd ~
+ 1173  04/27/21 12:19:30 cd DSProject/
+ 1174  04/27/21 12:19:37 cat /tmp/history.log
+ 1175  04/27/21 12:19:49 cd /tmp
+ 1176  04/27/21 12:19:51 ls
+ 1177  04/27/21 12:20:06 cd ~/DSP
+ 1178  04/27/21 12:20:09 cd ~/DSProject/
+ 1179  04/27/21 12:20:11 ls
+ 1180  04/27/21 12:20:32 /tmp/history.log
+ 1181  04/27/21 12:21:55 .bash_history
+ 1182  04/27/21 12:22:01 vim .bash_history
+ 1183  04/27/21 12:22:18 cat .history
+ 1184  04/27/21 12:22:23 cat .bash_history
+ 1185  04/27/21 12:22:36 echo $HISTFILE
+ 1186  04/27/21 12:22:48 cat /escnfs/home/mschoess/.bash_history
+ 1187  04/27/21 12:23:32 cat /escnfs/home/mschoess/.history
+ 1188  04/27/21 12:24:41 $HISTTIMEFORMAT
+ 1189  04/27/21 12:24:49 vim .bashrc
+ 1190  04/27/21 13:22:59 man bash
+ 1191  04/27/21 13:25:31 ls *
+ 1192  04/27/21 13:25:41 vim src/RBTree2.cpp
+ 1193  04/27/21 13:25:58 vim inc/RBTree2.h
+ 1194  04/27/21 13:32:08 make testRBTree2
+ 1195  04/27/21 13:32:16 ls
+ 1196  04/27/21 13:32:26 make PRob6
+ 1197  04/27/21 13:54:04 make Prob6
+ 1198  04/27/21 13:17:42 history
+ 1199  04/27/21 13:17:49 clear
+ 1200  04/27/21 13:17:51 history
+ 1201  04/27/21 13:17:54 clear
+ 1202  04/27/21 13:18:20 make testRBTNode2
+ 1203  04/27/21 13:19:00 ls
+ 1204  04/27/21 13:20:41 make testRBTree1
+ 1205  04/27/21 13:22:02 vim ~/.bashrc
+ 1206  04/27/21 13:22:40 bash(1)
+ 1207  04/27/21 13:22:45 bash
+ 1208  04/27/21 14:56:41 cd cse-20289-sp21-assignments-matt-schoessling/homework12
+ 1209  04/27/21 14:56:45 cd DSProject/
+ 1210  04/27/21 14:56:47 bash
+ 1211  04/27/21 15:01:50 clear
+ 1212  04/27/21 14:56:54 man 1 bash
+ 1213  04/27/21 15:01:07 clear
+ 1214  04/27/21 15:01:14 history
+ 1215  04/27/21 15:01:36 source ~/.bashrc
+ 1216  04/27/21 15:01:44 bash
+ 1217  04/27/21 14:57:25 cd DSProject/
+ 1218  04/27/21 14:57:27 clear
+ 1219  04/27/21 14:58:44 $HISTTIMEFORMAT
+ 1220  04/27/21 14:59:02 $HISTFILE
+ 1221  04/27/21 15:00:34 vim ~/.bashrc
+ 1222  04/27/21 15:02:35 source ~/.bashrc
+ 1223  04/27/21 15:02:44 clear
+ 1224  04/27/21 15:02:45 clear
+ 1225  04/27/21 15:02:46 clear
+ 1226  04/27/21 15:02:46 clear
+ 1227  04/27/21 15:02:47 history
+ 1228  04/27/21 15:03:03 ls
+ 1229  04/27/21 15:03:04 ls
+ 1230  04/27/21 15:03:04 ls
+ 1231  04/27/21 15:03:05 ls
+ 1232  04/27/21 15:03:05 ls
+ 1233  04/27/21 15:03:06 ls
+ 1234  04/27/21 15:03:07 ls
+ 1235  04/27/21 15:03:07 ls
+ 1236  04/27/21 15:03:08 ls
+ 1237  04/27/21 15:03:08 ls
+ 1238  04/27/21 15:03:09 ls
+ 1239  04/27/21 15:03:11 ls
+ 1240  04/27/21 15:03:11 ls
+ 1241  04/27/21 15:03:12 ls
+ 1242  04/27/21 15:03:13 ls
+ 1243  04/27/21 15:03:14 ls
+ 1244  04/27/21 15:03:15 ls
+ 1245  04/27/21 15:03:15 ls
+ 1246  04/27/21 15:03:17 clear
+ 1247  04/27/21 15:03:21 history
+ 1248  04/27/21 15:03:27 clear
+ 1249  04/27/21 15:03:46 $HISTFILE
+ 1250  04/27/21 15:04:00 cat ~/.bash_history
+ 1251  04/27/21 15:04:16 history
+ 1252  04/27/21 15:05:35 clear
+ 1253  04/27/21 15:05:53 vim .bashrc
+ 1254  04/27/21 15:05:59 vim ~/.bashrc
+ 1255  04/27/21 15:06:21 source ~/.bashrc
+ 1256  04/27/21 15:06:27 history
+ 1257  04/27/21 15:06:31 ls
+ 1258  04/27/21 15:06:32 ls
+ 1259  04/27/21 15:06:33 history
+ 1260  04/27/21 15:06:48 vim ~/.bashrc
+ 1261  04/27/21 15:07:06 cd ..
+ 1262  04/27/21 15:07:09 history
+ 1263  04/27/21 15:07:12 quit
+ 1264  04/27/21 15:07:14 cat ~/.bash_history
+ 1265  04/27/21 15:41:01 cd DSProject/
+ 1266  04/27/21 15:41:15 vim ~/.bash_history
+ 1267  04/27/21 15:41:40 man 1 bash
+ 1268  04/27/21 15:43:58 vim ~/.bashrc
+ 1269  04/27/21 15:44:17 source ~/.bashrc
+ 1270  04/27/21 15:44:20 history
+ 1271  04/27/21 15:44:22 clear
+ 1272  04/27/21 15:44:22 ls
+ 1273  04/27/21 15:44:30 cat get_history.py
+ 1274  04/27/21 15:44:37 clear
+ 1275  04/27/21 15:44:45 cat ~/.bash_history
+ 1276  04/27/21 15:45:48 touch ~/.bash_history
+ 1277  04/27/21 15:45:51 cat ~/.bash_history
+ 1278  04/27/21 15:45:55 clear
+ 1279  04/27/21 15:46:33 history
+ 1280  04/27/21 15:46:41 ls
+ 1281  04/27/21 15:46:43 clear
+ 1282  04/27/21 15:46:45 history
+ 1283  04/27/21 15:46:53 vim ~/.bash_history
+ 1284  04/27/21 15:48:01 ls
+ 1285  04/27/21 22:42:51 cd DSProject/
+ 1286  04/27/21 22:42:52 ls
+ 1287  04/27/21 23:09:51 cd DSProject/
+ 1288  04/27/21 23:09:52 ls
+ 1289  04/27/21 23:09:57 ./get_history.py
+ 1290  04/27/21 23:10:20 ./get_history.py
+ 1291  04/27/21 23:11:18 ./get_history.py
+ 1292  04/27/21 23:11:45 history
+ 1293  04/27/21 23:18:23 ./get_history.py
+ 1294  04/27/21 23:19:35 ./get_history.py
+ 1295  04/27/21 23:19:45 ./get_history.py
+ 1296  04/27/21 23:19:59 clear
+ 1297  04/27/21 23:20:00 clear
+ 1298  04/27/21 23:20:01 ./get_history.py
+ 1299  04/27/21 23:21:04 ./get_history.py
+ 1300  04/27/21 23:21:20 ./get_history.py
+ 1301  04/27/21 23:21:39 ./get_history.py
+ 1302  04/27/21 23:21:48 clear
+ 1303  04/27/21 23:21:49 ./get_history.py
+ 1304  04/27/21 23:23:06 clear
+ 1305  04/27/21 23:23:08 ./get_history.py
+ 1306  04/27/21 22:46:10 vim get_history.py
+ 1307  04/28/21 08:12:22 cd DS/
+ 1308  04/28/21 08:12:24 ls
+ 1309  04/28/21 08:24:10 git checkout Lab10
+ 1310  04/28/21 08:24:18 git checkout -b Lab10
+ 1311  04/28/21 08:24:22 mkdir Lab10
+ 1312  04/28/21 08:24:24 cd Lab10
+ 1313  04/28/21 08:24:27 wget https://raw.githubusercontent.com/mmorri22/sp21-cse-20312/main/Lab10/setup.sh
+ 1314  04/28/21 08:24:34 chmod a+rx setup.sh
+ 1315  04/28/21 08:24:37 ./setup.sh
+ 1316  04/28/21 08:24:45 ls*
+ 1317  04/28/21 08:24:47 ls *
+ 1318  04/28/21 08:26:02 vim inc/TrieNode.h
+ 1319  04/28/21 08:30:03 vim src/TrieNodeTest.cpp
+ 1320  04/28/21 08:31:40 make TrieNodeTest
+ 1321  04/28/21 08:31:53 vim src/TrieNodeTest.cpp
+ 1322  04/28/21 08:32:04 make TrieNodeTest
+ 1323  04/28/21 08:32:29 make TrieTest
+ 1324  04/28/21 08:34:14 cd ../../..
+ 1325  04/28/21 08:34:27 cd mschoess/
+ 1326  04/28/21 08:34:28 ls
+ 1327  04/28/21 08:34:37 cd cse-20289-sp21-assignments-matt-schoessling/
+ 1328  04/28/21 08:34:40 cd ../DSProject/
+ 1329  04/28/21 08:34:46 ls
+ 1330  04/28/21 08:36:52 cd DSProject/
+ 1331  04/28/21 08:36:53 ls
+ 1332  04/28/21 08:36:58 ./get_history.py
+ 1333  04/28/21 08:37:12 ./get_history.py
+ 1334  04/28/21 08:39:51 ./get_history.py
+ 1335  04/28/21 08:40:01 ./get_history.py
+ 1336  04/28/21 08:40:59 ./get_history.py
+ 1337  04/28/21 08:41:18 ./get_history.py
+ 1338  04/28/21 08:41:22 clear
+ 1339  04/28/21 08:41:56 ./get_history.py
+ 1340  04/28/21 08:43:01 ./get_history.py
+ 1341  04/28/21 08:43:20 ./get_history.py
+ 1342  04/28/21 08:47:37 ./get_history.py
+ 1343  04/28/21 08:48:23 ./get_history.py
+ 1344  04/28/21 08:48:32 ./get_history.py
+ 1345  04/28/21 08:49:05 ./get_history.py
+ 1346  04/28/21 08:49:17 ./get_history.py
+ 1347  04/28/21 08:49:56 ./get_history.py
+ 1348  04/28/21 08:50:56 ./get_history.py
+ 1349  04/28/21 08:51:47 ./get_history.py
+ 1350  04/28/21 08:52:42 ./get_history.py
+ 1351  04/28/21 08:53:01 ./get_history.py
+ 1352  04/28/21 08:53:10 ./get_history.py
+ 1353  04/28/21 08:53:20 clear
+ 1354  04/28/21 08:53:21 ./get_history.py
+ 1355  04/28/21 08:34:53 vim get_history.py
+ 1356  04/28/21 09:20:03 cd DSP
+ 1357  04/28/21 09:20:11 cd DSProject/
+ 1358  04/28/21 09:20:24 cd DSProject/
+ 1359  04/28/21 09:21:23 ./get_history.py
+ 1360  04/28/21 09:22:28 ./get_history.py
+ 1361  04/28/21 09:24:43 ./get_history.py
+ 1362  04/28/21 09:25:05 ./get_history.py
+ 1363  04/28/21 09:25:12 clear
+ 1364  04/28/21 09:25:13 ./get_history.py
+ 1365  04/28/21 09:32:29 ./get_history.py
+ 1366  04/28/21 09:32:39 ./get_history.py
+ 1367  04/28/21 09:32:58 ./get_history.py
+ 1368  04/28/21 09:33:13 ./get_history.py
+ 1369  04/28/21 09:34:15 clear
+ 1370  04/28/21 09:34:17 ./get_history.py
+ 1371  04/28/21 09:34:45 ./get_history.py
+ 1372  04/28/21 09:35:01 clear
+ 1373  04/28/21 09:43:02 cat history.txt
+ 1374  04/28/21 09:45:04 ./get_history.py
+ 1375  04/28/21 09:45:17 ./get_history.py
+ 1376  04/28/21 09:45:42 ./get_history.py
+ 1377  04/28/21 09:48:02 ./get_history.py
+ 1378  04/28/21 09:48:38 ./get_history.py
+ 1379  04/28/21 09:49:19 clear
+ 1380  04/28/21 09:49:20 ./get_history.py
+ 1381  04/28/21 09:49:24 cat history.txt
+ 1382  04/28/21 09:49:34 ./get_history.py
+ 1383  04/28/21 09:50:05 ./get_history.py
+ 1384  04/28/21 09:50:12 clear
+ 1385  04/28/21 09:50:16 cat history.txt
+ 1386  04/28/21 09:50:18 ./get_history.py
+ 1387  04/28/21 09:52:16 ./get_history.py
+ 1388  04/28/21 09:52:19 ls
+ 1389  04/28/21 09:52:25 cat histor.txt
+ 1390  04/28/21 09:52:31 cat history.txt
+ 1391  04/28/21 09:52:37 cat histor.txt
+ 1392  04/28/21 09:53:03 rm histor.txt
+ 1393  04/28/21 09:53:13 clear
+ 1394  04/28/21 09:53:18 cat history.txt
+ 1395  04/28/21 09:54:22 ./get_history.py
+ 1396  04/28/21 09:54:26 cat history.txt
+ 1397  04/28/21 09:55:00 clear
+ 1398  04/28/21 09:57:04 clear
+ 1399  04/28/21 09:57:06 ls
+ 1400  04/28/21 09:57:09 hello
+ 1401  04/28/21 09:57:11 time
+ 1402  04/28/21 09:57:13 date
+ 1403  04/28/21 09:57:15 ps ux
+ 1404  04/28/21 09:57:23 clear
+ 1405  04/28/21 09:57:33 cat history.txt
+ 1406  04/28/21 09:57:39 ./get_history.py
+ 1407  04/28/21 09:57:41 cat history.txt
+ 1408  04/28/21 09:57:44 clear
+ 1409  04/28/21 09:58:44 git add get_history.py
+ 1410  04/28/21 10:03:26 git commit -m "Working but not clean get_history script"
+ 1411  04/28/21 10:03:32 git push -u origin matt
+ 1412  04/28/21 10:07:56 clear
+ 1413  04/28/21 10:08:00 cat history.txt
+ 1414  04/28/21 10:08:04 ./get_history.py
+ 1415  04/28/21 10:08:06 cat history.txt
+ 1416  04/28/21 10:15:42 git add get_history.py
+ 1417  04/28/21 10:15:55 git commit -m "tiny fix to get_history"
+ 1418  04/28/21 10:16:08 git push -u origin matt
+ 1419  04/28/21 12:46:19 cd cse-20289-sp21-assignments-matt-schoessling/homework8
+ 1420  04/28/21 12:46:24 cd cse-20289-sp21-assignments-matt-schoessling/homework08
+ 1421  04/28/21 12:46:29 git checkout homework08
+ 1422  04/28/21 12:46:31 ls
+ 1423  04/28/21 12:47:12 vim src/duplicates.c
+ 1424  04/28/21 12:50:34 ./binn/duplicates -c -s
+ 1425  04/28/21 12:50:41 ./bin/duplicates -c -s
+ 1426  04/28/21 12:51:00 vim src/duplicates.c
+ 1427  04/28/21 12:51:41 ./bin/duplicates -c -s
+ 1428  04/28/21 12:52:05 ./bin/duplicates -s -c
+ 1429  04/28/21 12:52:07 ./bin/duplicates -c
+ 1430  04/28/21 12:52:15 make test
+ 1431  04/28/21 12:52:57 vim src/duplicates.c
+ 1432  04/28/21 12:56:07 make
+ 1433  04/28/21 12:56:10 make test
+ 1434  04/28/21 12:56:30 ./bin/duplicates -c -s
+ 1435  04/28/21 12:56:37 vim src/duplicates.c
+ 1436  04/28/21 16:30:04 cd cse-20289-sp21-assignments-matt-schoessling/homework08
+ 1437  04/28/21 16:30:06 ls
+ 1438  04/28/21 16:30:17 ls *
+ 1439  04/28/21 16:30:25 cd src/duplicates.c
+ 1440  04/28/21 16:30:32 vim src/duplicates.c
+ 1441  04/28/21 16:31:07 make
+ 1442  04/28/21 16:31:18 ./bin/duplicates -c -s
+ 1443  04/28/21 16:33:58 vim src/duplicates.c
+ 1444  04/29/21 08:42:41 cd DS
+ 1445  04/29/21 08:42:43 ls
+ 1446  04/29/21 08:42:47 cd Lab10
+ 1447  04/29/21 08:42:48 ls
+ 1448  04/29/21 08:42:50 make
+ 1449  04/29/21 08:43:10 clear
+ 1450  04/29/21 08:43:11 make
+ 1451  04/29/21 10:34:27 cd DS
+ 1452  04/29/21 10:34:28 ls
+ 1453  04/29/21 10:34:33 cd Lab10
+ 1454  04/29/21 10:34:34 ls
+ 1455  04/29/21 10:34:41 ls *
+ 1456  04/29/21 10:34:48 cd src
+ 1457  04/29/21 10:34:50 ls -l
+ 1458  04/29/21 12:37:11 cd ~/cse-20289-sp21-assignments-matt-schoessling/
+ 1459  04/29/21 12:37:13 ls
+ 1460  04/29/21 12:37:21 cd homework8
+ 1461  04/29/21 12:37:24 cd homework08
+ 1462  04/29/21 12:37:25 ls
+ 1463  04/29/21 12:38:39 cd cse-20289-sp21-assignments-matt-schoessling/homework08
+ 1464  04/29/21 12:38:43 cmatrix
+ 1465  04/29/21 12:38:51 chad_stride
+ 1466  04/29/21 12:39:31 ./bin/duplicates
+ 1467  04/29/21 12:39:34 ./bin/duplicates -c
+ 1468  04/29/21 12:39:37 ./bin/duplicates -c -s
+ 1469  04/29/21 12:40:05 ./bin/duplicates -c -s
+ 1470  04/29/21 12:40:29 ./bin/duplicates -c -s
+ 1471  04/29/21 12:40:35 ./bin/duplicates -c -q
+ 1472  04/29/21 12:41:08 ./bin/duplicates -c -q
+ 1473  04/29/21 12:41:09 ./bin/duplicates -c -q
+ 1474  04/29/21 12:41:12 ./bin/duplicates -c -q
+ 1475  04/29/21 12:41:23 ls
+ 1476  04/29/21 12:42:05 make
+ 1477  04/29/21 12:42:20 make
+ 1478  04/29/21 12:42:25 ./bin/duplicates -c -q
+ 1479  04/29/21 12:42:30 ./bin/duplicates -c -s
+ 1480  04/29/21 12:43:40 cd ../
+ 1481  04/29/21 12:43:56 mkdir GURU08
+ 1482  04/29/21 12:44:01 cd GURU08/
+ 1483  04/29/21 12:44:05 git clone git@github.com:nd-cse-20289-sp21/cse-20289-sp21-lsort-matt-schoessling.git
+ 1484  04/29/21 12:44:07 ls
+ 1485  04/29/21 12:44:20 git checkout -b gp08
+ 1486  04/29/21 12:44:29 ls
+ 1487  04/29/21 12:44:33 cd cse-20289-sp21-lsort-matt-schoessling/
+ 1488  04/29/21 12:44:34 ls
+ 1489  04/29/21 12:44:59 ls *
+ 1490  04/29/21 12:45:04 vim src/node.c
+ 1491  04/29/21 12:51:42 ls
+ 1492  04/29/21 12:51:44 ls *
+ 1493  04/29/21 12:52:45 make test-node
+ 1494  04/29/21 12:37:37 vim src/duplicates.c
+ 1495  04/29/21 12:52:55 cd ..
+ 1496  04/29/21 12:52:59 cd GURU08/
+ 1497  04/29/21 12:53:01 cd cse-20289-sp21-lsort-matt-schoessling/
+ 1498  04/29/21 12:53:02 ls
+ 1499  04/29/21 12:53:31 ls *
+ 1500  04/29/21 12:54:01 make test-node
+ 1501  04/29/21 12:53:48 vim src/node.c
+ 1502  04/29/21 13:18:18 make test-list
+ 1503  04/29/21 13:18:28 clear
+ 1504  04/29/21 13:18:31 make test-list
+ 1505  04/29/21 13:18:48 make
+ 1506  04/29/21 13:18:53 make test-list
+ 1507  04/29/21 13:19:17 make test-list
+ 1508  04/29/21 13:20:07 make test-list
+ 1509  04/29/21 13:22:55 make test-list
+ 1510  04/29/21 13:44:02 make test-list
+ 1511  04/29/21 13:44:19 make test-list
+ 1512  04/29/21 13:44:21 clear
+ 1513  04/29/21 13:44:23 make test-list
+ 1514  04/29/21 13:44:29 make clean
+ 1515  04/29/21 13:44:30 make
+ 1516  04/29/21 13:44:53 make clean
+ 1517  04/29/21 13:44:56 make test-list
+ 1518  04/29/21 13:47:13 make test-list
+ 1519  04/29/21 13:48:08 make test-list
+ 1520  04/29/21 13:48:13 make clean
+ 1521  04/29/21 13:48:14 make
+ 1522  04/29/21 13:48:18 make test-list
+ 1523  04/29/21 13:51:08 make test-list
+ 1524  04/29/21 13:51:25 make test-list
+ 1525  04/29/21 13:51:42 make test-list
+ 1526  04/29/21 12:55:11 vim src/list.c
+ 1527  04/29/21 13:58:08 make test
+ 1528  04/29/21 13:58:58 make test
+ 1529  04/29/21 13:52:15 vim src/lsort.c
+ 1530  04/29/21 21:46:27 cd cse-20289-sp21-assignments-matt-schoessling/GURU08/cse-20289-sp21-lsort-matt-schoessling/
+ 1531  04/29/21 21:46:28 ls
+ 1532  04/29/21 21:46:38 vim src/lsort.c
+ 1533  04/29/21 21:49:07 vim src/list.c
+ 1534  04/29/21 21:50:17 make tst
+ 1535  04/29/21 21:50:20 make test
+ 1536  04/29/21 21:52:54 make list.c
+ 1537  04/29/21 21:52:57 make src/list.c
+ 1538  04/29/21 21:53:07 vim src/list.c
+ 1539  04/29/21 21:54:24 cd cse-20289-sp21-assignments-matt-schoessling/
+ 1540  04/29/21 21:58:23 cd GURU08/cse-20289-sp21-lsort-matt-schoessling/
+ 1541  04/29/21 21:58:24 ls
+ 1542  04/29/21 22:03:07 ls
+ 1543  04/29/21 22:03:09 ls *
+ 1544  04/29/21 22:04:43 make test
+ 1545  04/29/21 22:08:10 make test
+ 1546  04/29/21 22:08:31 make test
+ 1547  04/29/21 22:05:05 vim src/list.c
+ 1548  04/30/21 09:20:53 cd cse-20289-sp21-assignments-matt-schoessling/
+ 1549  04/30/21 09:20:57 Hog@fog123456789
+ 1550  04/30/21 09:21:00 clear
+ 1551  04/30/21 09:36:12 cd cse-20289-sp21-assignments-matt-schoessling/GURU08/cse-20289-sp21-lsort-matt-schoessling/
+ 1552  04/30/21 09:36:13 ls
+ 1553  04/30/21 09:36:20 ls
+ 1554  04/30/21 09:36:27 c,ear
+ 1555  04/30/21 09:36:28 clear
+ 1556  04/30/21 09:36:29 ls
+ 1557  04/30/21 09:40:28 cd cse-20289-sp21-assignments-matt-schoessling/GURU08/cse-20289-sp21-lsort-matt-schoessling/
+ 1558  04/30/21 09:40:31 make test
+ 1559  04/30/21 09:41:17 make test
+ 1560  04/30/21 09:41:47 make test
+ 1561  04/30/21 09:36:36 vim src/list.c
+ 1562  04/30/21 09:44:28 clear
+ 1563  04/30/21 09:46:02 ls *
+ 1564  04/30/21 09:46:22 make clean
+ 1565  04/30/21 09:46:27 cat src/list.c
+ 1566  04/30/21 09:46:34 cat src/lode.c
+ 1567  04/30/21 09:46:37 cat src/node.c
+ 1568  04/30/21 09:46:55 cat src/sort.c
+ 1569  04/30/21 09:46:58 ls *
+ 1570  04/30/21 09:47:05 cat src/lsort.c
+ 1571  04/30/21 09:47:35 vim src/lsort.c
+ 1572  04/30/21 09:50:46 ls *
+ 1573  04/30/21 09:50:51 git add src/*
+ 1574  04/30/21 09:51:20 git commit -m "Three Edited Files for Guru08"
+ 1575  04/30/21 09:51:23 git branch
+ 1576  04/30/21 09:51:47 git push -u origin master
+ 1577  04/30/21 09:52:54 ls
+ 1578  04/30/21 09:53:15 cp src/lsort.c ..
+ 1579  04/30/21 09:53:21 cp src/list.c ..
+ 1580  04/30/21 09:53:25 cp src/node.c ..
+ 1581  04/30/21 09:53:39 ls
+ 1582  04/30/21 09:53:43 ls *
+ 1583  04/30/21 09:53:49 cd
+ 1584  04/30/21 09:53:50 ls
+ 1585  04/30/21 09:54:02 cd cse-20289-sp21-assignments-matt-schoessling/GURU08/
+ 1586  04/30/21 09:54:03 ls
+ 1587  04/30/21 09:54:25 git branch -b GURU08
+ 1588  04/30/21 09:54:38 git checkout -b GURU08
+ 1589  04/30/21 09:54:43 ls
+ 1590  04/30/21 09:54:58 cp list.c cse-20289-sp21-lsort-matt-schoessling/src
+ 1591  04/30/21 09:55:06 cp lsort.c cse-20289-sp21-lsort-matt-schoessling/src
+ 1592  04/30/21 09:55:14 cp node.c cse-20289-sp21-lsort-matt-schoessling/src
+ 1593  04/30/21 09:55:19 cd cse-20289-sp21-lsort-matt-schoessling/src
+ 1594  04/30/21 09:55:21 ls *
+ 1595  04/30/21 09:55:24 cat list.c
+ 1596  04/30/21 09:55:35 cd ..
+ 1597  04/30/21 09:55:41 make test
+ 1598  04/30/21 09:55:49 git add src/*
+ 1599  04/30/21 09:55:57 make clean
+ 1600  04/30/21 09:56:00 clea
+ 1601  04/30/21 09:56:01 clear
+ 1602  04/30/21 09:56:07 git add src/*
+ 1603  04/30/21 09:56:25 git commit -m "Correct Branch - 3 edited files for Guru08
+ 1604  04/30/21 09:56:31 ls
+ 1605  04/30/21 09:56:34 git branch
+ 1606  04/30/21 09:56:51 git checkout -b GURU08
+ 1607  04/30/21 09:57:04 cat src/list.c
+ 1608  04/30/21 09:57:10 make test
+ 1609  04/30/21 09:57:25 make clean
+ 1610  04/30/21 09:57:32 git add src/*
+ 1611  04/30/21 09:57:50 git commit -m "Correct Bran8"
+ 1612  04/30/21 09:58:02 git add src/*
+ 1613  04/30/21 09:58:07 git commit -m "Correct Bran8"
+ 1614  04/30/21 09:58:15 clear
+ 1615  04/30/21 09:58:31 git branch
+ 1616  04/30/21 09:59:22 cd src
+ 1617  04/30/21 09:59:26 vim lsort.c
+ 1618  04/30/21 09:59:45 vim list.c
+ 1619  04/30/21 10:00:00 vim node.c
+ 1620  04/30/21 10:00:15 git add list.c
+ 1621  04/30/21 10:00:19 git add lsort.c
+ 1622  04/30/21 10:00:24 git add node.c
+ 1623  04/30/21 10:00:27 git status
+ 1624  04/30/21 10:00:38 cd ..
+ 1625  04/30/21 10:00:41 git status
+ 1626  04/30/21 10:00:53 git commit -m "Correct Branch: Guru08"
+ 1627  04/30/21 10:01:09 git push -u origin GURU08
+ 1628  04/30/21 10:01:39 cd ~/DSProject/
+ 1629  04/30/21 10:01:40 ls
+ 1630  04/30/21 10:01:43 git branch
+ 1631  04/30/21 13:59:05 ls
+ 1632  04/30/21 13:59:12 cd DSProject/
+ 1633  04/30/21 13:59:14 ls
+ 1634  04/30/21 13:59:32 cat get_history.py
+ 1635  04/30/21 13:59:37 cat history.txt
+ 1636  04/30/21 13:59:47 ./get
+ 1637  04/30/21 13:59:51 ./get_history.py
+ 1638  04/30/21 14:00:03 vim get_history.py
+ 1639  04/30/21 14:00:19 clear
+ 1640  04/30/21 14:00:21 ./get_history.py
+ 1641  04/30/21 14:00:31 vim get_history.py
+ 1642  04/30/21 14:08:05 vim get_history.py
+ 1643  04/30/21 14:09:11 ./get_history.py
+ 1644  04/30/21 14:09:15 vim get_history.py
+ 1645  04/30/21 14:10:21 ./get_history.py
+ 1646  04/30/21 14:11:03 vim get_history.py
+ 1647  04/30/21 14:11:17 ./get_history.py
+ 1648  04/30/21 14:11:26 vim get_history.py
+ 1649  04/30/21 14:11:47 ./get_history.py
+ 1650  04/30/21 14:11:52 vim get_history.py
+ 1651  04/30/21 14:12:06 ./get_history.py
+ 1652  04/30/21 14:12:37 ./get_history.py
+ 1653  04/30/21 14:12:42 vim get_history.py
+ 1654  04/30/21 14:13:57 ./get_history.py
+ 1655  04/30/21 14:14:12 vim get_history.py
+ 1656  04/30/21 14:15:13 ./get_history.py
+ 1657  04/30/21 14:15:15 vim get_history.py
+ 1658  04/30/21 14:15:31 ./get_history.py
+ 1659  04/30/21 14:15:36 vim get_history.py
+ 1660  04/30/21 14:15:59 ./get_history.py
+ 1661  04/30/21 14:16:06 vim get_history.py
+ 1662  04/30/21 14:16:29 ./get_history.py
+ 1663  04/30/21 14:16:33 vim get_history.py
+ 1664  04/30/21 14:16:41 ./get_history.py
+ 1665  04/30/21 14:17:21 vim get_history.py
+ 1666  04/30/21 14:17:31 ./get_history.py
+ 1667  04/30/21 14:17:36 vim get_history.py
+ 1668  04/30/21 14:17:56 ./get_history.py
+ 1669  04/30/21 14:17:59 vim get_history.py
+ 1670  04/30/21 14:18:04 ./get_history.py
+ 1671  04/30/21 14:18:24 vim get_history.py
+ 1672  04/30/21 14:19:49 ./get_history.py
+ 1673  04/30/21 14:19:51 vim get_history.py
+ 1674  04/30/21 14:20:02 ./get_history.py
+ 1675  04/30/21 14:20:07 vim get_history.py
+ 1676  04/30/21 14:20:44 ./get_history.py
+ 1677  04/30/21 14:20:46 vim get_history.py
+ 1678  04/30/21 14:22:35 clear
+ 1679  04/30/21 14:22:39 cat history.txt
+ 1680  04/30/21 14:22:58 history
+ 1681  04/30/21 14:23:12 clear
+ 1682  04/30/21 14:23:26 cat history.txt
+ 1683  04/30/21 14:26:36 ./get_history.py
+ 1684  04/30/21 14:26:42 vim get_history.py
+ 1685  04/30/21 14:26:52 cat history.txt
+ 1686  04/30/21 14:27:00 vim get_history.py
+ 1687  04/30/21 14:27:52 vim get_history.py
+ 1688  04/30/21 14:28:07 ./get_history.py
+ 1689  04/30/21 14:28:10 cat history.txt
+ 1690  04/30/21 14:28:24 vim get_history.py
+ 1691  04/30/21 14:28:55 ./get_history.py
+ 1692  04/30/21 14:29:03 cat history.txt
+ 1693  04/30/21 14:29:23 history
+ 1694  04/30/21 14:29:26 clear
+ 1695  04/30/21 14:29:38 vim ~/.bashrc
+ 1696  04/30/21 14:29:50 exit
+ 1697  04/30/21 14:30:04 cd DSProject/
+ 1698  04/30/21 14:30:05 ls
+ 1699  04/30/21 14:30:10 cat get_history.py
+ 1700  04/30/21 14:30:15 cat history.txt
+ 1701  04/30/21 14:30:21 ./get_history.py
+ 1702  04/30/21 14:30:22 cat history.txt
+ 1703  04/30/21 14:30:47 cat ~/.bash_history
+ 1704  04/30/21 14:31:02 clear
+ 1705  04/30/21 14:31:10 vim get_history.py
+ 1706  04/30/21 14:31:37 vim get_history.py
+ 1707  04/30/21 14:31:52 ./get_history.py
+ 1708  04/30/21 14:32:09 vim get_history.py
+ 1709  04/30/21 14:33:49 ./get_history.py
+ 1710  04/30/21 14:33:52 vim get_history.py
+ 1711  04/30/21 14:34:00 ./get_history.py
+ 1712  04/30/21 14:34:05 clear
+ 1713  04/30/21 14:34:05 ls
+ 1714  04/30/21 14:34:07 clear
+ 1715  04/30/21 14:34:07 ls
+ 1716  04/30/21 14:34:09 make
+ 1717  04/30/21 14:34:16 ps aux
+ 1718  04/30/21 14:34:17 clear
+ 1719  04/30/21 14:34:20 pstree
+ 1720  04/30/21 14:34:23 clear
+ 1721  04/30/21 14:34:28 ./get_history.py
+ 1722  04/30/21 14:34:41 vim get_history.py
+ 1723  04/30/21 14:38:06 ./get_history.py
+ 1724  04/30/21 14:38:18 vim get_history.py
+ 1725  04/30/21 14:38:51 ./get_history.py
+ 1726  04/30/21 14:39:10 vim get_history.py
+ 1727  04/30/21 14:39:44 ./get_history.py
+ 1728  04/30/21 14:40:23 vim get_history.py
+ 1729  04/30/21 14:41:14 ./get_history.py
+ 1730  04/30/21 14:41:20 vim get_history.py
+ 1731  04/30/21 14:43:21 ./get_history.py
+ 1732  04/30/21 14:43:24 vim get_history.py
+ 1733  04/30/21 14:44:05 clear
+ 1734  04/30/21 14:44:07 cat history.txt
+ 1735  04/30/21 14:44:35 ./get_history.py
+ 1736  04/30/21 14:44:40 cat history.txt
+ 1737  04/30/21 14:44:43 cat history.txt
+ 1738  04/30/21 14:44:49 vim get_history.py
+ 1739  04/30/21 14:46:14 cat history.txt
+ 1740  04/30/21 14:46:16 clear
+ 1741  04/30/21 14:46:18 ./get_history.py
+ 1742  04/30/21 14:46:49 clear
+ 1743  04/30/21 14:46:53 vim get_history.py
+ 1744  04/30/21 14:47:38 ./get_history.py
+ 1745  04/30/21 14:47:44 vim get_history.py

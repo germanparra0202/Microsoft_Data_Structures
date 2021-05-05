@@ -7,7 +7,7 @@ import datetime
 
 def main():
 	
-	# This chunk of code is finding the last line in history.txt so that we can continue to append to that file with new history data
+	# This chunk of code is finding the last line in history.txt so that we can continue to append to that file with new history data.
 	# process found at https://stackoverflow.com/questions/46258499/how-to-read-the-last-line-of-a-file-in-python	
 	if( os.path.exists('history.txt') ):
 		with open('history.txt', 'rb') as f:
