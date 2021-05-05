@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 
-import sys 
+import sys
+import os
+import json
+from login_funcs import find_dir_abspath
 from ngram_class import make_list
 from ngram_class import Ngram
 
@@ -18,15 +21,27 @@ def main():
 	############################
 	
 	#initialize variables
-	login_dirs = []
+	login_dirs = {}
 
-	while len(login_dirs) != 3:
-		hold_dir = 
+	# Checks to see if data already exists (in case ngram initialization has an issue)
+	# to avoid extra unneccesary work
+	if not os.path.exists('directory_data.txt'):
+		while len(login_dirs) != 3:
+			hold_dir = input('Choose a directory: ')
+			dir_path = find_dir_abspath(hold_dir)
+			if not dir_path:
+				print('Absolute path not found, please select a different directory')
+				continue
+			login_dirs[hold_dir] = dir_path
+
+		# export directory data to json file
+		data_json = json.dumps(login_dirs)
+		with open('directory_data.txt', 'w') as f:
+			f.write(data_json)
 
 
-
-
-	# ngram Data Initialization
+	
+	# ngram Data Initialization - Danielle
 	############################
 	n = 2; # the n in ngram
 	probabilities = Ngram() # ngram dictionary
@@ -46,6 +61,13 @@ def main():
 	# Create probabilities dictionary based on data from history files inputted in the 
 	# command line
 	probabilities.word_ngram(n, data)
-
 	
+	# export ngram data to json file
+	data_json = json.dumps(probabilities.prob_dict)
+	with open('ngram_data.txt', 'w') as f:
+		f.write(data_json)
+	
+
+if __name__ ==  '__main__':
+	main()
 

@@ -6,17 +6,57 @@ def make_list(command_list, data):
 	the list. Returns the list 
 	'''
 
-	try:
-		with open(data) as data_file:
-			temp = [(line.strip()).split()[3:] for line in data_file]
-	except IOError:
-		print(f'Could not open {data}')
-		return [];
-	
+	data_file = open(data)
+	temp = [(line.strip()).split()[3:] for line in data_file]
+	data_file.close()
 	command_list.extend(temp)
 
 	return command_list
 
+def line_test(n, probabilities):
+	'''Tests the ngram program
+		
+	Takes in the probabilities dictionary and n. Each command that is hardcoded 
+	represents the previous commands. The command that has the highest probability 
+	of following these commands is printed along with the probabilitiy. If the 
+	probability of the previous commands is 0, nothing is printed. NEED MUCH DATA 
+	TO MAKE THIS GOOD
+	'''
+
+	#feel free to play around with/change things
+	command1 = "make -n"
+	command2 = "make clean"
+	lcommand1 = command1.split()
+	lcommand2 = command2.split()
+	target = str(lcommand1) + ":" + str(lcommand2) + ":"
+	for key, value in sorted(probabilities.items(), key=lambda k: k[1], reverse = True):
+		if target in key:
+			command = ''.join((key.split(":"))[n])
+			command = command.replace("[", "")
+			command = command.replace("]", "")
+			command = command.replace("'", "", 100)
+			command = command.replace(",", "", 100)
+			print(command, value)
+			break
+
+def word_test(n, commands, probabilities):
+	'''Tests the ngram program
+
+	Takes in the probabilities dictionary and n. Each command that is hardcoded 
+	represents the previous commands. The first word of the command that has the 
+	highest probability of following the first words of these commands is 
+	printed along with the probability. If the probability of the previous 
+	commands is 0, nothing is printed. NEED MUCH DATA TO MAKE THIS GOOD
+	'''
+	target = ""
+	for command in commands:
+		target += str(command.split()[0]) + " "
+	for key, value in sorted(probabilities.items(), key=lambda k: k[1], reverse = True):
+		if target in key:
+			command = ''.join((key.split())[n])
+			return command
+			#print(command, value)
+			break
 
 class Ngram:
 	''' Uses ngrams to find probabilites of commands

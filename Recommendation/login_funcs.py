@@ -2,15 +2,18 @@
 
 # Globals
 ##########
+import os
+
 HOME = os.getenv('HOME')
 USER = os.getenv('USER')
 
 # Text colors
-RED   = '\033[1;31m'  
-BLUE  = '\033[1;34m'
-GREEN = '\033[0;32m'
-RESET = '\033[0;0m'
-BOLD  = '\033[;1m'
+class Colors:
+	RED   = '\033[1;31m'  
+	BLUE  = '\033[1;34m'
+	GREEN = '\033[0;32m'
+	RESET = '\033[0;0m'
+	BOLD  = '\033[;1m'
 
 # Functions
 ############
@@ -32,3 +35,7 @@ def find_dir_abspath(search_dir):
 	return match
 
 
+# Text colors taken from:
+# https://stackoverflow.com/questions/37340049/how-do-i-print-colored-output-to-the-terminal
+# -in-python/37340245#:~:text=Perhaphs%20you%20can%20add%20optional,functions%20to%20color%2
+# 0the%20text.&text=%23%20print%20%22%5C033%5B1,will%20be%20red%20...%22

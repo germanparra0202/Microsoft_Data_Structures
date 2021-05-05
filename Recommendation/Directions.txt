@@ -1,0 +1,32 @@
+The Recommendation System Directions
+The goal of this system is to improve your experience when working in your shell.
+
+1) Have a directory that contains the following files:
+	- initialize.oy
+	- login.py
+	- login_funcs.py
+	- ngram_class.py
+	- predict.py
+	- some sort of history data, this can be multiple files
+2) Run the initialization script with the name(s) of the history data following it
+	- ./initialize.py file1.txt file2.txt
+	a) This will prompt the user to input the name of 3 directories. If the absolute path is
+	   not found for the directory, then it will ask the user to input a different one
+	b) Once the user has input 3 directories, the script checks the validity of the history
+	   files. If there is an issue with the data, then it will state "No valid files provided".
+	   If this is displayed, then run the initialization script again but with different 
+	   files. It will not prompt the user to input directories again if this is the case.
+3) There should now be 2 new text files. One is called directory_data.txt and the other is
+   ngram_data.txt
+4) Type "pwd" into the command line and copy the response
+	- This should be the absolute path to the directory that all the files are stored in
+5) Open login.py to edit and paste the absolute path into the line that says "cwd=''"
+	- This is on line NUMBER and right under the comment that says #TODO
+6) Open the .profile file from your home directory and paste the same path from the login.py
+   script on a newline. Then put login.py at the end of the path
+	- It should look like absolute-path-to-file/login.py
+7) Now when the user logs in, the 3 directories will pop-up giving them the option to 
+   immediately change to them by inputing a number or skipping it by inputting anything 
+   else.
+8) ADD_./predict.py_NOTES
+	

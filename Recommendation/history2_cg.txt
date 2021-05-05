@@ -1,0 +1,1000 @@
+   56  04/28/21 13:59:43 vim pqueue.py 
+   57  04/28/21 14:08:44 vim ngram.py 
+   58  04/28/21 14:10:15 vim ngram_test.py 
+   59  04/28/21 14:12:16 ./ngram.py history.txt 
+   60  04/28/21 14:12:24 vim ngram.py 
+   61  04/28/21 14:12:57 ./ngram.py history.txt 
+   62  04/28/21 14:13:09 ls
+   63  04/28/21 14:13:13 cat data_check.txt 
+   64  04/28/21 14:29:23 ./ngram_test.py history.txt 
+   65  04/28/21 14:29:49 ls
+   66  04/28/21 14:29:59 git status
+   67  04/28/21 14:32:31 cp ngram.py ~/test/dstest/
+   68  04/28/21 14:32:45 cp ngram_test.py ~/test/dstest/
+   69  04/28/21 14:32:49 cd ~/test/dstest/
+   70  04/28/21 14:32:50 ls
+   71  04/28/21 14:32:54 cd -
+   72  04/28/21 14:32:56 ls
+   73  04/28/21 14:33:50 cp ngram.py ngram_class.py
+   74  04/28/21 14:33:51 ls
+   75  04/28/21 14:33:52 git status
+   76  04/28/21 14:34:16 git add ngram_class.py ngram_test.py
+   77  04/28/21 14:34:17 ls
+   78  04/28/21 14:34:20 git status
+   79  04/28/21 14:34:30 git commit -m "ngram edits"
+   80  04/28/21 14:34:38 git push -u origin
+   81  04/28/21 14:35:31 ls
+   82  04/28/21 14:36:04 vim login.py 
+   83  04/28/21 14:36:11 vim login_test.py 
+   84  04/28/21 14:37:17 mkdir login/
+   85  04/28/21 14:37:18 ls
+   86  04/28/21 14:37:24 mv login.py login/
+   87  04/28/21 14:37:29 mv login_test.py login/
+   88  04/28/21 14:37:35 mv pqueue.py login/
+   89  04/28/21 14:37:36 ls
+   90  04/28/21 14:37:44 mv example_data.txt login/
+   91  04/28/21 14:37:44 ls
+   92  04/28/21 14:37:50 rm data_check.txt 
+   93  04/28/21 14:37:53 rm history.txt 
+   94  04/28/21 14:37:54 ls
+   95  04/28/21 14:37:59 git status
+   96  04/28/21 14:38:12 git add login/
+   97  04/28/21 14:38:15 git commit login/
+   98  04/28/21 14:38:33 git commit login -m "new login directory"
+   99  04/28/21 14:38:38 ls
+  100  04/28/21 14:39:01 git push -u origin
+  101  04/28/21 14:39:42 ls
+  102  04/28/21 14:39:44 git status
+  103  04/28/21 14:39:49 cd login/
+  104  04/28/21 14:39:50 ls
+  105  04/28/21 14:39:53 cd ..
+  106  04/28/21 14:39:54 ls
+  107  04/28/21 14:40:36 git pull
+  108  04/28/21 14:40:47 ls
+  109  04/28/21 14:41:40 cd ..
+  110  04/28/21 14:41:58 cd ~/test/dstest/
+  111  04/28/21 14:41:58 ls
+  112  04/28/21 14:42:06 mkdir backup/
+  113  04/28/21 14:42:07 ls
+  114  04/28/21 14:42:10 cd -
+  115  04/28/21 14:42:12 ls
+  116  04/28/21 14:42:29 cp Microsoft-Data-Structures-Project/* ~/test/dstest/backup/
+  117  04/28/21 14:42:32 cd ..
+  118  04/28/21 14:42:35 cd DSProject/
+  119  04/28/21 14:42:42 cd Microsoft-Data-Structures-Project/
+  120  04/28/21 14:42:43 ls
+  121  04/28/21 14:42:55 cp login/* ~/test/dstest/backup/
+  122  04/28/21 14:42:59 cd ~/test/dstest/backup/
+  123  04/28/21 14:43:00 ls
+  124  04/28/21 14:43:07 cd -
+  125  04/28/21 14:43:08 ls
+  126  04/28/21 14:43:17 git rm login.py
+  127  04/28/21 14:43:24 git rm login_test.py
+  128  04/28/21 14:43:26 git status
+  129  04/28/21 14:43:42 git checkout -- ngram.py
+  130  04/28/21 14:43:44 git status
+  131  04/28/21 14:43:49 git checkout -- ngram_short.py
+  132  04/28/21 14:43:51 ls
+  133  04/28/21 14:43:55 git status
+  134  04/28/21 14:44:16 git mv jobs.txt login/
+  135  04/28/21 14:44:17 ls
+  136  04/28/21 14:44:20 git status
+  137  04/28/21 14:44:51 git commit -m "organizing login"
+  138  04/28/21 14:44:57 git push -u origin
+  139  04/28/21 14:45:20 ls
+  140  04/28/21 14:45:26 mkdir ngram/
+  141  04/28/21 14:45:28 ls
+  142  04/28/21 14:45:38 git mv ngram_class.py ngram/
+  143  04/28/21 14:45:39 ls
+  144  04/28/21 14:45:50 git mv ngram_test.py ngram/
+  145  04/28/21 14:45:52 ls
+  146  04/28/21 14:45:54 ls *
+  147  04/28/21 14:46:02 git mv unigram.py ngram/
+  148  04/28/21 14:46:09 git mv ngram.py ngram/
+  149  04/28/21 14:46:15 git mv ngram_short.py ngram/
+  150  04/28/21 14:46:15 ls
+  151  04/28/21 14:46:18 ls *
+  152  04/28/21 14:46:24 git status
+  153  04/28/21 14:47:32 git push -u origin
+  154  04/28/21 14:47:55 git commit -m "organize ngram"
+  155  04/28/21 14:47:57 git push -u origin
+  156  04/28/21 14:48:54 ls
+  157  04/28/21 14:48:56 cd login/
+  158  04/28/21 14:48:57 ls
+  159  04/28/21 14:49:03 vim pqueue.py 
+  160  04/28/21 14:53:18 c
+  161  04/29/21 09:55:47 cd Classes/DSProject/Microsoft-Data-Structures-Project/
+  162  04/29/21 09:55:47 ls
+  163  04/29/21 09:55:52 vim hold.py 
+  164  04/29/21 09:56:13 rm hold.py 
+  165  04/29/21 09:56:15 ls
+  166  04/29/21 09:56:16 git status
+  167  04/29/21 09:56:20 cd __pycache__/
+  168  04/29/21 09:56:21 ls
+  169  04/29/21 09:56:25 cd ..
+  170  04/29/21 09:56:25 clar
+  171  04/29/21 09:56:26 clear
+  172  04/29/21 09:56:44 cd login/
+  173  04/29/21 09:56:44 ls
+  174  04/29/21 09:56:45 vim pqueue.py 
+  175  04/29/21 09:57:05 touch PQtest.py
+  176  04/29/21 09:57:05 ls
+  177  04/29/21 09:57:09 vim pqueue.py 
+  178  04/29/21 09:57:16 vim PQtest.py 
+  179  04/29/21 09:58:01 vim pqueue.py 
+  180  04/29/21 09:58:28 vim PQtest.py 
+  181  04/29/21 09:59:22 vim pqueue.py 
+  182  04/29/21 10:17:22 vim PQtest.py 
+  183  04/29/21 10:18:15 vim pqueue.py 
+  184  04/29/21 10:18:56 chmod +x PQtest.py 
+  185  04/29/21 10:18:59 ./PQtest.py 
+  186  04/29/21 10:19:26 vim PQtest.py 
+  187  04/29/21 10:19:35 ./PQtest.py 
+  188  04/29/21 10:19:37 vim PQtest.py 
+  189  04/29/21 10:19:41 vim pqueue.py 
+  190  04/29/21 10:23:45 ./PQtest.py 
+  191  04/29/21 10:23:53 vim PQtest.py 
+  192  04/29/21 10:23:58 vim pqueue.py 
+  193  04/29/21 10:24:08 ./PQtest.py 
+  194  04/29/21 10:24:14 vim PQtest.py 
+  195  04/29/21 10:24:30 ./PQtest.py 
+  196  04/29/21 10:24:38 vim PQtest.py 
+  197  04/29/21 10:25:08 ./PQtest.py 
+  198  04/29/21 10:25:11 vim PQtest.py 
+  199  04/29/21 10:25:17 ./PQtest.py 
+  200  04/29/21 10:25:28 vim PQtest.py 
+  201  04/29/21 10:26:16 ./PQtest.py 
+  202  04/29/21 10:26:18 vim PQtest.py 
+  203  04/29/21 10:26:24 ./PQtest.py 
+  204  04/29/21 10:26:26 vim PQtest.py 
+  205  04/29/21 10:26:43 ./PQtest.py 
+  206  04/29/21 10:26:46 vim PQtest.py 
+  207  04/29/21 10:27:06 ./PQtest.py 
+  208  04/29/21 10:27:09 vim PQtest.py 
+  209  04/29/21 10:27:35 ./PQtest.py 
+  210  04/29/21 10:27:37 vim PQtest.py 
+  211  04/29/21 10:27:53 ./PQtest.py 
+  212  04/29/21 10:27:56 vim PQtest.py 
+  213  04/29/21 10:28:39 ./PQtest.py 
+  214  04/29/21 10:28:48 vim PQtest.py 
+  215  04/29/21 10:29:02 ./PQtest.py 
+  216  04/29/21 10:29:06 vim PQtest.py 
+  217  04/29/21 10:29:25 ./PQtest.py 
+  218  04/29/21 10:29:45 vim PQtest.py 
+  219  04/29/21 10:29:49 vim pqueue.py 
+  220  04/29/21 10:33:53 ./PQtest.py 
+  221  04/29/21 10:33:57 vim pqueue.py 
+  222  04/29/21 10:34:06 ./PQtest.py 
+  223  04/29/21 10:34:13 vim pqueue.py 
+  224  04/29/21 10:42:36 mv pqueue.py dir_count.py
+  225  04/29/21 10:42:36 ls
+  226  04/29/21 10:42:38 vim dir_count.py 
+  227  04/29/21 10:45:46 vim PQtest.py 
+  228  04/29/21 10:47:19 ./PQtest.py 
+  229  04/29/21 10:47:27 vim dir_count.py 
+  230  04/29/21 10:47:32 ./PQtest.py 
+  231  04/29/21 10:47:34 vim dir_count.py 
+  232  04/29/21 10:47:42 vim PQtest.py 
+  233  04/29/21 10:47:59 vim dir_count.py 
+  234  04/29/21 10:48:16 mv PQtest.py Dir_Count_test.py
+  235  04/29/21 10:48:17 ls
+  236  04/29/21 10:48:20 ./Dir_Count_test.py 
+  237  04/29/21 10:48:35 vim Dir_Count_test.py 
+  238  04/29/21 10:49:14 ./Dir_Count_test.py 
+  239  04/29/21 10:49:28 vim dir_count.py 
+  240  04/29/21 10:50:03 vim Dir_Count_test.py 
+  241  04/29/21 10:50:12 ./Dir_Count_test.py 
+  242  04/29/21 10:50:17 vim dir_count.py 
+  243  04/29/21 10:50:23 ./Dir_Count_test.py 
+  244  04/29/21 10:50:34 vim Dir_Count_test.py 
+  245  04/29/21 10:50:49 ./Dir_Count_test.py 
+  246  04/29/21 10:50:51 vim dir_count.py 
+  247  04/29/21 10:51:04 ./Dir_Count_test.py 
+  248  04/29/21 10:52:03 vim dir_count.py 
+  249  04/29/21 10:53:24 vim login_test.py 
+  250  04/29/21 10:54:16 ls
+  251  04/29/21 10:58:53 mv dir_count.py dir_funcs.py
+  252  04/29/21 10:58:54 vim dir_funcs.py 
+  253  04/29/21 10:59:03 vim login_test.py 
+  254  04/29/21 10:59:50 vim dir_funcs.py 
+  255  04/29/21 10:59:59 vim login.py 
+  256  04/29/21 11:00:13 vim dir_funcs.py 
+  257  04/29/21 11:00:31 vim login.py 
+  258  04/29/21 11:01:15 vim dir_funcs.py 
+  259  04/29/21 11:03:33 vim Dir_Count_test.py 
+  260  04/29/21 11:03:41 vim login.py 
+  261  04/29/21 11:03:49 vim dir_funcs.py 
+  262  04/29/21 11:04:27 vim Dir_Count_test.py 
+  263  04/29/21 11:05:01 ./Dir_Count_test.py 
+  264  04/29/21 11:05:08 vim Dir_Count_test.py 
+  265  04/29/21 11:05:15 ./Dir_Count_test.py 
+  266  04/29/21 11:07:43 vim Dir_Count_test.py 
+  267  04/29/21 11:07:53 vim dir_funcs.py 
+  268  04/29/21 11:08:55 vim Dir_Count_test.py 
+  269  04/29/21 11:08:58 ./Dir_Count_test.py 
+  270  04/29/21 11:09:10 vim dir_funcs.py 
+  271  04/29/21 11:09:58 vim Dir_Count_test.py 
+  272  04/29/21 11:10:29 vim dir_funcs.py 
+  273  04/29/21 11:10:31 ./Dir_Count_test.py 
+  274  04/29/21 11:10:45 vim dir_funcs.py 
+  275  04/29/21 11:20:06 vim Dir_Count_test.py 
+  276  04/29/21 11:20:38 ./Dir_Count_test.py 
+  277  04/29/21 11:20:45 vim Dir_Count_test.py 
+  278  04/29/21 11:21:04 vim dir_funcs.py 
+  279  04/29/21 11:21:14 vim Dir_Count_test.py 
+  280  04/29/21 11:21:45 ./Dir_Count_test.py 
+  281  04/29/21 11:21:54 vim Dir_Count_test.py 
+  282  04/29/21 11:22:03 ./Dir_Count_test.py 
+  283  04/29/21 11:22:10 vim Dir_Count_test.py 
+  284  04/29/21 11:24:01 ./Dir_Count_test.py 
+  285  04/29/21 11:24:09 vim dir_funcs.py 
+  286  04/29/21 11:24:18 ./Dir_Count_test.py 
+  287  04/29/21 11:24:23 vim dir_funcs.py 
+  288  04/29/21 11:26:28 ./Dir_Count_test.py 
+  289  04/29/21 11:26:42 vim dir_funcs.py 
+  290  04/29/21 11:27:31 ./Dir_Count_test.py 
+  291  04/29/21 11:27:41 vim dir_funcs.py 
+  292  04/29/21 11:27:57 ./Dir_Count_test.py 
+  293  04/29/21 11:28:22 vim dir_funcs.py 
+  294  04/29/21 11:28:47 ./Dir_Count_test.py 
+  295  04/29/21 11:28:52 vim dir_funcs.py 
+  296  04/29/21 11:28:58 ./Dir_Count_test.py 
+  297  04/29/21 11:29:13 vim Dir_Count_test.py 
+  298  04/29/21 11:30:14 ./Dir_Count_test.py 
+  299  04/29/21 11:30:34 vim Dir_Count_test.py 
+  300  04/29/21 11:31:11 vim dir_funcs.py
+  301  04/29/21 11:32:59 vim Dir_Count_test.py 
+  302  04/29/21 11:35:36 ./Dir_Count_test.py 
+  303  04/29/21 11:35:42 vim dir_funcs.py 
+  304  04/29/21 11:36:26 ./Dir_Count_test.py 
+  305  04/29/21 11:36:38 vim Dir_Count_test.py 
+  306  04/29/21 11:36:49 ./Dir_Count_test.py 
+  307  04/29/21 11:36:53 vim Dir_Count_test.py 
+  308  04/29/21 11:36:58 echo $%
+  309  04/29/21 11:37:12 vim dir_funcs.py 
+  310  04/29/21 11:47:48 ./Dir_Count_test.py 
+  311  04/29/21 11:47:52 vim dir_funcs.py 
+  312  04/29/21 11:48:28 vim Dir_Count_test.py 
+  313  04/29/21 11:48:58 ./Dir_Count_test.py 
+  314  04/29/21 11:49:13 vim dir_funcs.py 
+  315  04/29/21 11:49:21 ./Dir_Count_test.py 
+  316  04/29/21 11:49:46 vim Dir_Count_test.py 
+  317  04/29/21 11:49:56 vim dir_funcs.py 
+  318  04/29/21 11:51:13 vim Dir_Count_test.py 
+  319  04/29/21 11:51:49 vim dir_funcs.py 
+  320  04/29/21 11:52:50 ./Dir_Count_test.py 
+  321  04/29/21 11:53:00 vim Dir_Count_test.py 
+  322  04/29/21 11:53:08 ./Dir_Count_test.py 
+  323  04/29/21 11:53:16 vim Dir_Count_test.py 
+  324  04/29/21 11:53:22 ./Dir_Count_test.py 
+  325  04/29/21 11:53:29 vim Dir_Count_test.py 
+  326  04/29/21 11:53:40 ./Dir_Count_test.py 
+  327  04/29/21 11:53:47 vim dir_funcs.py 
+  328  04/29/21 11:55:57 vim Dir_Count_test.py 
+  329  04/29/21 11:56:22 vim dir_funcs.py 
+  330  04/29/21 11:56:24 ./Dir_Count_test.py 
+  331  04/29/21 11:56:43 vim dir_funcs.py 
+  332  04/29/21 11:57:18 vim Dir_Count_test.py 
+  333  04/29/21 11:57:28 vim dir_funcs.py 
+  334  04/29/21 11:57:31 ./Dir_Count_test.py 
+  335  04/29/21 11:57:34 vim Dir_Count_test.py 
+  336  04/29/21 11:57:37 vim dir_funcs.py 
+  337  04/29/21 11:58:36 vim Dir_Count_test.py 
+  338  04/29/21 11:58:46 ./Dir_Count_test.py 
+  339  04/29/21 11:59:04 vim dir_funcs.py 
+  340  04/29/21 11:59:18 ./Dir_Count_test.py 
+  341  04/29/21 11:59:48 vim Dir_Count_test.py 
+  342  04/29/21 12:00:18 vim dir_funcs.py 
+  343  04/29/21 12:00:35 vim Dir_Count_test.py 
+  344  04/29/21 12:00:50 ./Dir_Count_test.py 
+  345  04/29/21 12:01:03 vim dir_funcs.py 
+  346  04/29/21 12:01:20 ./Dir_Count_test.py 
+  347  04/29/21 12:01:35 vim dir_funcs.py 
+  348  04/29/21 12:02:14 ./Dir_Count_test.py 
+  349  04/29/21 12:26:53 cd Classes/DSProject/Microsoft-Data-Structures-Project/
+  350  04/29/21 12:26:53 ls
+  351  04/29/21 12:26:55 cd login/
+  352  04/29/21 12:26:56 ls
+  353  04/29/21 12:26:57 clear
+  354  04/29/21 12:30:08 ls
+  355  04/29/21 12:30:10 vim dir_funcs.py 
+  356  04/29/21 12:49:43 v
+  357  04/29/21 12:49:45 vim Dir_Count_test.py 
+  358  04/29/21 12:49:56 ./Dir_Count_test.py 
+  359  04/29/21 12:50:40 vim Dir_Count_test.py 
+  360  04/29/21 12:51:09 ./Dir_Count_test.py 
+  361  04/29/21 12:51:36 vim Dir_Count_test.py 
+  362  04/29/21 12:55:55 vim dir_funcs.py 
+  363  04/29/21 13:15:41 ./Dir_Count_test.py 
+  364  04/29/21 13:16:09 vim dir_funcs.py 
+  365  04/29/21 13:16:22 ./Dir_Count_test.py 
+  366  04/29/21 13:16:39 vim dir_funcs.py 
+  367  04/29/21 13:17:05 ./Dir_Count_test.py 
+  368  04/29/21 13:20:03 vim Dir_Count_test.py 
+  369  04/29/21 13:20:10 ./Dir_Count_test.py 
+  370  04/29/21 13:20:25 vim Dir_Count_test.py 
+  371  04/29/21 13:20:35 ./Dir_Count_test.py 
+  372  04/29/21 13:22:00 vim Dir_Count_test.py 
+  373  04/29/21 13:22:14 ./Dir_Count_test.py 
+  374  04/29/21 13:23:25 vim dir_funcs.py 
+  375  04/29/21 13:25:16 ./Dir_Count_test.py 
+  376  04/29/21 13:26:29 vim dir_funcs.py 
+  377  04/29/21 13:40:38 ./Dir_Count_test.py 
+  378  04/29/21 13:40:46 vim dir_funcs.py 
+  379  04/29/21 13:41:01 ./Dir_Count_test.py 
+  380  04/29/21 13:41:16 vim dir_funcs.py 
+  381  04/29/21 13:41:21 ./Dir_Count_test.py 
+  382  04/29/21 13:41:49 vim dir_funcs.py 
+  383  04/29/21 13:42:28 ./Dir_Count_test.py 
+  384  04/29/21 13:43:12 vim Dir_Count_test.py 
+  385  04/29/21 13:44:13 ./Dir_Count_test.py 
+  386  04/29/21 13:45:28 ls
+  387  04/29/21 13:45:30 git status
+  388  04/29/21 13:45:51 git add Dir_Count_test.py dir_funcs.py login.py
+  389  04/29/21 13:45:52 ls
+  390  04/29/21 13:45:55 git status
+  391  04/29/21 13:46:02 git rm pqueue.py
+  392  04/29/21 13:46:05 git status
+  393  04/29/21 13:46:22 git commint -m "directory count class"
+  394  04/29/21 13:46:27 git commit -m "directory count class"
+  395  04/29/21 13:46:32 git push -u origin
+  396  04/29/21 13:05:50 cd esc-courses/sp21-cse-20312.01/dropbox/
+  397  04/29/21 13:05:51 ls
+  398  04/29/21 13:05:58 mkdir Lec24
+  399  04/29/21 13:06:00 cd Lec24
+  400  04/29/21 13:06:08 wget https://raw.githubusercontent.com/mmorri22/sp21-cse-20312/main/Lec24/setup.sh
+  401  04/29/21 13:06:15 chmod a+rx setup.sh
+  402  04/29/21 13:06:17 ./setup.sh 
+  403  04/29/21 13:06:23 ls *
+  404  04/29/21 13:19:23 make Prob1
+  405  04/29/21 13:27:55 ls
+  406  04/29/21 13:38:17 make Prob2
+  407  04/29/21 13:47:25 ls
+  408  04/29/21 13:57:33 ./test.sh 
+  409  04/30/21 14:13:12 cd Classes/DSProject/Microsoft-Data-Structures-Project/
+  410  04/30/21 14:13:13 ls
+  411  04/30/21 14:13:14 cd ngram/
+  412  04/30/21 14:13:15 ls
+  413  04/30/21 14:13:17 ./ngram_
+  414  04/30/21 14:13:22 ./ngram_test.py 
+  415  04/30/21 14:13:26 vim ngram_test.py 
+  416  04/30/21 14:13:44 ./ngram_test.py 
+  417  04/30/21 14:13:52 history > history.txt
+  418  04/30/21 14:13:55 ./ngram_test.py history.txt 
+  419  04/30/21 14:15:23 cat history.txt 
+  420  04/30/21 14:24:46 vim ~/.vimrc 
+  421  05/02/21 11:40:59 ps
+  422  05/02/21 11:41:05 killall doit
+  423  05/02/21 10:37:30 cd Classes/cse-20289-sp21-assignments-cgillila/
+  424  05/02/21 10:37:30 ls
+  425  05/02/21 10:37:34 git branch
+  426  05/02/21 10:37:36 git checkout master
+  427  05/02/21 10:37:53 git pull --rebase
+  428  05/02/21 10:38:51 git branch
+  429  05/02/21 10:39:05 git checkout -b reading13
+  430  05/02/21 10:39:08 git branch
+  431  05/02/21 10:39:11 cd reading13
+  432  05/02/21 10:39:12 s
+  433  05/02/21 10:39:13 ls
+  434  05/02/21 10:39:21 curl -sLO https://raw.githubusercontent.com/nd-cse-20289-sp21/cse-20289-sp21-assignments/master/reading13/Makefile
+  435  05/02/21 10:39:26 curl -sLO https://raw.githubusercontent.com/nd-cse-20289-sp21/cse-20289-sp21-assignments/master/reading13/doit.c
+  436  05/02/21 10:39:27 make test
+  437  05/02/21 10:39:30 ls
+  438  05/02/21 10:39:44 git branch
+  439  05/02/21 10:39:45 ls
+  440  05/02/21 10:39:46 clear
+  441  05/02/21 10:39:56 vim answers.json
+  442  05/02/21 10:41:50 ../.scripts/check.py 
+  443  05/02/21 10:41:58 vim Makefile 
+  444  05/02/21 10:42:28 make
+  445  05/02/21 10:42:31 ls
+  446  05/02/21 10:42:37 vim Makefile 
+  447  05/02/21 10:42:44 make
+  448  05/02/21 10:42:51 vim Makefile 
+  449  05/02/21 10:42:58 make
+  450  05/02/21 10:42:59 make clean
+  451  05/02/21 10:43:00 make
+  452  05/02/21 10:43:00 ls
+  453  05/02/21 10:43:03 ./doit 
+  454  05/02/21 10:43:05 clear
+  455  05/02/21 10:43:06 make clean
+  456  05/02/21 10:43:23 vim doit.c 
+  457  05/02/21 10:52:02 man system
+  458  05/02/21 10:52:45 vim doit.c 
+  459  05/02/21 10:57:32 make test
+  460  05/02/21 10:58:13 vim doit
+  461  05/02/21 10:58:18 vim doit.c 
+  462  05/02/21 10:58:33 make test
+  463  05/02/21 10:58:38 vim doit.c 
+  464  05/02/21 10:59:45 make test
+  465  05/02/21 10:59:50 ps
+  466  05/02/21 10:59:56 vim doit.c 
+  467  05/02/21 11:00:49 man system
+  468  05/02/21 11:01:04 vim doit.c 
+  469  05/02/21 11:01:24 make test
+  470  05/02/21 11:01:33 vim doit.c 
+  471  05/02/21 11:01:40 make test
+  472  05/02/21 11:01:49 vim doit.c 
+  473  05/02/21 11:02:00 man system
+  474  05/02/21 11:02:12 vim doit.c 
+  475  05/02/21 11:02:26 make test
+  476  05/02/21 11:02:37 vim doit.c 
+  477  05/02/21 11:02:53 man system
+  478  05/02/21 11:03:09 ps
+  479  05/02/21 11:03:14 ps aux | grep cgillia
+  480  05/02/21 11:03:16 ps aux | grep cgillila
+  481  05/02/21 11:03:19 clear
+  482  05/02/21 11:03:21 make clean
+  483  05/02/21 11:03:22 ls
+  484  05/02/21 11:03:25 vim doit.c 
+  485  05/02/21 11:05:11 make test
+  486  05/02/21 11:05:17 vim doit.c 
+  487  05/02/21 11:06:08 make test
+  488  05/02/21 11:06:12 vim doit.c 
+  489  05/02/21 11:07:25 man system
+  490  05/02/21 11:14:13 vim doit.c 
+  491  05/02/21 11:14:29 make test
+  492  05/02/21 11:14:33 vim doit.c 
+  493  05/02/21 11:14:50 man execl
+  494  05/02/21 11:16:23 vim doit.c 
+  495  05/02/21 11:16:32 make test
+  496  05/02/21 11:16:36 vim doit.c 
+  497  05/02/21 11:16:42 man system
+  498  05/02/21 11:16:55 vim doit.c 
+  499  05/02/21 11:17:07 make test
+  500  05/02/21 11:17:13 vim doit.c 
+  501  05/02/21 11:18:39 make test
+  502  05/02/21 11:18:43 vim doit.c 
+  503  05/02/21 11:22:34 vim test_doit.sh 
+  504  05/02/21 11:23:03 vim doit.c 
+  505  05/02/21 11:23:29 make test
+  506  05/02/21 11:23:57 vim doit.c 
+  507  05/02/21 11:25:53 make test
+  508  05/02/21 11:25:57 vim doit.c 
+  509  05/02/21 11:29:37 make test
+  510  05/02/21 11:29:41 vim doit.c 
+  511  05/02/21 11:29:52 make test
+  512  05/02/21 11:29:56 vim doit.c 
+  513  05/02/21 11:30:15 make test
+  514  05/02/21 11:30:18 vim d .
+  515  05/02/21 11:30:27 ls
+  516  05/02/21 11:30:30 rm d
+  517  05/02/21 11:30:32 ls
+  518  05/02/21 11:30:33 vim doit.c 
+  519  05/02/21 11:31:06 make test
+  520  05/02/21 11:31:11 vim doit.c 
+  521  05/02/21 11:32:57 make test
+  522  05/02/21 11:33:01 vim doit.c 
+  523  05/02/21 11:33:09 make test
+  524  05/02/21 11:33:13 vim doit.c 
+  525  05/02/21 11:33:22 make test
+  526  05/02/21 11:33:29 vim doit.c 
+  527  05/02/21 11:33:48 make test
+  528  05/02/21 11:36:10 vim doit.c 
+  529  05/02/21 11:36:17 make test
+  530  05/02/21 11:36:24 man system
+  531  05/02/21 11:36:40 vim doit.c 
+  532  05/02/21 11:37:03 make test
+  533  05/02/21 11:37:08 ls
+  534  05/02/21 11:37:10 vim doit.c 
+  535  05/02/21 11:37:17 make test
+  536  05/02/21 11:37:30 ./doit ls
+  537  05/02/21 11:37:32 vim doit.c 
+  538  05/02/21 11:37:43 echo $%
+  539  05/02/21 11:37:49 echo %$
+  540  05/02/21 11:38:07 ./doit  sl
+  541  05/02/21 11:38:11 ./doit ls
+  542  05/02/21 11:38:34 echo $?
+  543  05/02/21 11:38:39 vim doit.c 
+  544  05/02/21 11:39:22 ./doit ls
+  545  05/02/21 11:39:24 echo $?
+  546  05/02/21 11:39:28 vim doit.c 
+  547  05/02/21 11:40:02 make
+  548  05/02/21 11:40:04 ./doit ls
+  549  05/02/21 11:40:20 echo $?
+  550  05/02/21 11:40:23 make clean
+  551  05/02/21 11:40:25 vim doit.c 
+  552  05/02/21 11:40:37 ./doit ls
+  553  05/02/21 11:40:42 make
+  554  05/02/21 11:40:45 ./doit ls
+  555  05/02/21 11:41:07 ls
+  556  05/02/21 11:41:09 ps
+  557  05/02/21 11:41:22 ps aux | grep cgillila
+  558  05/02/21 11:41:24 clear
+  559  05/02/21 11:41:27 vim doit.c 
+  560  05/02/21 11:41:49 ./doit ls
+  561  05/02/21 11:41:51 ps
+  562  05/02/21 11:41:53 kilall doit
+  563  05/02/21 11:41:54 ls
+  564  05/02/21 11:41:57 killall doit
+  565  05/02/21 11:42:12 ls 
+  566  05/02/21 11:42:17 ps aux | grep cgillila
+  567  05/02/21 11:42:26 cd Classes/cse-20289-sp21-assignments-cgillila/
+  568  05/02/21 11:42:26 ls
+  569  05/02/21 11:42:30 git branch
+  570  05/02/21 11:42:32 cd reading13
+  571  05/02/21 11:42:32 ls
+  572  05/02/21 11:42:34 vim doit.c 
+  573  05/02/21 11:42:51 make
+  574  05/02/21 11:42:54 ./doit ls
+  575  05/02/21 11:43:00 vim doit.c 
+  576  05/02/21 11:43:10 man sh
+  577  05/02/21 11:43:15 man system
+  578  05/02/21 11:43:20 vim doit.c 
+  579  05/02/21 11:43:30 make
+  580  05/02/21 11:43:32 make test
+  581  05/02/21 11:43:34 ls
+  582  05/02/21 11:43:36 ps
+  583  05/02/21 11:43:40 ./doit ls
+  584  05/02/21 11:43:51 ps
+  585  05/02/21 11:43:52 vim do.
+  586  05/02/21 11:43:54 vim doit
+  587  05/02/21 11:43:57 vim doit.c 
+  588  05/02/21 11:44:15 make
+  589  05/02/21 11:44:17 ./doit  ls
+  590  05/02/21 11:44:34 vim doit.c 
+  591  05/02/21 11:44:43 make
+  592  05/02/21 11:44:47 ./doit ls
+  593  05/02/21 11:44:54 vim doit.c 
+  594  05/02/21 11:45:01 make
+  595  05/02/21 11:45:02 ./doit ls
+  596  05/02/21 11:45:08 vim doit.c 
+  597  05/02/21 11:45:13 make
+  598  05/02/21 11:45:15 ./doit ls
+  599  05/02/21 11:45:20 vim doit.c 
+  600  05/02/21 11:45:27 make
+  601  05/02/21 11:45:43 ./doit "ls"
+  602  05/02/21 11:46:17 echo $PATH
+  603  05/02/21 11:46:33 man system
+  604  05/02/21 11:46:40 vim doit.c 
+  605  05/02/21 11:46:57 make
+  606  05/02/21 11:46:58 ./doit ls
+  607  05/02/21 11:47:06 cat /usr/bin/ls
+  608  05/02/21 11:47:09 ls
+  609  05/02/21 11:47:12 ps
+  610  05/02/21 11:47:14 clear
+  611  05/02/21 11:47:16 make clean
+  612  05/02/21 11:47:20 make 
+  613  05/02/21 11:47:21 ./doit ls
+  614  05/02/21 11:48:06 vim doit.c 
+  615  05/02/21 11:48:12 make
+  616  05/02/21 11:48:14 ./doit ls
+  617  05/02/21 11:48:17 vim doit.c 
+  618  05/02/21 11:48:28 make
+  619  05/02/21 11:48:30 ./doit ls
+  620  05/02/21 11:48:33 vim doit.c 
+  621  05/02/21 11:48:42 man system
+  622  05/02/21 11:49:59 find ls
+  623  05/02/21 11:50:04 man find
+  624  05/02/21 11:50:52 vim doit.c 
+  625  05/02/21 11:51:03 make
+  626  05/02/21 11:51:05 ./doit ls
+  627  05/02/21 11:51:10 vim doit.c 
+  628  05/02/21 11:51:21 make
+  629  05/02/21 11:51:24 ./doit ls
+  630  05/02/21 11:51:28 vim doit.c 
+  631  05/02/21 11:51:39 make
+  632  05/02/21 11:51:41 ./doit ls
+  633  05/02/21 11:51:46 vim doit.c 
+  634  05/02/21 11:52:02 ls /usr/bin
+  635  05/02/21 11:52:39 clear
+  636  05/02/21 11:52:59 vim doit.c 
+  637  05/02/21 11:53:04 make
+  638  05/02/21 11:53:06 ./doit ls
+  639  05/02/21 11:53:10 vim doit.c 
+  640  05/02/21 11:53:22 make
+  641  05/02/21 11:53:23 ./doit ls
+  642  05/02/21 11:53:26 vim doit.c 
+  643  05/02/21 11:54:18 make test
+  644  05/02/21 11:54:45 git add answers.json
+  645  05/02/21 11:54:54 git commit -m "Reading 13: Quiz"
+  646  05/02/21 11:54:57 git add Makefile
+  647  05/02/21 11:54:59 git add doit.c
+  648  05/02/21 11:55:10 git commit -m "Reading 13: Code"
+  649  05/02/21 11:55:18 git push -u origin reading13
+  650  05/02/21 11:56:56 vim doit.c 
+  651  05/02/21 11:57:12 make
+  652  05/02/21 11:57:14 ./doit ls
+  653  05/02/21 11:57:19 vim doit.c 
+  654  05/02/21 11:57:27 make
+  655  05/02/21 11:57:30 ./doit ls
+  656  05/02/21 11:57:35 make test
+  657  05/02/21 12:05:14 ls
+  658  05/02/21 12:05:15 cd ..
+  659  05/02/21 12:05:15 ls
+  660  05/02/21 12:05:19 git checkout master
+  661  05/02/21 12:05:31 cd reading13
+  662  05/02/21 12:05:32 ls
+  663  05/02/21 12:05:34 git status
+  664  05/02/21 12:05:46 git checkout -- doit.c
+  665  05/02/21 12:05:48 cd ..
+  666  05/02/21 12:05:51 ls
+  667  05/02/21 12:05:55 git checkout master
+  668  05/02/21 12:05:57 git branch
+  669  05/02/21 12:06:01 git pull --rebase
+  670  05/02/21 12:06:22 git checkout -b homework09
+  671  05/02/21 12:06:24 git branch
+  672  05/02/21 12:06:26 cd homework09
+  673  05/02/21 12:07:01 cd ..
+  674  05/02/21 12:07:09 curl -LO https://raw.githubusercontent.com/nd-cse-20289-sp21/cse-20289-sp21-assignments/master/homework09/homework09.tar.gz
+  675  05/02/21 12:07:14 tar xzvf homework09.tar.gz
+  676  05/02/21 12:07:15 ls
+  677  05/02/21 12:07:17 cd reading09
+  678  05/02/21 12:07:18 ls
+  679  05/02/21 12:07:23 vim answers.json 
+  680  05/02/21 12:07:32 ../.scripts/check.py 
+  681  05/02/21 12:07:47 cd ..
+  682  05/02/21 12:07:50 cd homework09
+  683  05/02/21 12:07:51 ls
+  684  05/02/21 12:08:00 git branch
+  685  05/02/21 12:08:04 ls *
+  686  05/02/21 12:15:49 cd ..
+  687  05/02/21 12:15:50 ls
+  688  05/02/21 12:15:52 git branch
+  689  05/02/21 12:15:57 git checkout reading13
+  690  05/02/21 12:15:58 ls
+  691  05/02/21 12:16:00 cd reading13
+  692  05/02/21 12:16:00 ls
+  693  05/02/21 12:16:02 vim doit.c 
+  694  05/02/21 12:16:22 make test
+  695  05/02/21 12:16:44 git add doit.c
+  696  05/02/21 12:16:47 make clean
+  697  05/02/21 12:17:02 git commit -m "Reading 13: Code again"
+  698  05/02/21 12:17:12 git push -u origin reading13
+  699  05/02/21 12:18:07 vim doit.c 
+  700  05/02/21 12:18:37 make test
+  701  05/02/21 12:18:45 git commit doit.c
+  702  05/02/21 12:19:05 git commit doit.c -m "Reading 13: Code"
+  703  05/02/21 12:19:09 git push -u origin
+  704  05/02/21 12:20:12 cd ..
+  705  05/02/21 12:20:16 git checkout master
+  706  05/02/21 12:20:22 git checkout homework09
+  707  05/02/21 12:20:23 ls
+  708  05/02/21 12:20:25 cd homework09
+  709  05/02/21 12:20:25 ls
+  710  05/02/21 12:24:21 vim Makefile 
+  711  05/02/21 12:25:16 ls *
+  712  05/02/21 12:25:47 vim Makefile 
+  713  05/02/21 12:31:35 ls *
+  714  05/02/21 12:31:53 make
+  715  05/02/21 12:32:03 make src/%.o
+  716  05/02/21 12:32:05 clear
+  717  05/02/21 12:32:09 make thor.o
+  718  05/02/21 12:32:11 vim Makefile 
+  719  05/02/21 12:32:21 make unit_http.o
+  720  05/02/21 12:32:27 make src/unit_http.o
+  721  05/02/21 12:32:30 car Makefile 
+  722  05/02/21 12:32:32 cat Makefile 
+  723  05/02/21 12:32:38 ls *
+  724  05/02/21 12:33:30 vim Makefile 
+  725  05/02/21 12:34:03 ls *
+  726  05/02/21 12:34:09 vim Makefile 
+  727  05/02/21 12:38:07 make
+  728  05/02/21 12:38:13 ls
+  729  05/02/21 12:38:14 ls *
+  730  05/02/21 12:38:46 make tests
+  731  05/02/21 12:38:49 make test
+  732  05/02/21 12:38:58 ls
+  733  05/02/21 12:38:59 make clean
+  734  05/02/21 12:39:01 ls
+  735  05/02/21 12:39:02 ls *
+  736  05/02/21 12:39:06 make -n
+  737  05/02/21 12:39:51 vim Makefile 
+  738  05/02/21 12:41:55 make clean
+  739  05/02/21 12:42:05 vim src/url.c 
+  740  05/03/21 18:44:21 cd esc-courses/sp21-cse-20312.01/
+  741  05/03/21 18:44:21 ls
+  742  05/03/21 18:44:22 cd dropbox/
+  743  05/03/21 18:44:23 ls
+  744  05/03/21 18:44:24 clear
+  745  05/03/21 18:44:28 cd cse-20312-sp21-cgillila/
+  746  05/03/21 18:44:28 ls
+  747  05/03/21 18:44:38 git checkout -b Lab11
+  748  05/03/21 18:44:42 mkdir Lab11
+  749  05/03/21 18:44:45 cd Lab11
+  750  05/03/21 18:44:46 ls
+  751  05/03/21 18:44:47 pwd
+  752  05/03/21 18:44:56 wget https://raw.githubusercontent.com/mmorri22/sp21-cse-20312/main/Lab11/setup.sh
+  753  05/03/21 18:45:02 chmod a+rx setup.sh
+  754  05/03/21 18:45:03 ./setup.sh 
+  755  05/03/21 18:45:33 make Prob1
+  756  05/03/21 18:45:47 make Prob2
+  757  05/03/21 18:45:56 LS
+  758  05/03/21 18:45:58 ls
+  759  05/03/21 18:46:01 vim test.sh 
+  760  05/03/21 18:46:24 vim src/SubsetSums.cpp 
+  761  05/03/21 18:48:33 ls
+  762  05/03/21 18:48:34 ./test.sh 
+  763  05/03/21 18:50:03 make SubsetSums
+  764  05/03/21 18:50:23 vim src/SubsetSums.cpp 
+  765  05/03/21 18:52:12 make SubsetSums
+  766  05/03/21 18:52:16 vim src/SubsetSums.cpp 
+  767  05/03/21 18:53:28 make SubsetSums
+  768  05/03/21 18:53:31 ./test.sh 
+  769  05/03/21 18:53:35 make clean
+  770  05/03/21 18:53:37 cd ..
+  771  05/03/21 18:53:41 git add Lab11/*
+  772  05/03/21 18:53:51 git commit -m "Lab 11 Push"
+  773  05/03/21 18:53:56 git push -u origin Lab11
+  774  05/03/21 19:16:49 cd esc-courses/sp21-cse-20312.01/dropbox/cse-20312-sp21-cgillila/Lab11
+  775  05/03/21 19:16:50 ls
+  776  05/03/21 19:16:55 ./test.sh 
+  777  05/03/21 19:16:56 clear
+  778  05/03/21 19:17:38 ./test.sh 
+  779  05/04/21 09:39:31 cd Classes/cse-20289-sp21-assignments-cgillila/
+  780  05/04/21 09:39:32 ls
+  781  05/04/21 09:39:34 git branch
+  782  05/04/21 09:39:36 cd homework09
+  783  05/04/21 09:39:36 ls
+  784  05/04/21 09:39:40 vim Makefile 
+  785  05/04/21 09:39:43 vim test
+  786  05/04/21 09:39:47 vim test.CN3xbN 
+  787  05/04/21 09:39:53 ls -l
+  788  05/04/21 09:39:58 rm test.CN3xbN 
+  789  05/04/21 09:40:00 ls
+  790  05/04/21 09:40:12 vim Makefile 
+  791  05/04/21 09:40:16 make
+  792  05/04/21 09:40:24 make clean
+  793  05/04/21 09:43:32 ls
+  794  05/04/21 09:46:52 vim src/url.c 
+  795  05/04/21 10:24:38 make test-url
+  796  05/04/21 10:24:52 vim src/url.c 
+  797  05/04/21 10:25:15 make test-url
+  798  05/04/21 10:25:44 vim src/url.c 
+  799  05/04/21 10:25:57 make test-url
+  800  05/04/21 10:26:04 vim src/url.c 
+  801  05/04/21 10:27:05 make test-url
+  802  05/04/21 10:27:30 vim src/url.c 
+  803  05/04/21 10:27:39 make test-url
+  804  05/04/21 10:28:29 vi src/socket.c 
+  805  05/04/21 10:29:27 vim include/socket.h 
+  806  05/04/21 10:29:30 vi src/socket.c 
+  807  05/04/21 10:35:12 man socket
+  808  05/04/21 10:36:02 man addrinfo
+  809  05/04/21 10:36:13 man getaddrinfo
+  810  05/04/21 10:38:13 vi src/socket.c 
+  811  05/04/21 10:39:30 man socket
+  812  05/04/21 10:39:46 vi src/socket.c 
+  813  05/04/21 10:39:55 man socket
+  814  05/04/21 10:40:03 vi src/socket.c 
+  815  05/04/21 10:41:49 make test-socket
+  816  05/04/21 10:42:01 vim src/socket.c 
+  817  05/04/21 10:42:30 make test-socket
+  818  05/04/21 10:42:32 vim src/socket.c 
+  819  05/04/21 10:42:38 make test-socket
+  820  05/04/21 10:43:07 vim src/socket.c 
+  821  05/04/21 10:44:00 make test-socket
+  822  05/04/21 10:44:20 vim src/socket.c 
+  823  05/04/21 10:44:41 man getaddrinfo
+  824  05/04/21 10:46:41 vim src/socket.c 
+  825  05/04/21 10:47:44 make test-socket
+  826  05/04/21 10:48:00 vim src/socket.c 
+  827  05/04/21 10:49:39 make test-socket
+  828  05/04/21 10:49:41 vim src/socket.c 
+  829  05/04/21 10:49:45 make test-socket
+  830  05/04/21 10:49:47 vim src/socket.c 
+  831  05/04/21 10:51:08 make test-socket
+  832  05/04/21 10:51:18 vim src/socket.c 
+  833  05/04/21 10:51:36 make test-socket
+  834  05/04/21 10:51:44 vim src/socket.c 
+  835  05/04/21 10:52:10 make test-socket
+  836  05/04/21 10:52:13 vim src/socket.c 
+  837  05/04/21 10:53:42 man getaddrinfo
+  838  05/04/21 10:55:32 vim src/socket.c 
+  839  05/04/21 10:55:52 man getaddrinfo
+  840  05/04/21 10:55:56 make test-socket
+  841  05/04/21 10:56:05 vim src/socket.c 
+  842  05/04/21 10:56:24 man getaddrinfo
+  843  05/04/21 10:56:49 vim src/socket.c 
+  844  05/04/21 11:00:58 make clean
+  845  05/04/21 11:01:01 make test-socket
+  846  05/04/21 11:01:25 vim src/socket.c 
+  847  05/04/21 11:02:05 make test-socket
+  848  05/04/21 11:02:10 vim src/socket.c 
+  849  05/04/21 11:03:04 man getaddrinfo
+  850  05/04/21 11:03:29 vim src/socket.c 
+  851  05/04/21 11:04:17 man getaddrinfo
+  852  05/04/21 11:04:55 vim src/socket.c 
+  853  05/04/21 11:06:20 make test-socket
+  854  05/04/21 11:06:25 vim src/socket.c 
+  855  05/04/21 11:06:37 make test-socket
+  856  05/04/21 11:06:39 make clean
+  857  05/04/21 11:06:41 make test-socket
+  858  05/04/21 11:06:44 make cealn
+  859  05/04/21 11:06:45 make clean
+  860  05/04/21 11:18:03 cd Classes/cse-20289-sp21-assignments-cgillila/
+  861  05/04/21 11:18:04 ls
+  862  05/04/21 11:18:06 cd homework09
+  863  05/04/21 11:18:06 ls
+  864  05/04/21 11:19:46 vim src/http.c 
+  865  05/04/21 12:44:20 cd esc-courses/sp21-cse-20312.01/dropbox/
+  866  05/04/21 12:44:50 mkdir Lec25
+  867  05/04/21 12:44:59 cd Lec25
+  868  05/04/21 12:45:00 ls
+  869  05/04/21 12:45:02 wget https://raw.githubusercontent.com/mmorri22/sp21-cse-20312/main/Lec25/setup.sh
+  870  05/04/21 12:45:08 chmod a+rx setup.sh 
+  871  05/04/21 12:45:09 ./setup.sh 
+  872  05/04/21 12:45:14 l s*
+  873  05/04/21 12:45:16 ls *
+  874  05/04/21 12:46:08 cd ../Lec24
+  875  05/04/21 12:46:09 ls
+  876  05/04/21 12:46:15 make Prob3
+  877  05/04/21 12:46:33 ./test.sh 
+  878  05/04/21 12:46:45 make Prob4
+  879  05/04/21 12:46:48 ls
+  880  05/04/21 12:47:11 vim src/TreapInsert.cpp 
+  881  05/04/21 12:47:27 vim src/InsertRandom.cpp 
+  882  05/04/21 12:57:35 make Prob5
+  883  05/04/21 12:57:39 ls
+  884  05/04/21 12:59:01 ./test.sh 
+  885  05/04/21 12:59:15 cd ../Lec25
+  886  05/04/21 12:59:17 ls
+  887  05/04/21 13:07:48 make Prob1
+  888  05/04/21 13:07:59 make Prob2
+  889  05/04/21 13:08:07 ls
+  890  05/04/21 13:08:08 ./test.sh 
+  891  05/05/21 12:18:15 cd Classes/DSProject/Microsoft-Data-Structures-Project/
+  892  05/05/21 12:18:15 ls
+  893  05/05/21 12:18:25 git pull --rebase
+  894  05/05/21 12:18:37 git pull -u origin
+  895  05/05/21 12:18:54 ls
+  896  05/05/21 12:18:55 ls *
+  897  05/05/21 12:18:58 cd ngram/
+  898  05/05/21 12:18:59 ls
+  899  05/05/21 12:20:43 ./predict.py history.txt 
+  900  05/05/21 12:21:19 vim predict.py 
+  901  05/05/21 12:24:21 ./predict.py 
+  902  05/05/21 12:24:25 vim predict.py 
+  903  05/05/21 12:24:30 ./predict.py 
+  904  05/05/21 12:24:50 vim predict.py 
+  905  05/05/21 12:26:11 vim ngram_class.py 
+  906  05/05/21 12:26:27 vim predict.py 
+  907  05/05/21 12:26:57 vim ngram_class.py 
+  908  05/05/21 12:30:08 ./ngram_test.py history.txt 
+  909  05/05/21 12:30:18 ./ngram_test.py histo
+  910  05/05/21 12:30:39 vim ngram_class.py 
+  911  05/05/21 12:30:52 ./ngram_test.py histo
+  912  05/05/21 12:31:03 vim predict.py 
+  913  05/05/21 12:31:41 ./predict.py histor
+  914  05/05/21 12:31:48 vim predict.py 
+  915  05/05/21 12:32:22 ./predict.py histor
+  916  05/05/21 12:32:39 vim predict.py 
+  917  05/05/21 12:33:05 vim ngram_class.py 
+  918  05/05/21 12:33:22 vim predict.py 
+  919  05/05/21 12:34:33 ./predict.py histro
+  920  05/05/21 12:34:41 cat %$
+  921  05/05/21 12:34:51 ./predict.py histro other file
+  922  05/05/21 12:35:02 vim predict.py 
+  923  05/05/21 12:37:34 ./predict.py 
+  924  05/05/21 12:37:40 ./predict.py histor
+  925  05/05/21 12:37:43 ./predict.py history.txt 
+  926  05/05/21 12:37:50 vim predict.py 
+  927  05/05/21 12:39:31 vim ngram_class.py 
+  928  05/05/21 12:39:43 vim predict.py 
+  929  05/05/21 12:44:38 cp predict.py ~/test/dstest/
+  930  05/05/21 12:44:45 cp ngram_class.py ~/test/dstest/
+  931  05/05/21 12:44:47 vim predict.py 
+  932  05/05/21 12:50:38 cd ..
+  933  05/05/21 12:50:39 ls
+  934  05/05/21 12:50:41 cd login/
+  935  05/05/21 12:50:42 ls
+  936  05/05/21 12:50:47 cd ..
+  937  05/05/21 12:50:51 ls
+  938  05/05/21 12:51:21 mkdir Recommendation
+  939  05/05/21 12:51:23 ls
+  940  05/05/21 12:51:27 cd login/
+  941  05/05/21 12:51:29 ls 
+  942  05/05/21 12:51:34 vim login
+  943  05/05/21 12:51:37 vim login.py 
+  944  05/05/21 12:52:01 cd ..
+  945  05/05/21 12:52:06 cd ngram/
+  946  05/05/21 12:52:07 ls
+  947  05/05/21 12:52:09 vim predict.py 
+  948  05/05/21 12:52:46 cd ..
+  949  05/05/21 12:52:52 cd Recommendation/
+  950  05/05/21 12:53:14 vim initialize.py
+  951  05/05/21 12:53:30 cd ..
+  952  05/05/21 12:53:30 ls
+  953  05/05/21 12:54:02 cd ngram/
+  954  05/05/21 12:54:02 ls
+  955  05/05/21 12:54:20 cp ngram_class.py ../Recommendation/
+  956  05/05/21 12:54:24 cd ../Recommendation/
+  957  05/05/21 12:54:24 ls
+  958  05/05/21 12:54:26 vim initialize.py 
+  959  05/05/21 12:59:06 cp ../login/login.py ./
+  960  05/05/21 12:59:08 ls
+  961  05/05/21 12:59:15 cp ../login/login_test.py ./
+  962  05/05/21 12:59:16 ls
+  963  05/05/21 12:59:19 vim login_test.py 
+  964  05/05/21 12:59:32 vim login.py 
+  965  05/05/21 12:59:50 touch login_funcs.py
+  966  05/05/21 12:59:55 vim login_test.py 
+  967  05/05/21 13:00:08 vim login_funcs.py 
+  968  05/05/21 13:00:15 vim login.py 
+  969  05/05/21 13:00:29 vim login_funcs.py 
+  970  05/05/21 13:01:45 vim login.py 
+  971  05/05/21 13:02:17 ls
+  972  05/05/21 13:02:18 vim initialize.py 
+  973  05/05/21 13:02:29 vim ngram_class.py 
+  974  05/05/21 13:03:16 ls
+  975  05/05/21 13:03:20 vim initialize.py 
+  976  05/05/21 13:05:39 vim login.py 
+  977  05/05/21 13:05:42 vim initialize.py 
+  978  05/05/21 13:07:00 vim login
+  979  05/05/21 13:07:04 vim login.py 
+  980  05/05/21 13:07:10 vim login_
+  981  05/05/21 13:07:19 mv login_test.py Login_test.py
+  982  05/05/21 13:07:20 ls
+  983  05/05/21 13:07:30 mv login.py ogin.py
+  984  05/05/21 13:07:31 ls
+  985  05/05/21 13:07:34 vim Login_test.py 
+  986  05/05/21 13:07:51 vim initialize.py 
+  987  05/05/21 13:13:12 cd ..
+  988  05/05/21 13:13:12 ls
+  989  05/05/21 13:13:14 vim login/
+  990  05/05/21 13:13:30 ls
+  991  05/05/21 13:13:31 ps
+  992  05/05/21 13:13:34 cd ngram/
+  993  05/05/21 13:13:35 ls
+  994  05/05/21 13:14:28 cp ngram_class.py ~/test/dstest/
+  995  05/05/21 13:14:41 cp predict.py ~/test/dstest/
+  996  05/05/21 13:14:41 ls
+  997  05/05/21 13:14:44 cd ..
+  998  05/05/21 13:14:47 git status
+  999  05/05/21 13:15:33 cp ngram/ngram_test.py ~/test/dstest/
+ 1000  05/05/21 13:15:35 ls
+ 1001  05/05/21 13:15:56 cd Classes/DSProject/Microsoft-Data-Structures-Project/
+ 1002  05/05/21 13:15:56 ls
+ 1003  05/05/21 13:15:59 git status
+ 1004  05/05/21 13:16:43 git checkout -- ngram/ngram_class.py ngram/ngram_test.py 
+ 1005  05/05/21 13:16:52 git add ngram/predict.py
+ 1006  05/05/21 13:16:57 git add Recommendation/*
+ 1007  05/05/21 13:16:59 git status
+ 1008  05/05/21 13:17:21 git commit -m "File holder"
+ 1009  05/05/21 13:17:25 git push -u origin
+ 1010  05/05/21 13:18:05 ls 
+ 1011  05/05/21 13:18:23 cp Recommendation/* ~/test/dstest/backup/
+ 1012  05/05/21 13:18:33 git pull -u rebase
+ 1013  05/05/21 13:18:38 git pull -u origin
+ 1014  05/05/21 13:18:50 ls
+ 1015  05/05/21 13:19:10 git status
+ 1016  05/05/21 13:20:18 git rm ngram/__pycache__/ngram.cpython-39.pyc ngram/__pycache__/ngram_class.cpython-39.pyc
+ 1017  05/05/21 13:20:24 ls
+ 1018  05/05/21 13:20:25 cd ngram/
+ 1019  05/05/21 13:20:26 ls
+ 1020  05/05/21 13:20:31 vim ngram_class.py 
+ 1021  05/05/21 13:20:39 git pull -u origing
+ 1022  05/05/21 13:20:41 git pull -u origin
+ 1023  05/05/21 13:21:07 ls
+ 1024  05/05/21 13:21:10 cd __pycache__/
+ 1025  05/05/21 13:21:11 ls
+ 1026  05/05/21 13:21:21 rm ngram_class.cpython-39.pyc 
+ 1027  05/05/21 13:21:25 rm ngram.cpython-39.pyc 
+ 1028  05/05/21 13:21:28 ls 
+ 1029  05/05/21 13:21:29 cd ..
+ 1030  05/05/21 13:21:31 ls
+ 1031  05/05/21 13:21:35 rmdir __pycache__/
+ 1032  05/05/21 13:21:36 ls
+ 1033  05/05/21 13:21:41 cd ..
+ 1034  05/05/21 13:21:45 git pull -u origin
+ 1035  05/05/21 13:22:16 ls
+ 1036  05/05/21 13:22:37 git pull -u origin 
+ 1037  05/05/21 13:22:44 cd ngram/
+ 1038  05/05/21 13:22:45 ls
+ 1039  05/05/21 13:22:54 vim ngram_
+ 1040  05/05/21 13:22:59 vim ngram_class.py 
+ 1041  05/05/21 13:23:18 cd ..
+ 1042  05/05/21 13:23:20 ls
+ 1043  05/05/21 13:23:22 cd Recommendation/
+ 1044  05/05/21 13:23:34 ls
+ 1045  05/05/21 13:23:39 vim ngram_class.py 
+ 1046  05/05/21 13:23:44 cd ..
+ 1047  05/05/21 13:23:46 cd ngram/
+ 1048  05/05/21 13:23:47 ls
+ 1049  05/05/21 13:24:18 cp ngram_class.py ../Recommendation/
+ 1050  05/05/21 13:24:24 ls ../Recommendation/
+ 1051  05/05/21 13:24:37 cp predict.py ../Recommendation/
+ 1052  05/05/21 13:24:47 cp history.txt ../Recommendation/
+ 1053  05/05/21 13:24:49 cd ../Recommendation/
+ 1054  05/05/21 13:24:50 ls
+ 1055  05/05/21 13:24:57 history > history2.txt
