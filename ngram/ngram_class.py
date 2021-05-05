@@ -39,7 +39,7 @@ def line_test(n, probabilities):
 			print(command, value)
 			break
 
-def word_test(n, probabilities):
+def word_test(n, commands, probabilities):
 	'''Tests the ngram program
 
 	Takes in the probabilities dictionary and n. Each command that is hardcoded 
@@ -48,17 +48,14 @@ def word_test(n, probabilities):
 	printed along with the probability. If the probability of the previous 
 	commands is 0, nothing is printed. NEED MUCH DATA TO MAKE THIS GOOD
 	'''
-
-	#feel free to play around with/change things 
-	command1 = "ls"
-	command2 = "make clean"
-	lcommand1 = command1.split()[0]
-	lcommand2 = command2.split()[0]
-	target = str(lcommand1) + " " + str(lcommand2) + " " 
+	target = ""
+	for command in commands:
+		target += str(command.split()[0]) + " "
 	for key, value in sorted(probabilities.items(), key=lambda k: k[1], reverse = True):
 		if target in key:
 			command = ''.join((key.split())[n])
-			print(command, value)
+			return command
+			#print(command, value)
 			break
 
 class Ngram:
