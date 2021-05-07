@@ -1,0 +1,1000 @@
+  335  04/19/21 20:41:05 make 
+  336  04/19/21 20:41:05 make test
+  337  04/19/21 20:41:05 vim library.c
+  338  04/19/21 20:41:05 make clean
+  339  04/19/21 20:41:05 make test
+  340  04/19/21 20:41:05 ls
+  341  04/19/21 20:41:05 vim test_libstr.py
+  342  04/19/21 20:41:05 vim library.c
+  343  04/19/21 20:41:05 make clean
+  344  04/19/21 20:41:05 make test
+  345  04/19/21 20:41:05 vim test_libstr.py
+  346  04/19/21 20:41:05 vim library.c
+  347  04/19/21 20:41:05 make Makefile
+  348  04/19/21 20:41:05 vim Makefile
+  349  04/19/21 20:41:05 vim library.c
+  350  04/19/21 20:41:05 cd cse-20289-sp21-assignments-dgerardi/homework07
+  351  04/19/21 20:41:05 ls
+  352  04/19/21 20:41:05 vim library.c
+  353  04/19/21 20:41:05 vim main.c
+  354  04/19/21 20:41:05 vim str.h
+  355  04/19/21 20:41:05 vim main.c
+  356  04/19/21 20:41:05 python3
+  357  04/19/21 20:41:05 clear
+  358  04/19/21 20:41:05 python3
+  359  04/19/21 20:41:05 cd cse-20289-sp21-assignments-dgerardi/homework07
+  360  04/19/21 20:41:05 ls
+  361  04/19/21 20:41:05 vim library.c
+  362  04/19/21 20:41:05 cd ~/cse-20289-sp21-assignments-dgerardi/homework07
+  363  04/19/21 20:41:05 ls
+  364  04/19/21 20:41:05 vim main.c
+  365  04/19/21 20:41:05 make test
+  366  04/19/21 20:41:05 make clean
+  367  04/19/21 20:41:05 make test
+  368  04/19/21 20:41:05 make clean
+  369  04/19/21 20:41:05 make test
+  370  04/19/21 20:41:05 make clean
+  371  04/19/21 20:41:05 make test
+  372  04/19/21 20:41:05 make clean
+  373  04/19/21 20:41:05 make test
+  374  04/19/21 20:41:05 ls
+  375  04/19/21 20:41:05 ./test_libstr.py
+  376  04/19/21 20:41:05 ./test_libstr.py -v
+  377  04/19/21 20:41:05 make clean
+  378  04/19/21 20:41:05 make 
+  379  04/19/21 20:41:05 make clean
+  380  04/19/21 20:41:05 make
+  381  04/19/21 20:41:05 make clean
+  382  04/19/21 20:41:05 make
+  383  04/19/21 20:41:05 ls
+  384  04/19/21 20:41:05 ./test_libstr.py
+  385  04/19/21 20:41:05 make clean
+  386  04/19/21 20:41:05 make
+  387  04/19/21 20:41:05 ls
+  388  04/19/21 20:41:05 ./text_libstr.py
+  389  04/19/21 20:41:05 ./test_libstr.py
+  390  04/19/21 20:41:05 w
+  391  04/19/21 20:41:05 cd ~/cse-20289-sp21-assignments-dgerardi/homework07
+  392  04/19/21 20:41:05 make clean
+  393  04/19/21 20:41:05 make
+  394  04/19/21 20:41:05 ls
+  395  04/19/21 20:41:05 ./test_libstr.py
+  396  04/19/21 20:41:05 make clean
+  397  04/19/21 20:41:05 make
+  398  04/19/21 20:41:05 ./test_libstr.py
+  399  04/19/21 20:41:05 vim library.c
+  400  04/19/21 20:41:05 make clean
+  401  04/19/21 20:41:05 make test
+  402  04/19/21 20:41:05 make clean
+  403  04/19/21 20:41:05 make test
+  404  04/19/21 20:41:05 vim Makefile
+  405  04/19/21 20:41:05 make clean
+  406  04/19/21 20:41:05 make test
+  407  04/19/21 20:41:05 ./test.sh
+  408  04/19/21 20:41:05 ./test_str.sh
+  409  04/19/21 20:41:05 clear
+  410  04/19/21 20:41:05 make test
+  411  04/19/21 20:41:05 make clean
+  412  04/19/21 20:41:05 make
+  413  04/19/21 20:41:05 echo " Hello world" | ./str-static 'aeio' '4310'
+  414  04/19/21 20:41:05 make clean
+  415  04/19/21 20:41:05 make
+  416  04/19/21 20:41:05 make clean
+  417  04/19/21 20:41:05 make
+  418  04/19/21 20:41:05 make clean
+  419  04/19/21 20:41:05 make
+  420  04/19/21 20:41:05 make test
+  421  04/19/21 20:41:05 clear
+  422  04/19/21 20:41:05 make clean
+  423  04/19/21 20:41:05 make test
+  424  04/19/21 20:41:05 clear
+  425  04/19/21 20:41:05 make clean
+  426  04/19/21 20:41:05 make test
+  427  04/19/21 20:41:05 make
+  428  04/19/21 20:41:05 make clean
+  429  04/19/21 20:41:05 make
+  430  04/19/21 20:41:05 ./test_str.sh
+  431  04/19/21 20:41:05 make
+  432  04/19/21 20:41:05 make clean
+  433  04/19/21 20:41:05 make
+  434  04/19/21 20:41:05 ./test_str.sh
+  435  04/19/21 20:41:05 clear
+  436  04/19/21 20:41:05 echo " Hello world" | ./str-static
+  437  04/19/21 20:41:05 make clean
+  438  04/19/21 20:41:05 make
+  439  04/19/21 20:41:05 echo " Hello world" | ./str-static
+  440  04/19/21 20:41:05 make clean
+  441  04/19/21 20:41:05 make
+  442  04/19/21 20:41:05 echo " Hello world" | ./str-static
+  443  04/19/21 20:41:05 make clean
+  444  04/19/21 20:41:05 make
+  445  04/19/21 20:41:05 echo " Hello world" | ./str-static
+  446  04/19/21 20:41:05 make clean
+  447  04/19/21 20:41:05 make
+  448  04/19/21 20:41:05 echo " Hello world" | ./str-static
+  449  04/19/21 20:41:05 make clean
+  450  04/19/21 20:41:05 make 
+  451  04/19/21 20:41:05 echo " Hello world" | ./str-static
+  452  04/19/21 20:41:05 make clean
+  453  04/19/21 20:41:05 make 
+  454  04/19/21 20:41:05 echo " Hello world" | ./str-static
+  455  04/19/21 20:41:05 make clean
+  456  04/19/21 20:41:05 make
+  457  04/19/21 20:41:05 make clean
+  458  04/19/21 20:41:05 make
+  459  04/19/21 20:41:05 echo " Hello world" | ./str-static
+  460  04/19/21 20:41:05 make clean
+  461  04/19/21 20:41:05 make
+  462  04/19/21 20:41:05 echo " Hello world" | ./str-static
+  463  04/19/21 20:41:05 make clean
+  464  04/19/21 20:41:05 make
+  465  04/19/21 20:41:05 echo " Hello world" | ./str-static
+  466  04/19/21 20:41:05 make clean
+  467  04/19/21 20:41:05 make 
+  468  04/19/21 20:41:05 echo " Hello world" | ./str-static
+  469  04/19/21 20:41:05 clear
+  470  04/19/21 20:41:05 make clean
+  471  04/19/21 20:41:05 make 
+  472  04/19/21 20:41:05 echo " Hello world" | ./str-static
+  473  04/19/21 20:41:05 clear
+  474  04/19/21 20:41:05 make clean
+  475  04/19/21 20:41:05 make 
+  476  04/19/21 20:41:05 make clean
+  477  04/19/21 20:41:05 make 
+  478  04/19/21 20:41:05 echo " Hello world" | ./str-static
+  479  04/19/21 20:41:05 make clean
+  480  04/19/21 20:41:05 make
+  481  04/19/21 20:41:05 echo " Hello world" | ./str-static
+  482  04/19/21 20:41:05 make clean
+  483  04/19/21 20:41:05 make
+  484  04/19/21 20:41:05 make clean
+  485  04/19/21 20:41:05 make
+  486  04/19/21 20:41:05 echo " Hello world" | ./str-static
+  487  04/19/21 20:41:05 make clean
+  488  04/19/21 20:41:05 make
+  489  04/19/21 20:41:05 echo " Hello world" | ./str-static
+  490  04/19/21 20:41:05 make clean
+  491  04/19/21 20:41:05 make
+  492  04/19/21 20:41:05 echo " Hello world" | ./str-static
+  493  04/19/21 20:41:05 make clean
+  494  04/19/21 20:41:05 make
+  495  04/19/21 20:41:05 make clean
+  496  04/19/21 20:41:05 make
+  497  04/19/21 20:41:05 make clean
+  498  04/19/21 20:41:05 make
+  499  04/19/21 20:41:05 echo " Hello world" | ./str-static
+  500  04/19/21 20:41:05 clear
+  501  04/19/21 20:41:05 make clean
+  502  04/19/21 20:41:05 make
+  503  04/19/21 20:41:05 echo " Hello world" | ./str-static
+  504  04/19/21 20:41:05 make clean
+  505  04/19/21 20:41:05 make
+  506  04/19/21 20:41:05 make clean
+  507  04/19/21 20:41:05 make
+  508  04/19/21 20:41:05 echo " Hello world" | ./str-static
+  509  04/19/21 20:41:05 ls
+  510  04/19/21 20:41:05 ./test_libstr.py
+  511  04/19/21 20:41:05 clear
+  512  04/19/21 20:41:05 make clean
+  513  04/19/21 20:41:05 make
+  514  04/19/21 20:41:05 echo " Hello world" | ./str-static
+  515  04/19/21 20:41:05 clear
+  516  04/19/21 20:41:05 make clean
+  517  04/19/21 20:41:05 make
+  518  04/19/21 20:41:05 echo " Hello world" | ./str-static
+  519  04/19/21 20:41:05 echo " Hello world" | ./str-static 'aeio' '4310'
+  520  04/19/21 20:41:05 make clean
+  521  04/19/21 20:41:05 make
+  522  04/19/21 20:41:05 echo " Hello world" | ./str-static 'aeio' '4310'
+  523  04/19/21 20:41:05 make clean
+  524  04/19/21 20:41:05 make
+  525  04/19/21 20:41:05 echo " Hello world" | ./str-static 'aeio' '4310'
+  526  04/19/21 20:41:05 make test
+  527  04/19/21 20:41:05 clear
+  528  04/19/21 20:41:05 make clean
+  529  04/19/21 20:41:05 make
+  530  04/19/21 20:41:05 make test
+  531  04/19/21 20:41:05 clear
+  532  04/19/21 20:41:05 make clean
+  533  04/19/21 20:41:05 make
+  534  04/19/21 20:41:05 make test
+  535  04/19/21 20:41:05 echo " blank space" | ./str-static -t 'aeio' '4310'
+  536  04/19/21 20:41:05 clear
+  537  04/19/21 20:41:05 make clean
+  538  04/19/21 20:41:05 make
+  539  04/19/21 20:41:05 make test
+  540  04/19/21 20:41:05 cleear
+  541  04/19/21 20:41:05 clear
+  542  04/19/21 20:41:05 make clean
+  543  04/19/21 20:41:05 make
+  544  04/19/21 20:41:05 clear
+  545  04/19/21 20:41:05 make clean
+  546  04/19/21 20:41:05 make
+  547  04/19/21 20:41:05 make test
+  548  04/19/21 20:41:05 clewar
+  549  04/19/21 20:41:05 clear
+  550  04/19/21 20:41:05 make clean
+  551  04/19/21 20:41:05 make
+  552  04/19/21 20:41:05 make test
+  553  04/19/21 20:41:05 clear
+  554  04/19/21 20:41:05 make clean
+  555  04/19/21 20:41:05 make 
+  556  04/19/21 20:41:05 make test
+  557  04/19/21 20:41:05 clear
+  558  04/19/21 20:41:05 make clean
+  559  04/19/21 20:41:05 make
+  560  04/19/21 20:41:05 make 
+  561  04/19/21 20:41:05 make clean
+  562  04/19/21 20:41:05 make
+  563  04/19/21 20:41:05 make test
+  564  04/19/21 20:41:05 clear
+  565  04/19/21 20:41:05 vim answers.json
+  566  04/19/21 20:41:05 ../.scripts/check.py
+  567  04/19/21 20:41:05 ls
+  568  04/19/21 20:41:05 make clean
+  569  04/19/21 20:41:05 ls
+  570  04/19/21 20:41:05 git add Makefile
+  571  04/19/21 20:41:05 git add library.c
+  572  04/19/21 20:41:05 git add str.h
+  573  04/19/21 20:41:05 git commit -m "homework07: Activity 1"
+  574  04/19/21 20:41:05 git add Makefile
+  575  04/19/21 20:41:05 git add main.c
+  576  04/19/21 20:41:05 git commit -m "homework07: Activity 2"
+  577  04/19/21 20:41:05 git add answers.json
+  578  04/19/21 20:41:05 git commit -m "homework07: Activity 3"
+  579  04/19/21 20:41:05 git push -u origin homework07
+  580  04/19/21 20:41:05 git branch
+  581  04/19/21 20:41:05 vim Makefile
+  582  04/19/21 20:41:05 ./test.sh
+  583  04/19/21 20:41:05 ./test_str.sh
+  584  04/19/21 20:41:05 vim Makefile
+  585  04/19/21 20:41:05 make clean
+  586  04/19/21 20:41:05 make
+  587  04/19/21 20:41:05 ./test.sh
+  588  04/19/21 20:41:05 ./test_str.sh
+  589  04/19/21 20:41:05 vim Makefile
+  590  04/19/21 20:41:05 make clean
+  591  04/19/21 20:41:05 make
+  592  04/19/21 20:41:05 ./test_str.sh
+  593  04/19/21 20:41:05 git add Makefile
+  594  04/19/21 20:41:05 git add main.c
+  595  04/19/21 20:41:05 git commit -m "homework07: Activity 2"
+  596  04/19/21 20:41:05 git push -u origin homework07
+  597  04/19/21 20:41:05 vim Makefile
+  598  04/19/21 20:41:05 make clean
+  599  04/19/21 20:41:05 make 
+  600  04/19/21 20:41:05 make test
+  601  04/19/21 20:41:05 git add Makefile
+  602  04/19/21 20:41:05 git add main.c
+  603  04/19/21 20:41:05 git commit -m "homework07: Activity 2"
+  604  04/19/21 20:41:05 git push -u origin homework07
+  605  04/19/21 20:41:05 vim Makefile
+  606  04/19/21 20:41:05 make clean
+  607  04/19/21 20:41:05 make
+  608  04/19/21 20:41:05 vim Makefile
+  609  04/19/21 20:41:05 clear
+  610  04/19/21 20:41:05 make clean
+  611  04/19/21 20:41:05 make
+  612  04/19/21 20:41:05 make test
+  613  04/19/21 20:41:05 git add Makefile
+  614  04/19/21 20:41:05 git add main.c
+  615  04/19/21 20:41:05 git commit -m "homework07: Activity 2"
+  616  04/19/21 20:41:05 git push -u origin homework07
+  617  04/19/21 20:41:05 cd cse-20289-sp21-assignments-dgerardi/homework07
+  618  04/19/21 20:41:05 ls
+  619  04/19/21 20:41:05 vim library.c
+  620  04/19/21 20:41:05 cd cse-20289-sp21-assignments-dgerardi/homework07
+  621  04/19/21 20:41:05 ls
+  622  04/19/21 20:41:05 vim library.c
+  623  04/19/21 20:41:05 vim main.c
+  624  04/19/21 20:41:05 vim ./bashrc
+  625  04/19/21 20:41:05 vim bashrc
+  626  04/19/21 20:41:05 vim .bashrc
+  627  04/12/21 15:34:46 cd esc-courses/
+  628  04/12/21 15:34:47 ls
+  629  04/12/21 15:34:56 cd sp21-cse-20312.01/
+  630  04/12/21 15:34:57 ls
+  631  04/12/21 15:34:59 cd dropbox
+  632  04/12/21 15:35:02 ls
+  633  04/12/21 15:35:17 cd cse-20312-sp21-dgerardi/
+  634  04/12/21 15:35:18 ls
+  635  04/12/21 15:35:25 git checkout Lab09
+  636  04/12/21 15:35:31 git checkout -b Lab09
+  637  04/12/21 15:35:35 mkdir Lab09
+  638  04/12/21 15:35:38 cd Lab09
+  639  04/12/21 15:35:44 wget https://raw.githubusercontent.com/mmorri22/sp21-cse-20312/main/Lab09/setup.sh
+  640  04/12/21 15:35:55 chmod a+rx setup.sh
+  641  04/12/21 15:35:58 ./setup.sh
+  642  04/12/21 15:36:04 ls *
+  643  04/12/21 15:36:46 cd src
+  644  04/12/21 15:36:47 ls
+  645  04/12/21 15:36:52 vim MaxPathSum.pp
+  646  04/12/21 15:36:59 vim MaxPathSum.cpp
+  647  04/12/21 15:40:16 make MaxPathSum
+  648  04/12/21 15:40:23 ls
+  649  04/12/21 15:40:31 make MaxPathSum
+  650  04/12/21 15:40:49 cd src
+  651  04/12/21 15:40:50 ls
+  652  04/12/21 15:40:58 vim MaxPathSum.cpp
+  653  04/12/21 15:41:32 cd ..
+  654  04/12/21 15:41:35 make MaxPathSum
+  655  04/12/21 15:41:46 cd src 
+  656  04/12/21 15:41:48 ls
+  657  04/12/21 15:41:53 vim MaxPathSum.cpp
+  658  04/12/21 15:42:10 cd ..
+  659  04/12/21 15:42:13 make MaxPathSum
+  660  04/12/21 15:45:17 make clean
+  661  04/12/21 15:45:21 cd ..
+  662  04/12/21 15:45:26 git add Lab09/*
+  663  04/12/21 15:45:34 git commit -m "Lab 09 Push"
+  664  04/12/21 15:45:42 git push -u origin Lab09
+  665  04/12/21 15:45:54 clear
+  666  04/12/21 16:18:42 history
+  667  04/12/21 16:19:20 clear
+  668  04/13/21 12:47:46 cd esc-courses/sp21-cse-20312.01/
+  669  04/13/21 12:47:47 ls
+  670  04/13/21 12:47:52 cd dropbox
+  671  04/13/21 12:47:52 ls
+  672  04/13/21 12:48:29 mkdir Lec19
+  673  04/13/21 12:48:34 cd Lec19
+  674  04/13/21 12:48:40 wget https://raw.githubusercontent.com/mmorri22/sp21-cse-20312/main/Lec19/setup.sh
+  675  04/13/21 12:48:52 chmod a+rx setup.sh
+  676  04/13/21 12:48:55 ./setup.sh
+  677  04/13/21 12:49:00 ls *
+  678  04/13/21 13:09:31 vim inc/BST.h
+  679  04/13/21 13:30:37 make testBST4
+  680  04/13/21 13:30:46 vim inc/BST.h
+  681  04/13/21 13:30:59 make testBST4
+  682  04/13/21 13:33:09 ls
+  683  04/13/21 13:33:35 make Prob2
+  684  04/13/21 13:53:25 ls
+  685  04/13/21 13:57:39 make Prob3
+  686  04/13/21 14:01:35 ./test.sh
+  687  04/14/21 16:01:08 cd cse-20289-sp21-assignments-dgerardi/
+  688  04/14/21 16:01:09 ls
+  689  04/14/21 16:01:38 cd homework08
+  690  04/14/21 16:01:44 git branch
+  691  04/14/21 16:01:52 git checkout master
+  692  04/14/21 16:01:54 git branch
+  693  04/14/21 16:02:06 git pull --rebase
+  694  04/14/21 16:02:22 git checkout -b homework08
+  695  04/14/21 16:02:28 git branch
+  696  04/14/21 16:02:38 curl -LO https://raw.githubusercontent.com/nd-cse-20289-sp21/cse-20289-sp21-assignments/master/homework08/homework08.tar.gz
+  697  04/14/21 16:02:54 tar xzvf homework08.tar.gz
+  698  04/14/21 16:03:00 ls
+  699  04/14/21 16:03:12 cd homework08
+  700  04/14/21 16:03:13 ls
+  701  04/14/21 16:03:16 ls *
+  702  04/14/21 16:05:54 vim include/macros.h
+  703  04/14/21 16:12:06 vim Makefile
+  704  04/14/21 16:39:24 clear
+  705  04/14/21 16:39:29 vim src/hash.c
+  706  04/14/21 16:28:26 cd ~/cse-20289-sp21-assignments-dgerardi/homework08/homework08
+  707  04/14/21 16:28:29 make
+  708  04/14/21 16:28:54 ls *
+  709  04/14/21 16:29:36 make clean
+  710  04/14/21 16:29:39 make
+  711  04/14/21 16:31:03 make clean
+  712  04/14/21 16:31:05 make
+  713  04/14/21 16:34:12 ls *
+  714  04/14/21 16:36:19 make clean
+  715  04/14/21 16:36:20 make
+  716  04/14/21 16:36:30 make test
+  717  04/14/21 16:36:41 make -n
+  718  04/14/21 16:37:04 make clean
+  719  04/14/21 16:37:06 make -n
+  720  04/14/21 16:39:17 make clean
+  721  04/14/21 16:39:18 make 
+  722  04/14/21 16:39:21 clear
+  723  04/14/21 17:02:49 make test-hash
+  724  04/14/21 17:03:04 make clean
+  725  04/14/21 17:03:06 make test-hash
+  726  04/14/21 17:04:36 make clean
+  727  04/14/21 17:04:37 make test-hash
+  728  04/14/21 17:06:09 make clean
+  729  04/14/21 17:06:11 make test-hash
+  730  04/14/21 17:06:26 make clean
+  731  04/14/21 17:06:27 make test-hash
+  732  04/14/21 17:06:53 make clean
+  733  04/14/21 17:06:54 make test-hash
+  734  04/14/21 17:07:35 make clean
+  735  04/14/21 17:07:37 make test-hash
+  736  04/14/21 17:08:54 make clean
+  737  04/14/21 17:08:55 make test-hash
+  738  04/14/21 20:10:20 cd cse-20289-sp21-assignments-dgerardi/
+  739  04/14/21 20:10:24 git checkout master
+  740  04/14/21 20:10:27 git pull --rebase
+  741  04/14/21 20:10:39 git checkout -b reading11
+  742  04/14/21 20:10:41 cd reading11
+  743  04/14/21 20:10:49 curl curl -LO https://raw.githubusercontent.com/nd-cse-20289-sp21/cse-20289-sp21-assignments/master/reading11/Makefile
+  744  04/14/21 20:11:00 curl curl -LO https://raw.githubusercontent.com/nd-cse-20289-sp21/cse-20289-sp21-assignments/master/reading11/walk.c
+  745  04/14/21 20:11:06 make test
+  746  04/14/21 20:11:09 ls
+  747  04/14/21 20:11:23 curl -LO https://raw.githubusercontent.com/nd-cse-20289-sp21/cse-20289-sp21-assignments/master/reading11/Makefile
+  748  04/14/21 20:11:28 curl -LO https://raw.githubusercontent.com/nd-cse-20289-sp21/cse-20289-sp21-assignments/master/reading11/walk.c
+  749  04/14/21 20:11:30 make test
+  750  04/14/21 20:11:37 ls
+  751  04/14/21 20:11:40 clear
+  752  04/14/21 20:11:44 vim answers.json
+  753  04/14/21 21:24:04 vim Makefile
+  754  04/14/21 21:30:29 ls
+  755  04/14/21 21:30:32 vim walk.c
+  756  04/14/21 21:28:18 cd cse-20289-sp21-assignments-dgerardi/reading11
+  757  04/14/21 21:28:18 ls
+  758  04/14/21 21:30:11 make clean
+  759  04/14/21 21:30:13 make
+  760  04/14/21 21:40:33 make clean
+  761  04/14/21 21:40:34 make
+  762  04/14/21 21:41:20 make clean
+  763  04/14/21 21:41:21 make
+  764  04/14/21 21:41:49 make clean
+  765  04/14/21 21:41:50 make
+  766  04/14/21 21:42:28 make clean
+  767  04/14/21 21:42:29 make
+  768  04/14/21 21:42:40 ./walk
+  769  04/14/21 21:42:55 ./ ..
+  770  04/14/21 21:43:00 ./walk ..
+  771  04/14/21 21:43:13 make test
+  772  04/14/21 21:54:25 make clean
+  773  04/14/21 21:54:26 make
+  774  04/14/21 21:54:40 make clean
+  775  04/14/21 21:54:42 make
+  776  04/14/21 21:54:59 make clean
+  777  04/14/21 21:55:00 make
+  778  04/14/21 21:55:19 make clean
+  779  04/14/21 21:55:20 make
+  780  04/14/21 21:55:43 make clean
+  781  04/14/21 21:55:44 make
+  782  04/14/21 21:55:55 make clean
+  783  04/14/21 21:55:55 make
+  784  04/14/21 21:56:13 ./walk
+  785  04/14/21 21:56:41 ./walk ..
+  786  04/14/21 21:56:45 cd ..
+  787  04/14/21 21:56:47 ls
+  788  04/14/21 21:57:04 ./walk
+  789  04/14/21 21:57:12 cd homework1
+  790  04/14/21 21:57:15 cd homework11
+  791  04/14/21 21:57:19 cd reading11
+  792  04/14/21 21:58:03 make clean
+  793  04/14/21 21:58:04 make
+  794  04/14/21 21:58:14 make clean
+  795  04/14/21 21:58:16 make
+  796  04/14/21 21:58:20 make test
+  797  04/14/21 22:16:46 clear
+  798  04/14/21 22:16:48 make clean
+  799  04/14/21 22:16:49 make
+  800  04/14/21 22:17:05 make clean
+  801  04/14/21 22:17:06 make
+  802  04/14/21 22:17:27 ./walk /etc
+  803  04/14/21 22:19:35 make clean
+  804  04/14/21 22:19:35 make
+  805  04/14/21 22:20:32 make clean
+  806  04/14/21 22:20:33 make
+  807  04/14/21 22:23:21 make clean
+  808  04/14/21 22:23:22 make
+  809  04/14/21 22:23:41 make clean
+  810  04/14/21 22:23:41 make
+  811  04/14/21 22:24:02 make clean
+  812  04/14/21 22:24:03 make
+  813  04/14/21 22:24:59 make clean
+  814  04/14/21 22:25:00 make
+  815  04/14/21 22:25:11 make clean
+  816  04/14/21 22:25:12 make
+  817  04/14/21 22:25:41 make clean
+  818  04/14/21 22:25:42 make
+  819  04/14/21 22:25:44 ./walk
+  820  04/14/21 22:25:50 make test
+  821  04/14/21 22:26:12 ../.scripts/check.py
+  822  04/14/21 22:26:17 git add answers.json
+  823  04/14/21 22:26:26 git commit -m "Reading 11: Quiz"
+  824  04/14/21 22:26:36 git add Makefile
+  825  04/14/21 22:26:39 git branch
+  826  04/14/21 22:26:43 git add walk.c
+  827  04/14/21 22:26:51 git commit -m "Reading 11: Code"
+  828  04/14/21 22:26:57 git push -u origin reading11
+  829  04/15/21 11:03:49 cd cse-20289-sp21-assignments-dgerardi/
+  830  04/15/21 11:03:50 ls
+  831  04/15/21 11:03:56 cd homework08
+  832  04/15/21 11:04:00 git checkout homework08
+  833  04/15/21 11:04:25 make clean
+  834  04/15/21 11:04:35 make test-hash
+  835  04/15/21 11:04:43 git branch
+  836  04/15/21 11:04:50 ls
+  837  04/15/21 11:04:54 cd homework08
+  838  04/15/21 11:04:56 make clean
+  839  04/15/21 11:05:01 make test-hash
+  840  04/15/21 11:11:00 make clean
+  841  04/15/21 11:11:02 make test-hash
+  842  04/15/21 11:11:37 make clean
+  843  04/15/21 11:11:38 make test-hash
+  844  04/15/21 11:15:54 make clean
+  845  04/15/21 11:15:56 make test-hash
+  846  04/15/21 11:16:13 make clean
+  847  04/15/21 11:16:14 make test-hash
+  848  04/15/21 11:16:53 ./bin/unit_hash 0
+  849  04/15/21 11:18:17 ./bin/unit_hash 1
+  850  04/15/21 11:27:10 make clean
+  851  04/15/21 11:27:13 make test-hash
+  852  04/15/21 11:27:38 make clean
+  853  04/15/21 11:27:39 make test-hash
+  854  04/15/21 11:28:13 make clean
+  855  04/15/21 11:28:14 make test-hash
+  856  04/15/21 11:06:19 cd {
+  857  04/15/21 11:06:22 clear
+  858  04/15/21 11:06:31 cd ~/cse-20289-sp21-assignments-dgerardi/homework08/homework08
+  859  04/15/21 11:07:09 ls
+  860  04/15/21 11:07:22 vim Makefile
+  861  04/15/21 11:08:07 cd src
+  862  04/15/21 11:08:09 ls
+  863  04/15/21 11:08:54 cd ..
+  864  04/15/21 11:09:00 cd inc
+  865  04/15/21 11:09:06 cd include
+  866  04/15/21 11:09:06 ls
+  867  04/15/21 11:09:15 cd ..
+  868  04/15/21 11:09:19 vim src/hash.c
+  869  04/15/21 12:46:55 cd esc-courses/
+  870  04/15/21 12:46:56 ls
+  871  04/15/21 12:47:03 cd sp21-cse-20312.01/dropbox/
+  872  04/15/21 12:47:03 ls
+  873  04/15/21 12:47:08 mkdir Lec20
+  874  04/15/21 12:47:13 cd Lec20
+  875  04/15/21 12:47:27 wget https://raw.githubusercontent.com/mmorri22/sp21-cse-20312/main/Lec20/setup.sh
+  876  04/15/21 12:47:35 chmod a+rx setup.sh
+  877  04/15/21 12:47:38 ./setup.sh
+  878  04/15/21 12:47:41 ls *
+  879  04/15/21 13:32:34 make Prob1
+  880  04/15/21 13:32:37 ls
+  881  04/15/21 13:32:40 cd ~/esc-courses/sp21-cse-20312.01/dropbox/Lec20
+  882  04/15/21 13:32:43 make Prob1
+  883  04/15/21 13:49:11 make Prob2
+  884  04/15/21 13:56:10 make Prob3
+  885  04/16/21 10:07:45 cd cse-20289-sp21-assignments-dgerardi/homework08
+  886  04/16/21 10:07:47 git branch
+  887  04/16/21 10:07:51 ls
+  888  04/16/21 10:07:55 cd homework08
+  889  04/16/21 10:07:55 ls
+  890  04/16/21 10:08:01 cd include
+  891  04/16/21 10:08:02 ls
+  892  04/16/21 10:08:06 vim hash.h
+  893  04/16/21 10:08:35 cd ..
+  894  04/16/21 10:08:40 vim src/hash.c
+  895  04/16/21 10:16:38 vim src/pair.c
+  896  04/16/21 11:17:41 make test-table
+  897  04/16/21 11:17:56 make test-pair
+  898  04/16/21 11:19:22 cd src/pair.c
+  899  04/16/21 11:19:27 vim src/pair.c
+  900  04/16/21 11:11:47 cd cse-20289-sp21-assignments-dgerardi/homework08/homework08
+  901  04/16/21 11:11:48 ls
+  902  04/16/21 11:12:11 make clean
+  903  04/16/21 11:12:12 make
+  904  04/16/21 11:12:49 make clean
+  905  04/16/21 11:12:50 make
+  906  04/16/21 11:14:03 make clean
+  907  04/16/21 11:14:04 make
+  908  04/16/21 11:14:30 make clean
+  909  04/16/21 11:14:31 make
+  910  04/16/21 11:15:00 make clean
+  911  04/16/21 11:15:01 make
+  912  04/16/21 11:15:08 make test-pair
+  913  04/16/21 11:15:54 ./bin/unit_pair 0
+  914  04/16/21 11:15:58 ls
+  915  04/16/21 11:16:01 cd bin
+  916  04/16/21 11:16:03 ls
+  917  04/16/21 11:16:10 ./test_pair.sh
+  918  04/16/21 11:16:40 cd ../tests
+  919  04/16/21 11:16:41 ls
+  920  04/16/21 11:16:51 vim unit_pair.c
+  921  04/16/21 11:20:13 make clean
+  922  04/16/21 11:20:13 make
+  923  04/16/21 11:20:16 cd ..
+  924  04/16/21 11:20:17 make clean
+  925  04/16/21 11:20:18 make
+  926  04/16/21 11:21:00 vim src/table.c
+  927  04/16/21 10:11:13 cd cse-20289-sp21-assignments-dgerardi/homework08/homework08/
+  928  04/16/21 10:11:14 ls
+  929  04/16/21 10:11:30 make clean
+  930  04/16/21 10:11:34 make test-hash
+  931  04/16/21 10:12:17 make clean
+  932  04/16/21 10:12:19 make test-hash
+  933  04/16/21 10:13:51 make clean
+  934  04/16/21 10:13:52 make test-hash
+  935  04/16/21 10:14:03 make clean
+  936  04/16/21 10:14:04 make test-hash
+  937  04/16/21 10:15:08 make clean
+  938  04/16/21 10:15:09 make test-hash
+  939  04/16/21 10:15:18 make clean
+  940  04/16/21 10:15:19 make test-hash
+  941  04/16/21 10:20:24 vim include/pair.h
+  942  04/16/21 10:49:50 make clean
+  943  04/16/21 10:49:55 make test-pair
+  944  04/16/21 10:50:25 ./bin/unit_pair
+  945  04/16/21 10:50:34 mls
+  946  04/16/21 10:50:35 ls
+  947  04/16/21 10:50:38 cd include
+  948  04/16/21 10:50:39 ls
+  949  04/16/21 10:50:53 cd ..
+  950  04/16/21 10:50:54 make clean
+  951  04/16/21 10:50:59 make test-pair
+  952  04/16/21 10:51:15 make test-hash
+  953  04/16/21 10:52:31 make clean
+  954  04/16/21 10:52:33 vim Makefile
+  955  04/16/21 10:53:15 make
+  956  04/16/21 10:55:01 make clean
+  957  04/16/21 10:55:03 make
+  958  04/16/21 10:56:44 make clean
+  959  04/16/21 10:56:45 make
+  960  04/16/21 10:57:22 cd include/pair.h
+  961  04/16/21 10:57:31 vim include/pair.h
+  962  04/16/21 10:58:18 make
+  963  04/16/21 10:58:23 make clean
+  964  04/16/21 10:58:25 make
+  965  04/16/21 10:59:22 make clean
+  966  04/16/21 10:59:23 make
+  967  04/16/21 11:00:09 make clean
+  968  04/16/21 11:00:10 make
+  969  04/16/21 11:01:27 make clean
+  970  04/16/21 11:01:28 make
+  971  04/16/21 11:03:05 make clean
+  972  04/16/21 11:03:06 make
+  973  04/16/21 11:03:50 make clean
+  974  04/16/21 11:03:51 make
+  975  04/16/21 11:04:38 make clean
+  976  04/16/21 11:04:38 make
+  977  04/16/21 11:04:44 make test-pair
+  978  04/16/21 11:05:11 vim src/hash.c
+  979  04/16/21 11:05:41 make test-hash
+  980  04/16/21 11:05:50 cd include
+  981  04/16/21 11:05:51 ls
+  982  04/16/21 11:06:08 vim pair.h
+  983  04/16/21 11:22:14 vim table.h
+  984  04/16/21 15:35:05 cd ~/cse-20289-sp21-assignments-dgerardi/homework08/homework08
+  985  04/16/21 15:53:31 make clean
+  986  04/16/21 15:53:34 make test-hash
+  987  04/16/21 15:53:53 make clean
+  988  04/16/21 15:53:54 make test-hash
+  989  04/16/21 15:54:12 make clean
+  990  04/16/21 15:54:13 make test-hash
+  991  04/16/21 15:54:37 vim src/table.c
+  992  04/16/21 15:55:12 make clean
+  993  04/16/21 15:55:15 make test-hash
+  994  04/16/21 15:55:29 vim src/table.c
+  995  04/16/21 15:55:51 make clean
+  996  04/16/21 15:55:53 make test-hash
+  997  04/16/21 16:01:44 vim src/hash.c
+  998  04/16/21 16:08:37 make clean
+  999  04/16/21 16:08:39 make test-hash
+ 1000  04/16/21 16:08:53 make clean
+ 1001  04/16/21 16:08:54 make test-hash
+ 1002  04/16/21 16:32:55 make clean
+ 1003  04/16/21 16:32:56 make test-hash
+ 1004  04/16/21 16:33:57 make clean
+ 1005  04/16/21 16:33:58 make test-hash
+ 1006  04/16/21 16:34:36 vim Makefile
+ 1007  04/16/21 16:36:26 make clean
+ 1008  04/16/21 16:36:28 make test-hash
+ 1009  04/16/21 16:38:09 ./bin/unit_hash
+ 1010  04/16/21 16:38:17 ./bin/unit_hash 0
+ 1011  04/16/21 16:38:20 ./bin/unit_hash 1
+ 1012  04/16/21 16:42:22 make clean
+ 1013  04/16/21 16:42:24 make test-hash
+ 1014  04/16/21 16:42:34 ./bin/unit_hash 1
+ 1015  04/16/21 16:43:26 make clean
+ 1016  04/16/21 16:43:27 make test-hash
+ 1017  04/16/21 16:43:37 make clean
+ 1018  04/16/21 16:43:38 make test-hash
+ 1019  04/16/21 16:44:46 make clean
+ 1020  04/16/21 16:44:47 make test-hash
+ 1021  04/16/21 16:45:58 make clean
+ 1022  04/16/21 16:46:00 make test-hash
+ 1023  04/16/21 16:46:21 make clean
+ 1024  04/16/21 16:46:22 make test-hash
+ 1025  04/16/21 15:34:38 cd cse-20289-sp21-assignments-dgerardi/homework08/homework08/
+ 1026  04/16/21 15:35:58 vim Makefile
+ 1027  04/16/21 15:40:30 clear
+ 1028  04/16/21 15:41:31 vim src/hash.c
+ 1029  04/16/21 17:06:02 cd ~/cse-20289-sp21-assignments-dgerardi/homework08/homework08
+ 1030  04/16/21 17:06:37 make clean
+ 1031  04/16/21 17:06:40 make test-pair
+ 1032  04/16/21 17:07:12 make clean
+ 1033  04/16/21 17:07:12 make test-pair
+ 1034  04/16/21 17:07:28 vim src/hash.c
+ 1035  04/16/21 17:07:56 cd include
+ 1036  04/16/21 17:07:56 ls
+ 1037  04/16/21 17:08:02 vim table.h
+ 1038  04/16/21 17:08:32 cd ..
+ 1039  04/16/21 17:08:41 make test-table
+ 1040  04/16/21 17:21:13 vim src/hash.c
+ 1041  04/16/21 17:28:40 make clean
+ 1042  04/16/21 17:28:43 make test-table
+ 1043  04/16/21 17:31:27 make clean
+ 1044  04/16/21 17:31:29 make test-table
+ 1045  04/16/21 17:39:47 make clean
+ 1046  04/16/21 17:39:49 make test-table
+ 1047  04/16/21 17:40:26 make clean
+ 1048  04/16/21 17:40:26 make test-table
+ 1049  04/16/21 17:41:45 make clean
+ 1050  04/16/21 17:41:46 make test-table
+ 1051  04/16/21 17:42:00 make clean
+ 1052  04/16/21 17:42:01 make test-table
+ 1053  04/16/21 17:49:11 vim include/table.h
+ 1054  04/16/21 18:20:47 make clean
+ 1055  04/16/21 18:20:49 make test-table
+ 1056  04/16/21 18:21:30 make clean
+ 1057  04/16/21 18:21:31 make test-table
+ 1058  04/16/21 18:22:35 make clean
+ 1059  04/16/21 18:22:36 make test-table
+ 1060  04/16/21 18:24:16 make clean
+ 1061  04/16/21 18:24:17 make test-table
+ 1062  04/16/21 18:24:36 make clean
+ 1063  04/16/21 18:24:37 make test-table
+ 1064  04/16/21 18:25:10 make clean
+ 1065  04/16/21 18:25:11 make test-table
+ 1066  04/16/21 18:25:34 ./bin/unit_table 
+ 1067  04/16/21 18:25:38 ./bin/unit_table 0
+ 1068  04/16/21 18:25:43 ./bin/unit_table 1
+ 1069  04/16/21 18:26:14 clear
+ 1070  04/16/21 17:09:16 cd cse-20289-sp21-assignments-dgerardi/homework08/homework08/
+ 1071  04/16/21 17:09:17 ls
+ 1072  04/16/21 17:11:17 vim src/table.c
+ 1073  04/16/21 17:04:04 cd ~/cse-20289-sp21-assignments-dgerardi/homework08/homework08
+ 1074  04/16/21 17:04:05 ls
+ 1075  04/16/21 17:04:09 vim Makefile
+ 1076  04/16/21 17:05:35 vim src/pair.c
+ 1077  04/16/21 17:37:06 vim include/pair.h
+ 1078  04/16/21 17:41:15 vim include/table.h
+ 1079  04/16/21 17:48:27 vim src/pair.c
+ 1080  04/16/21 18:23:07 vim include/pair.h
+ 1081  04/18/21 14:45:32 cd ~/cse-20289-sp21-assignments-dgerardi/homework08/homework08
+ 1082  04/18/21 14:45:32 ls
+ 1083  04/18/21 14:45:48 cd include
+ 1084  04/18/21 14:45:49 ls
+ 1085  04/18/21 14:47:16 vim Makefile
+ 1086  04/18/21 14:38:10 ls
+ 1087  04/18/21 14:38:24 cd cse-20289-sp21-assignments-dgerardi/homework08/homework08
+ 1088  04/18/21 14:38:25 ls
+ 1089  04/18/21 14:44:41 make test-pair
+ 1090  04/18/21 14:45:56 make test-hash
+ 1091  04/18/21 14:46:01 make test-table
+ 1092  04/18/21 14:46:29 make test-pair
+ 1093  04/18/21 14:46:46 make clean
+ 1094  04/18/21 14:46:48 make test-pair
+ 1095  04/18/21 14:46:55 make clean
+ 1096  04/18/21 14:46:59 make test-hash
+ 1097  04/18/21 14:47:26 vim Makefile
+ 1098  04/18/21 14:48:02 cd cse-20289-sp21-assignments-dgerardi/homework08/homework08
+ 1099  04/18/21 14:48:04 ls
+ 1100  04/18/21 14:48:21 vim Makefile
+ 1101  04/18/21 14:50:18 cd cse-20289-sp21-assignments-dgerardi/homework08/homework08
+ 1102  04/18/21 14:50:19 ls
+ 1103  04/18/21 14:50:25 make test-pair
+ 1104  04/18/21 14:50:33 vim Makefile
+ 1105  04/18/21 14:50:57 vim Makefile~
+ 1106  04/18/21 14:51:12 vim Makefile
+ 1107  04/18/21 14:51:24 mv Makefile~ Makefile
+ 1108  04/18/21 14:51:27 vim Makefile
+ 1109  04/18/21 14:51:33 make clean
+ 1110  04/18/21 14:51:36 make test-pair
+ 1111  04/18/21 14:52:57 clear
+ 1112  04/18/21 15:55:22 cd cse-20289-sp21-assignments-dgerardi/homework08/homework08
+ 1113  04/18/21 15:55:23 ls
+ 1114  04/18/21 16:04:13 ./bin/unit_pair 0
+ 1115  04/18/21 20:12:31 cd ~/cse-20289-sp21-assignments-dgerardi/homework08/homework08
+ 1116  04/18/21 20:12:31 ls
+ 1117  04/18/21 20:12:44 cd tests
+ 1118  04/18/21 20:12:45 ls
+ 1119  04/18/21 20:14:35 vim unit_pair.c
+ 1120  04/18/21 21:31:32 vim src/duplicates.c
+ 1121  04/18/21 21:31:42 cd .
+ 1122  04/18/21 21:31:43 cd ..
+ 1123  04/18/21 21:31:49 vim src/duplicates.c
+ 1124  04/18/21 22:36:01 vim src/pair.c
+ 1125  04/18/21 20:10:48 cd ~/cse-20289-sp21-assignments-dgerardi/homework08/homework08
+ 1126  04/18/21 20:11:21 ./bin/unit_pair
+ 1127  04/18/21 20:11:30 ./bin/unit_pair 3
+ 1128  04/18/21 20:11:48 ./bin/unit_pair 0
+ 1129  04/18/21 20:12:59 vim Makefile
+ 1130  04/18/21 20:15:00 ./bin/unit_pair 0
+ 1131  04/18/21 20:16:18 ./bin/unit_pair 2
+ 1132  04/18/21 20:21:43 ./bin/unit_pair 0
+ 1133  04/18/21 20:22:08 make clean
+ 1134  04/18/21 20:22:12 make test-pair
+ 1135  04/18/21 20:46:48 make clean
+ 1136  04/18/21 20:46:49 make test-pair
+ 1137  04/18/21 20:47:30 make clean
+ 1138  04/18/21 20:47:30 make test-pair
+ 1139  04/18/21 20:47:58 make clean
+ 1140  04/18/21 20:47:59 make test-pair
+ 1141  04/18/21 20:48:41 ./bin/unit_pair 0
+ 1142  04/18/21 20:53:15 ./bin/unit_pair 2
+ 1143  04/18/21 20:53:48 ./bin/unit_pair 3
+ 1144  04/18/21 20:58:36 make clean
+ 1145  04/18/21 20:58:44 make test-pair
+ 1146  04/18/21 21:01:37 make clean
+ 1147  04/18/21 21:01:43 make test-pair
+ 1148  04/18/21 21:01:54 ./bin/unit_pair 3
+ 1149  04/18/21 21:08:48 make test-pair
+ 1150  04/18/21 21:08:51 make clean
+ 1151  04/18/21 21:08:53 make test-pair
+ 1152  04/18/21 21:09:08 ./bin/unit_pair 2
+ 1153  04/18/21 21:09:11 ./bin/unit_pair 1
+ 1154  04/18/21 21:09:45 make clean
+ 1155  04/18/21 21:09:47 make test-pair
+ 1156  04/18/21 21:09:52 ./bin/unit_pair 1
+ 1157  04/18/21 21:10:43 make clean
+ 1158  04/18/21 21:10:45 make test-pair
+ 1159  04/18/21 21:10:58 ./bin/unit_pair 1
+ 1160  04/18/21 21:11:25 make clean
+ 1161  04/18/21 21:11:27 make test-pair
+ 1162  04/18/21 21:11:30 ./bin/unit_pair 1
+ 1163  04/18/21 21:12:26 make clean
+ 1164  04/18/21 21:12:27 make test-pair
+ 1165  04/18/21 21:12:44 make clean
+ 1166  04/18/21 21:12:46 make test-pair
+ 1167  04/18/21 21:12:50 ./bin/unit_pair 1
+ 1168  04/18/21 21:13:02 make clean
+ 1169  04/18/21 21:13:04 make test-pair
+ 1170  04/18/21 21:13:07 ./bin/unit_pair 1
+ 1171  04/18/21 21:13:24 ./bin/unit_pair 0
+ 1172  04/18/21 21:15:57 ./bin/unit_pair 3
+ 1173  04/18/21 21:16:02 ./bin/unit_pair 0
+ 1174  04/18/21 21:16:05 ./bin/unit_pair 2
+ 1175  04/18/21 21:16:09 ./bin/unit_pair 3
+ 1176  04/18/21 21:16:40 make test-pair
+ 1177  04/18/21 21:19:42 make clean
+ 1178  04/18/21 21:19:44 make test-pair
+ 1179  04/18/21 21:19:55 ./bin/unit_pair 1
+ 1180  04/18/21 21:20:19 make clean
+ 1181  04/18/21 21:20:20 make test-pair
+ 1182  04/18/21 21:20:23 ./bin/unit_pair 1
+ 1183  04/18/21 21:20:40 make clean
+ 1184  04/18/21 21:20:41 make test-pair
+ 1185  04/18/21 21:20:51 make clean
+ 1186  04/18/21 21:20:52 make test-pair
+ 1187  04/18/21 21:20:57 ./bin/unit_pair 1
+ 1188  04/18/21 21:22:47 make clean
+ 1189  04/18/21 21:22:49 make test-pair
+ 1190  04/18/21 21:22:52 ./bin/unit_pair 1
+ 1191  04/18/21 21:23:29 make clean
+ 1192  04/18/21 21:23:31 make test-pair
+ 1193  04/18/21 21:23:34 ./bin/unit_pair 1
+ 1194  04/18/21 21:24:42 make clean
+ 1195  04/18/21 21:24:44 make test-pair
+ 1196  04/18/21 21:24:47 ./bin/unit_pair 1
+ 1197  04/18/21 21:26:05 make clean
+ 1198  04/18/21 21:26:06 make test-pair
+ 1199  04/18/21 21:26:10 ./bin/unit_pair 0
+ 1200  04/18/21 21:26:58 ./bin/unit_pair 2
+ 1201  04/18/21 21:46:54 cd include
+ 1202  04/18/21 21:46:55 ls
+ 1203  04/18/21 21:47:07 cd ..
+ 1204  04/18/21 21:47:08 ls
+ 1205  04/18/21 21:47:17 cd lib
+ 1206  04/18/21 21:47:17 ls
+ 1207  04/18/21 21:47:33 cd ../include
+ 1208  04/18/21 21:47:37 vim macros.h
+ 1209  04/18/21 21:47:46 vim table.h
+ 1210  04/18/21 22:32:37 cd ..
+ 1211  04/18/21 22:32:38 make clean
+ 1212  04/18/21 22:32:44 make test-table
+ 1213  04/18/21 22:33:51 make clean
+ 1214  04/18/21 22:33:52 make test-table
+ 1215  04/18/21 22:34:11 make clean
+ 1216  04/18/21 22:34:12 make test-table
+ 1217  04/18/21 22:34:52 make clean
+ 1218  04/18/21 22:34:53 make test-table
+ 1219  04/18/21 22:37:22 make clean
+ 1220  04/18/21 22:37:23 make test-table
+ 1221  04/18/21 22:37:47 make clean
+ 1222  04/18/21 22:37:48 make test-table
+ 1223  04/18/21 22:38:06 ./bin/unit_table 0
+ 1224  04/18/21 22:38:13 ./bin/unit_table 1
+ 1225  04/18/21 22:38:18 ./bin/unit_table 2
+ 1226  04/18/21 22:38:47 make test-table
+ 1227  04/18/21 22:38:55 ./bin/unit_table 2
+ 1228  04/18/21 22:39:02 ./bin/unit_table 3
+ 1229  04/18/21 22:39:04 ./bin/unit_table 4
+ 1230  04/18/21 22:40:04 make clean
+ 1231  04/18/21 22:40:06 make test-table
+ 1232  04/18/21 22:40:21 ./bin/unit_table 5
+ 1233  04/18/21 22:40:24 ./bin/unit_table 6
+ 1234  04/18/21 22:40:27 ./bin/unit_table 5
+ 1235  04/18/21 22:40:53 make
+ 1236  04/18/21 22:41:01 make test-table
+ 1237  04/18/21 22:41:06 ./bin/unit_table 5
+ 1238  04/18/21 20:10:28 cd cse-20289-sp21-assignments-dgerardi/homework08/homework08/
+ 1239  04/18/21 20:10:52 ls
+ 1240  04/18/21 20:11:03 vim src/pair.c
+ 1241  04/18/21 21:43:08 vim src/hash.c
+ 1242  04/18/21 22:24:48 vim src/table.c
+ 1243  04/18/21 21:52:13 cd cse-20289-sp21-assignments-dgerardi/homework08/homework08
+ 1244  04/18/21 21:52:14 ls
+ 1245  04/18/21 21:52:22 vim src/pair.c
+ 1246  04/18/21 21:52:35 vim include/pair.h
+ 1247  04/18/21 22:27:33 vim src/hash.c
+ 1248  04/19/21 16:09:36 cd cse-20289-sp21-assignments-dgerardi/homework08/homework08
+ 1249  04/19/21 16:09:36 ls
+ 1250  04/19/21 16:09:48 vim src/table.c
+ 1251  04/19/21 15:59:44 cd ~/cse-20289-sp21-assignments-dgerardi/homework08/homework08
+ 1252  04/19/21 16:00:12 make clean
+ 1253  04/19/21 16:00:15 make test-pair
+ 1254  04/19/21 16:00:44 vim src/table.c
+ 1255  04/19/21 16:01:21 make clean
+ 1256  04/19/21 16:01:23 make test-pair
+ 1257  04/19/21 16:01:33 vim src/table.c
+ 1258  04/19/21 16:01:47 make clean
+ 1259  04/19/21 16:01:48 make test-pair
+ 1260  04/19/21 16:20:29 make clean
+ 1261  04/19/21 16:20:31 make test-pair
+ 1262  04/19/21 16:21:58 make clean
+ 1263  04/19/21 16:21:59 make test-pair
+ 1264  04/19/21 16:22:31 cd test
+ 1265  04/19/21 16:22:31 ls
+ 1266  04/19/21 16:22:35 cd tests
+ 1267  04/19/21 16:22:35 ls
+ 1268  04/19/21 16:22:42 vim unit_pair.c
+ 1269  04/19/21 16:27:25 cd ..
+ 1270  04/19/21 16:27:27 make clean
+ 1271  04/19/21 16:27:31 make test-pair
+ 1272  04/19/21 16:27:39 make clean
+ 1273  04/19/21 16:27:40 make test-pair
+ 1274  04/19/21 16:28:25 make clean
+ 1275  04/19/21 16:28:26 make test-pair
+ 1276  04/19/21 16:29:02 clear
+ 1277  04/19/21 16:30:07 vim src/table.c
+ 1278  04/19/21 15:59:22 cd cse-20289-sp21-assignments-dgerardi/homework08/homework08
+ 1279  04/19/21 15:59:23 ls
+ 1280  04/19/21 15:59:58 vim src/pair.c
+ 1281  04/19/21 16:38:37 cd cse-20289-sp21-assignments-dgerardi/homework08/homework08
+ 1282  04/19/21 16:38:38 ls
+ 1283  04/19/21 16:39:01 make clean
+ 1284  04/19/21 16:39:04 make test-table
+ 1285  04/19/21 16:41:12 make clean
+ 1286  04/19/21 16:41:13 make test-table
+ 1287  04/19/21 16:43:51 make clean
+ 1288  04/19/21 16:43:53 make test-table
+ 1289  04/19/21 16:44:05 make clean
+ 1290  04/19/21 16:44:07 make test-table
+ 1291  04/19/21 16:44:22 make clean
+ 1292  04/19/21 16:44:23 make test-table
+ 1293  04/19/21 16:45:05 make clean
+ 1294  04/19/21 16:45:07 make test-table
+ 1295  04/19/21 16:45:37 make clean
+ 1296  04/19/21 16:45:38 make test-table
+ 1297  04/19/21 16:46:18 make clean
+ 1298  04/19/21 16:46:19 make test-table
+ 1299  04/19/21 16:47:15 make clean
+ 1300  04/19/21 16:47:15 make test-table
+ 1301  04/19/21 16:50:47 make clean
+ 1302  04/19/21 16:50:48 make test-table
+ 1303  04/19/21 16:54:58 make clean
+ 1304  04/19/21 16:54:59 make test-table
+ 1305  04/19/21 16:56:41 make clean
+ 1306  04/19/21 16:56:42 make test-table
+ 1307  04/19/21 16:57:46 make clean
+ 1308  04/19/21 16:57:47 make test-table
+ 1309  04/19/21 16:58:25 make clean
+ 1310  04/19/21 16:58:26 make test-table
+ 1311  04/19/21 16:59:43 make clean
+ 1312  04/19/21 16:59:44 make test-table
+ 1313  04/19/21 20:41:08 cd Microsoft-Data-Structures-Project/
+ 1314  04/19/21 20:41:08 ls
+ 1315  04/19/21 20:41:12 vim history.txt
+ 1316  04/19/21 20:54:52 ls
+ 1317  04/19/21 20:54:59 chmod +x unigram.py
+ 1318  04/19/21 20:55:01 ls
+ 1319  04/19/21 20:55:04 ./unigram.py
+ 1320  04/19/21 20:55:17 ./unigram.py history.txt
+ 1321  04/19/21 20:56:03 ./unigram.py 
+ 1322  04/19/21 20:56:07 ./unigram.py history,txt
+ 1323  04/19/21 20:56:29 ./unigram.py history.txt
+ 1324  04/19/21 20:57:03 ls
+ 1325  04/19/21 21:06:03 ./unigram.py history.txt
+ 1326  04/19/21 21:06:05 ls
+ 1327  04/19/21 21:06:17 ./unigram.py history.txt
+ 1328  04/19/21 21:08:13 ./unigram.py
+ 1329  04/19/21 21:08:16 ./unigram.py hi
+ 1330  04/19/21 21:08:55 ./unigram.py history.txt
+ 1331  04/19/21 21:16:09 history > history.txt
+ 1332  04/19/21 21:16:10 ./unigram.py history.txt
+ 1333  04/19/21 21:16:49 clear
+ 1334  04/19/21 21:17:59 history > history2.txt

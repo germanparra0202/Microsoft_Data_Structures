@@ -50,6 +50,8 @@ def main():
 			sys.stdout.write("\033[F")
 			sys.stdout.write("\033[K")
 			line = input()
+			if line.strip() == "q":
+				exit()
 			prediction = line.rstrip().split()[0]
 			commands.append(prediction)
 			commands.pop(0)
@@ -68,6 +70,8 @@ def main():
 			sys.stdout.write("\033[F")
 			sys.stdout.write("\033[K")
 			line = input()
+			if line.strip() == "q":
+				exit()
 			prediction = line.rstrip().split()[0]
 		# Add most recent command to the list, and remove oldest command. Make a new 
 		# prediction based on this new list of commands
@@ -78,6 +82,8 @@ def main():
 			sys.stdout.write("\033[F")
 			sys.stdout.write("\033[K")
 			line = input()
+			if line.strip() == "q":
+				exit()
 			prediction = line.rstrip().split()[0]
 			commands.append(prediction)
 			commands.pop(0)
