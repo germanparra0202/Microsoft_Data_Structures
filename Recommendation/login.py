@@ -16,7 +16,7 @@ def main():
 	'''
 	
 	#TODO fill in path to directory containing this file
-	cwd = '/escnfs/home/cgillila/Classes/DSProject/Microsoft-Data-Structures-Project/Recommendation'
+	cwd = ''
 	
 	# Load in directory data 
 	with open(f'{cwd}/directory_data.txt', 'r') as f:

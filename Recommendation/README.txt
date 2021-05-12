@@ -8,6 +8,14 @@ The goal of this system is to improve your experience when working in your shell
 	- ngram_class.py
 	- predict.py
 	- some sort of history data, this can be multiple files
+		- We have provided several history files because they must be formatted with a date
+		  and a time. Use any of these files for the history data or add the following
+		  to the end of your .bashrc file (accessed from the home directory) to use your
+		  own history
+			- export HISTTIMEFORMAT="%m/%d/%y %T "
+		- If you are using your own history, run 
+					history > history.txt
+		  to get the file
 2) Run the initialization script with the name(s) of the history data following it
 	- ./initialize.py file1.txt file2.txt
 	a) This will prompt the user to input the name of 3 directories. If the absolute path is
@@ -21,12 +29,15 @@ The goal of this system is to improve your experience when working in your shell
 4) Type "pwd" into the command line and copy the response
 	- This should be the absolute path to the directory that all the files are stored in
 5) Open login.py to edit and paste the absolute path into the line that says "cwd=''"
-	- This is on line NUMBER and right under the comment that says #TODO
-6) Open the .profile file from your home directory and paste the same path from the login.py
+	- This is on line 19 and right under the comment that says #TODO
+6) Edit the .profile file from your home directory and paste the same path from the login.py
    script on a newline. Then put login.py at the end of the path
 	- It should look like absolute-path-to-file/login.py
 7) Now when the user logs in, the 3 directories will pop-up giving them the option to 
    immediately change to them by inputing a number or skipping it by inputting anything 
    else.
-8) ADD_./predict.py_NOTES
+8) To run the mock shell, run predict.py. This will prompt the user to input 2 commands and
+   once done, will begin giving a recommendation for the third command
+	- use n to skip the command
+	- use q to quit the mock shell
 	
