@@ -1,12 +1,15 @@
 The Recommendation System Directions
 The goal of this system is to improve your experience when working in your shell.
 
+Before following the directions listed below, it will be useful to add or append a history file that is in the same folder as the below functions.Running ./get_history.py will create a history.txt file with all of your data from the user's history log, or if that file exists, it will simply append an new data to this file. If you'd like to change the name of "history.txt", simply enter into the get_history.py file and change the hardcoded name. 
+
 1) Have a directory that contains the following files:
 	- initialize.oy
 	- login.py
 	- login_funcs.py
 	- ngram_class.py
 	- predict.py
+	- get_history.py
 	- some sort of history data, this can be multiple files
 		- We have provided several history files because they must be formatted with a date
 		  and a time. Use any of these files for the history data or add the following
