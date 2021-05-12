@@ -1,7 +1,11 @@
 The Recommendation System Directions
 The goal of this system is to improve your experience when working in your shell.
 
-Before following the directions listed below, it will be useful to add or append a history file that is in the same folder as the below functions.Running ./get_history.py will create a history.txt file with all of your data from the user's history log, or if that file exists, it will simply append an new data to this file. If you'd like to change the name of "history.txt", simply enter into the get_history.py file and change the hardcoded name. 
+Before following the directions listed below, it will be useful to add or append a history 
+file that is in the same folder as the below functions.Running ./get_history.py will create
+a history.txt file with all of your data from the user's history log, or if that file 
+exists, it will simply append an new data to this file. If you'd like to change the name 
+of "history.txt", simply enter into the get_history.py file and change the hardcoded name. 
 
 1) Have a directory that contains the following files:
 	- initialize.oy
